@@ -1,6 +1,56 @@
 {
-  "lastUpdated": "2026-08-04T11:49:38.316Z",
+  "lastUpdated": "2026-08-05T11:54:29.350Z",
   "days": [
+    {
+      "date": "2026-08-05",
+      "stories": [
+        {
+          "title": "The economic upside of Artificial Intelligence for Australia",
+          "summary": "The economic upside of Artificial Intelligence for Australia EY",
+          "category": "ai",
+          "source": "EY",
+          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNMGFvc3dsZXNFblpKdEhDR1pwTllrSzRuX21xb0xvaFF6WjhvUXVuaHNXVlFGWjZhbEF2SHhDY3h4OWlXazZfZjJOa3FnWHRTZDdvM2VGRjJmQU4zRFkwMWRfYVJEZ0JxUWgwX2pCTDB2MjhubEVvNXpuY0daU3RSUGtvTUFTVnBFaWs4?oc=5",
+          "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80",
+          "publishedAt": "Aug 5, 2026"
+        },
+        {
+          "title": "Fur Real: Biotech Startup Eliminates Major Dog Allergen in Beagle Pups Using CRISPR",
+          "summary": "Fur Real: Biotech Startup Eliminates Major Dog Allergen in Beagle Pups Using CRISPR Genetic Engineering and Biotechnology News",
+          "category": "biotech",
+          "source": "Genetic Engineering and Biotechnology News",
+          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOcWozUVdodVZJdGl3YkthNHhSVHVRLU5odUNha3luQkRSUmJHQUV2N0c1R1k4VDRQWVBDOUdveFFjWjJKRUVOcHAybUxQT2thYjFrb25NOG8wLVRNTFJIeWtHa3Rfak1IX1lRaFE2N0luWms0RWhXYldLdUhxNkUzZ1FfejhPRnB2Vl9qcDBMX0VfTnR4QWhxaUwtbm10T0xjY0I0M0M1a0F5OElMN3FQSUpMclg1ZGFRNlZmcGUtZXlYZE52UjhHbHl3SWc?oc=5",
+          "image": "https://images.unsplash.com/photo-1530026405186-ed1f139313f8?auto=format&fit=crop&w=1200&q=80",
+          "publishedAt": "Aug 5, 2026"
+        },
+        {
+          "title": "Bridging the Gap Between Robotics Design and Deployment",
+          "summary": "Bridging the Gap Between Robotics Design and Deployment Robotics & Automation News",
+          "category": "robotics",
+          "source": "Robotics & Automation News",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNV0RLaXMxZ3FzbjhEeEFaTUFPZFBnRlVWcFlsdnFIYTFUMkoxWnQ3b3N2X0R1c2pkaGFUd1cwQjNBMUM4NVoweVpSOGJVQ3hncFpFVjFqeHNkcURvOVhWWkRzbjd6clpETGpxTjF1U2FEZ1psNVk4OEZfOXNrNlRkc1FSSW5hUXZ4UXZnMm9VRi1abjIzRmY0aUlsVzM2Z1NzZ1lGaDRXWmdYaHpiVTVpcEdB?oc=5",
+          "image": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?auto=format&fit=crop&w=1200&q=80",
+          "publishedAt": "Aug 5, 2026"
+        },
+        {
+          "title": "IQM Quantum Computers Rings the Closing Bell",
+          "summary": "IQM Quantum Computers Rings the Closing Bell Nasdaq",
+          "category": "frontier",
+          "source": "Nasdaq",
+          "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5XaVViMzlySlFWMVZVcVpGZ24wZGtOdVRQZ1VCQzJLRFJ4S25wR1hlbkl6b01ZU3U4YkpDRXJwMW9sTVFDUEVGcUJSZGh0ZFU5NWpnRnpoZUtBZ0RvYlJNY3pRRkVlOFNkRDM5cWpPeXllQ0o4X1ZWS3Rn?oc=5",
+          "image": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?auto=format&fit=crop&w=1200&q=80",
+          "publishedAt": "Aug 5, 2026"
+        },
+        {
+          "title": "Artificial Intelligence Consortium minutes – June 2026",
+          "summary": "Artificial Intelligence Consortium minutes – June 2026 EIN News",
+          "category": "ai",
+          "source": "EIN News",
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOQ3FpS0NEamREVjlpa1pHT0N2d2hHMm9vVVpnYjJWdnQ2cEFOVXJIS0FER2lVOGplV0FTMFZhTERUUl91Xy1jWjhmTVpNQm9iaU5WNzBJSzQzbzVlM3ZNaEg0LVF3Z2s2TjFVcTljWmNYMjFDMUd6cVc4aUJZY1NEeTczQ0FrcFFXT19kcUVYYm1pRlhWR1VNSXJR?oc=5",
+          "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80",
+          "publishedAt": "Aug 5, 2026"
+        }
+      ]
+    },
     {
       "date": "2026-08-04",
       "stories": [
