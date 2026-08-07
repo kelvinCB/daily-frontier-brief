@@ -1,6 +1,56 @@
 {
-  "lastUpdated": "2026-08-06T11:59:35.652Z",
+  "lastUpdated": "2026-08-07T10:47:07.677Z",
   "days": [
+    {
+      "date": "2026-08-07",
+      "stories": [
+        {
+          "title": "Chinese AI model escapes UK government testing sandbox, researchers say",
+          "summary": "Chinese AI model escapes UK government testing sandbox, researchers say Anadolu Ajansı",
+          "category": "ai",
+          "source": "Anadolu Ajansı",
+          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQS2pySjFVSWYzWnpqLWx6VDRsUzFwSC0yLWZUTzNWaFdfQldSbHR3Q0xXZGxBMVZyaV9zRGlqOHVJYUZOaS14QllyN2FCNmNFTEZ6bmNjU0x3dm5Cak9uYnNFVFctVnlzbFAxTWxZNlpHVGMyRVFFVWlhVGhCSU1RRXRuV3AzVDRFdUVDb3lvaDZoWmFTX2ZTSDhkclRkRV84M0JKZERoc1Iyb25oNlJzNmVlbnBFLVMxYzZOUEszQQ?oc=5",
+          "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80",
+          "publishedAt": "Aug 7, 2026"
+        },
+        {
+          "title": "Evotec and Odyssey Therapeutics enter AI-enabled drug discovery collaboration in autoimmune and inflammatory diseases",
+          "summary": "Evotec and Odyssey Therapeutics enter AI-enabled drug discovery collaboration in autoimmune and inflammatory diseases The Pharma Letter",
+          "category": "biotech",
+          "source": "The Pharma Letter",
+          "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxOTFhhNDFxdmZXMC0xSVh4ekdfYkZ6RnUzc3FRaXVsXzhNOUY3RnI3LTRlQUFDc2lHaWl1QXpOVHhJc1ptdUZkcGdLSGh0UUFEUGZybWI0d19CQlpuSnpSVUM2Y0trcUwwZnNHaE1uMmo1akFHNDkzZWlLcTlXWTFRQ2NsT2xRMWZOaHFSQTV1Rl9XN2ZMaGt4bGJ5NUEyWW9BZ2RzdlNpdTZtSzFEUEdNZHVDMmU0a2EyODltTmxManRxUEQ3c19pYmtJMnNTaGtzb3piR05TSzlDS2poM3B3OS1ZUGNZbTRXQ01wNm4yZFpBNGJM?oc=5",
+          "image": "https://images.unsplash.com/photo-1530026405186-ed1f139313f8?auto=format&fit=crop&w=1200&q=80",
+          "publishedAt": "Aug 7, 2026"
+        },
+        {
+          "title": "Foxconn Humanoid Robot Featuring SEER Robotics Robot Brain Showcased at NVIDIA GTC 2026",
+          "summary": "Foxconn Humanoid Robot Featuring SEER Robotics Robot Brain Showcased at NVIDIA GTC 2026 openPR.com",
+          "category": "robotics",
+          "source": "openPR.com",
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQZlFyUWZ1VTR3N0FIeDZwSEVDWVNOalVvQXpSRGF6NXhKMUM2c0dJWmdEM0hDcEFZbEdNdEpiN3R6aGE1M2lIS3hYTmFoQ3ExVEc4WmtIcTc4eXBzTGVQa2VyNjlmX2phQzl2NXdFMnlITHBScm4yRzdaZmpaVXZMM1hnb1VYV3ZkTmh5dF8xLVNVRGhsaXU0N3d3?oc=5",
+          "image": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?auto=format&fit=crop&w=1200&q=80",
+          "publishedAt": "Aug 7, 2026"
+        },
+        {
+          "title": "China’s G-Gas to optimise ultra-high-purity nitrogen systems for Korean chipmakers",
+          "summary": "China’s G-Gas to optimise ultra-high-purity nitrogen systems for Korean chipmakers gasworld",
+          "category": "frontier",
+          "source": "gasworld",
+          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOb0s0bTVDWWlBendQQ0xoMzlDaVJ4OXdHWGp5dmtiLUM4RE9wcmRJcjdJTlNyNHJBU1RhbXJFbVcyblhwb01yMjdwcmlaN1NPc3RJSmkwYUVVS1M5allwYlVndmdnWkJFazh0UHBiNHBKSHo3Ri1ya05HOTZkMjlYLW9ZeS1rVFhqQWRHcVJMNVlQb2dGNTZJYk5fM3QzVnBsRURfMWRLM2gxR2YtZjFjOVE0b3pTXzNFanFXc1Z6S2NXT3U2bWF3aQ?oc=5",
+          "image": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?auto=format&fit=crop&w=1200&q=80",
+          "publishedAt": "Aug 7, 2026"
+        },
+        {
+          "title": "Canada Launches Quantum Defence Innovation Secure Hub in Calgary",
+          "summary": "Canada Launches Quantum Defence Innovation Secure Hub in Calgary The Quantum Insider",
+          "category": "frontier",
+          "source": "The Quantum Insider",
+          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPY0dHR3E4SXlVRk9sWDVFUktOVG56SWxzRkhoVmlWREx3ZFZrbnY1VmRNa2hPOEN0MGFWdnF0UjMwQ0pMMW1hLWpIcmh0QzVxbGFPOG1CNEhsb0tpQndGM3liT1lVbzNrbGhJblloQmotUHNEQUFOTm05TVFOb2NjU24xS3VZWmJiNmZIdktCbEhfY0ZvQ25reVNuWHpvVUxJOV9tYWdn?oc=5",
+          "image": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?auto=format&fit=crop&w=1200&q=80",
+          "publishedAt": "Aug 7, 2026"
+        }
+      ]
+    },
     {
       "date": "2026-08-06",
       "stories": [
