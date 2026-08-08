@@ -1,6 +1,56 @@
 {
-  "lastUpdated": "2026-08-07T10:47:07.677Z",
+  "lastUpdated": "2026-08-08T10:26:10.536Z",
   "days": [
+    {
+      "date": "2026-08-08",
+      "stories": [
+        {
+          "title": "Suspected AI use is the entertainment industry's scarlet letter",
+          "summary": "Suspected AI use is the entertainment industry's scarlet letter Axios",
+          "category": "ai",
+          "source": "Axios",
+          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPZVhHTkxYZzVmd2hFdG1EaThzeU81US1kTkY0SzhtNkI2N2pyTDZncC1yN0RBSEgzXy0teDVxRXp2NWUtS0tiUktONkVlQVRNc0JKZ2IwSmR0Mkk1Y2hzLVBSUkxiMGhDZWoxSjdyOEZpUkJHSkR1c0JLQm54ckpKZnI4amRXZHdWZHc?oc=5",
+          "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80",
+          "publishedAt": "Aug 8, 2026"
+        },
+        {
+          "title": "✂️ New CRISPR method seeks out and destroys cancer cells",
+          "summary": "✂️ New CRISPR method seeks out and destroys cancer cells warpnews.org",
+          "category": "biotech",
+          "source": "warpnews.org",
+          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOdlJVSUhrVkFoZE1nZVVYY3VjelV6UkNWNUU3WU1EYVpMbE5wYzdRbV9XdDNfUWN3RDh2YlBOX0dCMFJlZXNPeFNuU2tHSVRydXhIakJVWUh1OXpYRTZyMWlCMlBpWXBVWXFpdDYzd2ROY0RKYjNCYTFQaXhaRWEzS1F4NWpNVUt5TlNpek9YNzNjVmp1Nnc?oc=5",
+          "image": "https://images.unsplash.com/photo-1530026405186-ed1f139313f8?auto=format&fit=crop&w=1200&q=80",
+          "publishedAt": "Aug 8, 2026"
+        },
+        {
+          "title": "St. Clair College has a humanoid robot",
+          "summary": "St. Clair College has a humanoid robot Windsor News Today",
+          "category": "robotics",
+          "source": "Windsor News Today",
+          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNZ3RBVnotbm0wVWY1U210REJMS2kwTzBSaU94SjU0QlFJVzM4Mk5YWkJDeVdJNGlzVXVMOHBGb0FjeHhhWDBGZkY5bkI4eWc0ZGFua0tTeTJNay1kU1E2MU5CNVJnNEpoTURkQlRXcHRDM05qR3dWRDhLQWkwajdidTVjOThkdlhBWm5NdUg5UU96RHM?oc=5",
+          "image": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?auto=format&fit=crop&w=1200&q=80",
+          "publishedAt": "Aug 8, 2026"
+        },
+        {
+          "title": "UT Dallas hosting ‘quantum summit.' Here’s what to know",
+          "summary": "UT Dallas hosting ‘quantum summit.' Here’s what to know Dallas News",
+          "category": "frontier",
+          "source": "Dallas News",
+          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOSHkzbEpYMjVBMlpFR1dFSkdDWktITmlKeUNEUHY2Rkt1MjBMQ1ZZclBuekwyeDVycF9MTU5vNTAtZGxEYUFlYldfeDR3dXdHU1NDSDF6TDBFc0xGSmUtQ0ZSeDNkOUtxMkdOUk9iMTUtMDJrdmxxTENpMDJ4b1BhM2thNA?oc=5",
+          "image": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?auto=format&fit=crop&w=1200&q=80",
+          "publishedAt": "Aug 8, 2026"
+        },
+        {
+          "title": "SK Hynix Considers Selling Shares in Chongqing Semiconductor Plant",
+          "summary": "SK Hynix Considers Selling Shares in Chongqing Semiconductor Plant 조선일보",
+          "category": "frontier",
+          "source": "조선일보",
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNSFhMRi1zUWRyVDhtMmdrWW5oN05ZdGc3Z3ZOZ182OHlRcG1IZDNIb3NfeDV2bUIwZld2dXBzb19kOFExd2FmSWhodzZwaS1tM1g3UE9sNUtib2FvMl8zU3BtV0tFRVVPbnVaZXhOMS1wYW5yNDAxZzV2NUJ4VzMzWkQ2NW1QQ1BD?oc=5",
+          "image": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?auto=format&fit=crop&w=1200&q=80",
+          "publishedAt": "Aug 8, 2026"
+        }
+      ]
+    },
     {
       "date": "2026-08-07",
       "stories": [
