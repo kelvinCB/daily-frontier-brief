@@ -1,6 +1,56 @@
 {
-  "lastUpdated": "2026-08-08T10:26:10.536Z",
+  "lastUpdated": "2026-08-09T10:27:47.213Z",
   "days": [
+    {
+      "date": "2026-08-09",
+      "stories": [
+        {
+          "title": "OpenAI pauses Astra AI model over critical cybersecurity concerns",
+          "summary": "OpenAI pauses Astra AI model over critical cybersecurity concerns The Economic Times",
+          "category": "ai",
+          "source": "The Economic Times",
+          "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPcU0wRm10aXp6NGtuVzAyek02XzlNWUNaQVBvbjRGODVaWkFTTjYxWDdNUHZhcUYxcjRwY2pVYzUyTmtOZFNOSHFEV2twVEU5QmIyQmZSQm1rNG1NUHdqOEt0S3M2aHMzY1BaeFRFdFlVdS1xTmpWb192Vk9MakdHblF3UTAzLVdNbi1PUXYzdVJucC1lb1FFcm1YbkxHUDl6ZlB1dGNoMXhpdUVPUHNXTmtqN1BFUW1PLUdfLXNHMHp6dWc3YmtOdGhfZjFmb1hndEw4WHR0a1hHVTMyXzF6MndB0gHnAUFVX3lxTE53M3N0ZE5Sa3hRTE5Scmc2dDJEaHRaajZqNnZGTzBUZWZJbTViU29HNkozc1p1cW8tcGY5YkN2LXhseFlEOVFhZzluMWt3OFV2eFpISGZqcGI4M3JaSmVGeWtvS2hYM255WjUzWjJXMlY3WGNpbUJFd08xWFdIZHFLQlRyUURsa1Awb2xPeVJfeXM2R25FV2hjOVVTNjh2M0RjWTBrNVV6RUNMekJmTnFqckRpMkxyQXlseFdYb2dkZUZ4V0tsbFJEQVhQaXI2Qi15b1MtSUNRcTRFZmxtVm1uemVYckFvRQ?oc=5",
+          "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80",
+          "publishedAt": "Aug 9, 2026"
+        },
+        {
+          "title": "Zymeworks (NASDAQ:ZYME) Update Puts Antibody Strategy In Focus",
+          "summary": "Zymeworks (NASDAQ:ZYME) Update Puts Antibody Strategy In Focus Kalkine Media",
+          "category": "biotech",
+          "source": "Kalkine Media",
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQQWlmcDBKVmo2WUlhbU5XQ3loczJYcFJGeVZRanktSzF0RUdaR21tampCa2JjUElUeG45cUtIREVUd1RWUHhzVk1Pdi1yb0FCR2xyYzhLUDNCaWpia1ZuS2NhOXZkRkt4b0hwMkR6X0VJWmZ4Rm9zTnFGLUF2QXlXZDlaTDlVVjQxRm5UbVVBMFpkNlhXM0NGSmpIc2JIRmJEOFpWNUxqX0I?oc=5",
+          "image": "https://images.unsplash.com/photo-1530026405186-ed1f139313f8?auto=format&fit=crop&w=1200&q=80",
+          "publishedAt": "Aug 9, 2026"
+        },
+        {
+          "title": "Young robotics competitors battle for a place at national finals in Vietnam",
+          "summary": "Young robotics competitors battle for a place at national finals in Vietnam VOV World",
+          "category": "robotics",
+          "source": "VOV World",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPWm9WaVlDMUFBbWlmeHdIMXU2NWliWXZ5SVJIb3Q2QWQ2Z0J3enY2SzRWS3MzamZWTVV3WFhXNmdpOERLcEp5WWtVQmp3ZGlBRWQtV21wSmoyUEdzZ2IxNDFJeU8tNk5aMndFN0FBa0M1YXpKNkVwSUhnTUIxNG1IcHY2eXBPQmJoaEhRNFhrLWVsQVZmNjl0cDEyTXZNLWNrMDRFMlc4cWh6aVFUckIyQ1NnMA?oc=5",
+          "image": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?auto=format&fit=crop&w=1200&q=80",
+          "publishedAt": "Aug 9, 2026"
+        },
+        {
+          "title": "Chromium, Nickel Compounds Offer Quantum Material Path",
+          "summary": "Chromium, Nickel Compounds Offer Quantum Material Path quantumzeitgeist.com",
+          "category": "frontier",
+          "source": "quantumzeitgeist.com",
+          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFB4VUQySHlxcE12LXY4V2JUNUgxWE4zTGMzZnhuNjFOWmZuNW1YV0xpVm5abTVINmg1VFFHR1dwQWw3YmdVYlJFbVBrUDdGd1NFOTJ4cWhvak1oWVUyaG1QMG5QanpnUk9fQVpubXZWMVBtM1ExQjhrN0w0NTdNa28?oc=5",
+          "image": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?auto=format&fit=crop&w=1200&q=80",
+          "publishedAt": "Aug 9, 2026"
+        },
+        {
+          "title": "Eaton Wins $7M Air Force Deal To Harden Power Grids With Quantum",
+          "summary": "Eaton Wins $7M Air Force Deal To Harden Power Grids With Quantum quantumzeitgeist.com",
+          "category": "frontier",
+          "source": "quantumzeitgeist.com",
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE8zb29zTUFwYkRVbWhmcjAweEktbEktSW9TZFFHUmt3azQ0b1JzMjFEb3lfZkNYYUlULWRGUmdXYWhtTFlQd2otSWJUUi1ZcnpTbTE5MDlfR19iTXVuUDBvVWNYM3JINTJVMFpN?oc=5",
+          "image": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?auto=format&fit=crop&w=1200&q=80",
+          "publishedAt": "Aug 9, 2026"
+        }
+      ]
+    },
     {
       "date": "2026-08-08",
       "stories": [
