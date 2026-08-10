@@ -1,6 +1,56 @@
 {
-  "lastUpdated": "2026-08-09T10:27:47.213Z",
+  "lastUpdated": "2026-08-10T11:02:36.992Z",
   "days": [
+    {
+      "date": "2026-08-10",
+      "stories": [
+        {
+          "title": "Meta releases scaled-down AI model that consumers can use at home",
+          "summary": "Meta releases scaled-down AI model that consumers can use at home The Business Times",
+          "category": "ai",
+          "source": "The Business Times",
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPdEhITDE4NjNBTGc2cTFsaEZ3RjAyVUtYNl9sNHV4VjRIOGVtMlN3bFM5WmtCZVpacVlTZUhYYnhCcnMya1A2YjhGT2NpYkJxS2RNemxVcXZ2M25kMXZJbHBiTVVhbjFac3BKQXJIYVdpYmlMQ1ZEYWN4aWE3MGE4SUx5cm5GemlsTjlQQ1ppMG8xTndqVzU4Ul81X0Q5ZEVzVTBocG5Jbk1OVTRn?oc=5",
+          "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80",
+          "publishedAt": "Aug 10, 2026"
+        },
+        {
+          "title": "H.C. Wainwright Reiterates Buy Rating on Vir Biotechnology (VIR)",
+          "summary": "H.C. Wainwright Reiterates Buy Rating on Vir Biotechnology (VIR) StreetInsider",
+          "category": "biotech",
+          "source": "StreetInsider",
+          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPMGRSWHZEOUxCVWxKR1N6QWtRSl9HZzBqak9NX2d5SUppanlxV243aUkwSEZ2dWxWcXljZmpTTVdsc2pLQnMwek1HNHE1TDd4cWpGTkQ5MWp0T0JiYzlnMWlSVERGdjUxTFhWdUxBZU9TdUVlXzgyTUt0c0dtb0xBZlc1R01kZGJtdXRCVjdxaGNfRUltWl9MVHZhSzJKYjhxczN2SDQ1OU1WZGFybHFpUC1CWFd4cFVtUC1RSWVySHJTSkI4NnBzag?oc=5",
+          "image": "https://images.unsplash.com/photo-1530026405186-ed1f139313f8?auto=format&fit=crop&w=1200&q=80",
+          "publishedAt": "Aug 10, 2026"
+        },
+        {
+          "title": "SAG: Global humanoid robot shipments surge 3.7-fold in first half of 2026",
+          "summary": "SAG: Global humanoid robot shipments surge 3.7-fold in first half of 2026 Report.az",
+          "category": "robotics",
+          "source": "Report.az",
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOeFFxT2FCZUwzVHNDMW9yUEphaU8tOUE5dmN0a3g0NFBCRXZIME1BSzY5ZGdHS2tsMkNyWDVtc1pFZjdMWWJIeDNaLTFQYlU5b042dld2SGhsU0FxRlhYdzg5WDczcjd6VjdmS2lOWUx4ZkVRM3hFeWpiaDFjbWwwNUdQUU9XWlg0ZWFZZUV6YmxaV1JoU1dsVm1FaEV2UlRvZDBZUWZjZzRtU2swZUHSAbMBQVVfeXFMTWZnTnJOYWZ4cVpNRU5ycWxRdlZabTlnVjhiVzdKZnQ5ZGZmQ29TT2t3dXcydkFJbHVKZHZSS2tUZU9sSXdtY24wcWQtc1BKb1dJTWNDSXl1aDVsbUpMdUJnZkZUWFJWOFEtOGxRZWlpc3N0cUM5dUFaSTczQnBKaDVTQXNIbzBNdXNBZ0RRWkdTdzlXMXpXSGJHQjVwenI3Yy15SWFCOXprejh3VXJLN2lpMVU?oc=5",
+          "image": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?auto=format&fit=crop&w=1200&q=80",
+          "publishedAt": "Aug 10, 2026"
+        },
+        {
+          "title": "Meta releases scaled-down AI model for consumer use",
+          "summary": "Meta releases scaled-down AI model for consumer use Business Post",
+          "category": "ai",
+          "source": "Business Post",
+          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOR2x0SXBnbXVWV1lWMkdqTUJtQVUyMl80TFVmS2kyZ2ZPTzBjWktqN2ItNDBUdmhMMDZ0c0FjcE01RFJJbU9RNEloMldRQ2xFdlVTUUE4cmhiTlhDR0t0MU9uaWZpMDVsdzdzckNiSWttQl9fLXJ4UXdySlVHYkdRaGRwNllNdWl4QXE0Wkd3?oc=5",
+          "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80",
+          "publishedAt": "Aug 10, 2026"
+        },
+        {
+          "title": "Axera Semiconductor Accelerates Edge AI Push as Revenue Surges but Losses Deepen",
+          "summary": "Axera Semiconductor Accelerates Edge AI Push as Revenue Surges but Losses Deepen The Globe and Mail",
+          "category": "frontier",
+          "source": "The Globe and Mail",
+          "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxOQXNOY1FBVHh4UmFEV2piSzJJZllZUE5NYWFvLXVJc2daWFNtd0FxbG9yZ3FoNFlrMWRvalBqcldWblVLNWJvd2V6WEVRS0RBWjRYdlVtdGFIc2pVRTJlX3Q1LUhoMXpkY3JZU0VQeHRtV2JzaHlpMzd2SGctSEpUNmVDQXhWSVg2M1RueDJ6MTZrWjdYVnk0aHBwUVFySmVUbEQxRE8yTHlfUmdyWGwxNlRvTXlBWDBJWTR2RWJvc2RKUDFKSWFFbDZoNEQzaWN6RlJNX2hIV1Q3OEhEYUt1M3lLaUVsTTQ1YzF3RjhpSER2dUk?oc=5",
+          "image": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?auto=format&fit=crop&w=1200&q=80",
+          "publishedAt": "Aug 10, 2026"
+        }
+      ]
+    },
     {
       "date": "2026-08-09",
       "stories": [
