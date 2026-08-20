@@ -1,6 +1,56 @@
 {
-  "lastUpdated": "2026-08-19T10:22:21.857Z",
+  "lastUpdated": "2026-08-20T10:23:38.162Z",
   "days": [
+    {
+      "date": "2026-08-20",
+      "stories": [
+        {
+          "title": "St Francis and Sister Artificial Intelligence",
+          "summary": "St Francis and Sister Artificial Intelligence Il Sole 24 ORE",
+          "category": "ai",
+          "source": "Il Sole 24 ORE",
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNOExvMHJJZTdERE9fYmJ2WWNJSXYzcFlHMExhT3hnNXhZeWE0RVhyNm1URTVMbWZraHZ1VVNFbWxQY2lyTVJHRDJDSURaUEpxOXliMG1XUUtldE96RzdSUTVfbzc3a2JISExNRndGYnZlUGVsZjFHbDE4anNGVm9odW45emVlbHRfRmktNw?oc=5",
+          "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80",
+          "publishedAt": "Aug 20, 2026"
+        },
+        {
+          "title": "In Vivo CRISPR Medicine: From Scientific Promise to Patients at Scale",
+          "summary": "In Vivo CRISPR Medicine: From Scientific Promise to Patients at Scale CRISPR Medicine News",
+          "category": "biotech",
+          "source": "CRISPR Medicine News",
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOZ1FwWk9RSWRQRWxNOV9zMkRuWGtTQzR4ZFN5ejluSXFJZjlDdks5czNMaDQ0dU5KbnlYQnMtOXdUMVVPeWlPdDduWTJzSGRUSU51VmdnS3plMHg5UlB2Vi1tS04zOWxEbjRkdVdLaU4yYkt6VE9VR2l4RzVkcG5RSTFUNk1vZ2s2amlPV1Z0UWhhVUxhV0phWVJVX0JTQVdvbTFUSDJKWjk?oc=5",
+          "image": "https://images.unsplash.com/photo-1530026405186-ed1f139313f8?auto=format&fit=crop&w=1200&q=80",
+          "publishedAt": "Aug 20, 2026"
+        },
+        {
+          "title": "Unitree shares surge 460% on debut, spotlighting China's humanoid robot ambitions",
+          "summary": "Unitree shares surge 460% on debut, spotlighting China's humanoid robot ambitions ANI News",
+          "category": "robotics",
+          "source": "ANI News",
+          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNcFllM0t4QUpQTEdkRzRHSGxiWFNYbko3c011amIyTDltVW5COXh5VkR4WHRSczFDb0FXWHQtRXRYbk8wMXNtUXp3VGNsaVlxRWlnbjY4R0lNQ1hfRHJnU1ZfMVRrYlRTT0ZnVjVObXBCXzFLWW1ybEt6dzc3cTdVTUF1VWUzNExCZzVpWUZkeTQzV0hFekM1ODNtNEVRZVBxc3VtalpVemdPZmIwTzQ2d1VIUmhrUVdfaEpGUy1VMkFXSXc?oc=5",
+          "image": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?auto=format&fit=crop&w=1200&q=80",
+          "publishedAt": "Aug 20, 2026"
+        },
+        {
+          "title": "Trade Alert: Chief Operating Officer Of indie Semiconductor Michael Wittmann Has Sold Stock",
+          "summary": "Trade Alert: Chief Operating Officer Of indie Semiconductor Michael Wittmann Has Sold Stock simplywall.st",
+          "category": "frontier",
+          "source": "simplywall.st",
+          "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOTEt1MzJydEdCQ3ZZRjdZa0M4T1J6bkkzeDZ0Wm4xQkRYWUpxc2tHbGt0REJ3M1NJMHF6a2p2el9HUFFWMEJaSnhXa0lLeGdhUm91Y1VydUpTQlBhM0hqNEZUZG1aS0NXNk1jSUo1bmxZVUFJVXo0d25DS3puUnkyX215cW5XZ3V0MTcyUl91MEZocHdCT1VobmZvY3dIRnBveS0tWUI2a1Fxc1hkVTZSZFhIZHFzQzFmMjh6d3RZcjV1UHpYZmxaSUdCVXE0dlpuY3Vuam51VVhEXzZp0gHiAUFVX3lxTE9FRlo4NHZOdnZPNlFEcTNaUVYyZXVOTlVzeHdTd1hEcThWMVMzVDZ1cGhlby1QSTJiOTlveGxlbmVTM0FfdjJOcHY5RnNHOU5RWHc4WEFPOU9vN1pSRDRlRDA2M3RzX1dtXzFrMmd5X09iS1A4czZhZjRkRnR4NW9SSnhWallzVjR6OVpaTVU1MWNHR2Zrc1hpVDhPX09CXzVQUFQ5bzM0WHhROHp6YzhuU3pvSjVFRTEyQ1lTQjBPaW1VM2VIbnhkRmFkaDFLd3E3Qm15dlBPM05nQUgwRGR0ZEE?oc=5",
+          "image": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?auto=format&fit=crop&w=1200&q=80",
+          "publishedAt": "Aug 20, 2026"
+        },
+        {
+          "title": "ITRI Releases Legged Robot Testing Standards, Covering Humanoid Robots to Accelerate Commercialization",
+          "summary": "ITRI Releases Legged Robot Testing Standards, Covering Humanoid Robots to Accelerate Commercialization finance.biggo.com",
+          "category": "robotics",
+          "source": "finance.biggo.com",
+          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBVamlIaGFFSWE4YTBOMzZVeHNDOEl6Q0N4Q3VSZ3ZBdUpXYk85UEYzY2dLUDg1WVEzanVJYzBWUWhoLXh4RjBrd0J2dzhMSzU3Y01NZ1R0c2VJZFRZeFpNRnRXZlpablFtZnNUa2VvMTBnT09fVlE?oc=5",
+          "image": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?auto=format&fit=crop&w=1200&q=80",
+          "publishedAt": "Aug 20, 2026"
+        }
+      ]
+    },
     {
       "date": "2026-08-19",
       "stories": [
