@@ -1,6 +1,56 @@
 {
-  "lastUpdated": "2026-08-23T10:17:19.437Z",
+  "lastUpdated": "2026-08-24T10:32:18.019Z",
   "days": [
+    {
+      "date": "2026-08-24",
+      "stories": [
+        {
+          "title": "INTIC engages Mozambican AI Association to promote national artificial intelligence strategy",
+          "summary": "INTIC engages Mozambican AI Association to promote national artificial intelligence strategy Tech Review Africa",
+          "category": "ai",
+          "source": "Tech Review Africa",
+          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOVjlhTDFXMXZtcmNpaWhQUzBTempWOUdqRGdEb3otM0RoMnl0VVY5WVUtM1ZPNkVZdDd2ajc2bnNmVGlZeVZ5b1poYmxQUHJJVTh6T1N6LTZYSFNqLTQzaV82NkM4MVlIbHRPTkdNdk1uQU5UQ1lpbktUNnRUYnpDUTk1UktEWWdqWG5sMkhsdFNLdkF4dFA5dk81a0ZocWlPQ3U2TWRxN1dqYWtnWjhEX0JoY242a045WE13UFBwMm13dGJZT25neVFPTQ?oc=5",
+          "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80",
+          "publishedAt": "Aug 24, 2026"
+        },
+        {
+          "title": "How Evogene is Putting AI Agents to Work on Small-Molecule Discovery",
+          "summary": "How Evogene is Putting AI Agents to Work on Small-Molecule Discovery Technology Org",
+          "category": "biotech",
+          "source": "Technology Org",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNellmN1pxaERaR0huaTFpeHp2VGJoendqWlZNX1lIcEZNWXdkY1l1U1pzaHJVRmVqZjctMWdWdGhIX1FKbkZsbV9hVThMeWtKdmNadF8wc2VwUEhxQUFtRFpkbi00blZzbkwxcXgzVXNSZUJHZEg4ZUxZdW5iOEg2SDNrRnpFckhhZlJsVkFYNURNNUl6ZEJWWGg5RmlhS2tIQTlGWHQwM0l1TTQ?oc=5",
+          "image": "https://images.unsplash.com/photo-1530026405186-ed1f139313f8?auto=format&fit=crop&w=1200&q=80",
+          "publishedAt": "Aug 24, 2026"
+        },
+        {
+          "title": "Video: Chinese Robot Beats Usain Bolt’s 100-Meter Record",
+          "summary": "Video: Chinese Robot Beats Usain Bolt’s 100-Meter Record The New York Times",
+          "category": "robotics",
+          "source": "The New York Times",
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQempkZWgxNGJkaUxmSTZtNXhacFAtcXlwbTJWaEdKeWl3ZTVGeTY1VzloUEM4OElaSXRiR0llZHdRZW04NlBKTmxvM0VfN1hkeHZMRVB0cVV0anlDVmg4N3dfcmZULS1RSFpuWXNLN3cwaEZYVmhvczBublFRbzhiQmlleGNRYzVrSEtxaW1NRnp1TDA1ekE1ZGNUUDE1TWRrTTlEZW1vNW9Fc3h2?oc=5",
+          "image": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?auto=format&fit=crop&w=1200&q=80",
+          "publishedAt": "Aug 24, 2026"
+        },
+        {
+          "title": "Cylinder-Mounted Regulators Market Growth Driven by Semiconductor Fabs Through 2035 - News and Statistics",
+          "summary": "Cylinder-Mounted Regulators Market Growth Driven by Semiconductor Fabs Through 2035 - News and Statistics IndexBox",
+          "category": "frontier",
+          "source": "IndexBox",
+          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOZDJJRTRhVEJCS05GLTRWSW9FNHYwM2RXVjhuNEZfcWItdVdNX0VUN0U0dzNkWkF6YndHWTRYMVhjQ0NZSlloYnRzT05HRzBOcWtrZmoxM1VqLTJZUG0wd25WQUk5cW05UUlRb2ZBZ0NFa0p1WDQ5YXA1MWtBV21CRFlZMkJxNDNidjJWZl9DMFVRM2JfYzNXbnBXelRYdlM1VnlCbllJM1NEcTNtVk5fQXlfOG9aOVpsS2xuWjFFX2ZrNzla?oc=5",
+          "image": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?auto=format&fit=crop&w=1200&q=80",
+          "publishedAt": "Aug 24, 2026"
+        },
+        {
+          "title": "Intel flags robotics readiness gap as robot fleets expand ...",
+          "summary": "Intel flags robotics readiness gap as robot fleets expand ... eeNews Europe",
+          "category": "robotics",
+          "source": "eeNews Europe",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQbDNpWWlWY1ZJa1ZyYmtFeWpMS0ZmdDlqV2ZCblIxNGtMQWNEMk5YXzNxdU5zM20zTDVvUzJiajFmT3R6Y0FEanNtS2V3bmRnUGNUTzhPTl8xZklfbzdlUzZneXBveGFvNTVIVXNtZlhrRUNsYWZDZ2ZMNjNrVlBpMHVBc0VPRDhWcWw0b3RsdllTakRh?oc=5",
+          "image": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?auto=format&fit=crop&w=1200&q=80",
+          "publishedAt": "Aug 24, 2026"
+        }
+      ]
+    },
     {
       "date": "2026-08-23",
       "stories": [
