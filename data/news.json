@@ -1,6 +1,56 @@
 {
-  "lastUpdated": "2026-08-25T10:25:26.535Z",
+  "lastUpdated": "2026-08-26T10:29:30.339Z",
   "days": [
+    {
+      "date": "2026-08-26",
+      "stories": [
+        {
+          "title": "Accelerated Understanding Unveils AI Model That Processes 5 Trillion Data Units",
+          "summary": "Accelerated Understanding Unveils AI Model That Processes 5 Trillion Data Units Межа. Новини України.",
+          "category": "ai",
+          "source": "Межа. Новини України.",
+          "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1CT1FEWUpWRkwwbjVpLU9pbk5iUExFallVeHB0QlhuaEVSWXBRekRyeU4yblo0S0U1bHllNm1XcU9uZWl4YWxDeXFRVHlkZDhUeU9Nc1VCcVdJcWZ5RFVQUV9yZzJ6OHhNR2dEZkJqMWo4SXB6blBwT3l4TQ?oc=5",
+          "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80",
+          "publishedAt": "Aug 26, 2026"
+        },
+        {
+          "title": "UNCOVERseq exposes off-targets missed by established standards",
+          "summary": "UNCOVERseq exposes off-targets missed by established standards CRISPR Medicine News",
+          "category": "biotech",
+          "source": "CRISPR Medicine News",
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPUk1YWFlvanBnbWVRZXhwWDhPbEVVUWtyN2lTYXRJQlltb0pTc2pDaDF6dnV5bkpNMURDMkJCY1hVUFlHZG5Ob0xkdVRMc05FSnA3Umx6Zm5LRi1pcmJkUWZ2a0xlMU0zbUxsWkQ5WUtRaFVHM3BucFlXS0FuTUZIUjJMYVdkbFJOVVFFUlFOV21xaEI5enAwZXhfU2JfNV9t?oc=5",
+          "image": "https://images.unsplash.com/photo-1530026405186-ed1f139313f8?auto=format&fit=crop&w=1200&q=80",
+          "publishedAt": "Aug 26, 2026"
+        },
+        {
+          "title": "Robot dogs are here and they're cheap, Canada, but their software still needs a human and their security has flaws",
+          "summary": "Robot dogs are here and they're cheap, Canada, but their software still needs a human and their security has flaws National Post",
+          "category": "robotics",
+          "source": "National Post",
+          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOc2I5TlVaV2RJbTA1WEdvVDR3bHNISzhNOTlsdGRCNWhPRVc3NUQwVE1MaEpGNm5ZSDFJeER0U0RhZ0lta2FZN1pNTkJfYXNfVE1BTk1ZUENNVGlsVTh1dXJrYnNJTEVSMWhuc0VEWlloQkhET3dkLWdOUlQybmxodkFOOU81Qmlxb01QUDQyRjVqM0U?oc=5",
+          "image": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?auto=format&fit=crop&w=1200&q=80",
+          "publishedAt": "Aug 26, 2026"
+        },
+        {
+          "title": "Atomic layer etching brings ‘cutting-edge’ method to semiconductor nanofabrication",
+          "summary": "Atomic layer etching brings ‘cutting-edge’ method to semiconductor nanofabrication AIP.ORG",
+          "category": "frontier",
+          "source": "AIP.ORG",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPbzBQZVdtRGp4S3F2TEU1VFE3MFFTMGVKd0xVRjEwWFhCVnBkYk9PaHpPTlRkQnlBb0hqZ2JTT0k3Ry1HOVBieGRYWDR1dVJnaWhMS0xGYXIyZUY3Y3BkT3NCQ3AzelQ2VGw3SmJjcWQ5NWVnYktkeVAzUjRpRjRGMFpPOGlqREx4bFdSd1BNYUFlc3BTMDhBVFFVWUlSVGF0Z19XOWhXNTB4bzdCTFdB?oc=5",
+          "image": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?auto=format&fit=crop&w=1200&q=80",
+          "publishedAt": "Aug 26, 2026"
+        },
+        {
+          "title": "How will identity security work in a post-quantum world?",
+          "summary": "How will identity security work in a post-quantum world? THINK Digital Partners",
+          "category": "frontier",
+          "source": "THINK Digital Partners",
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPUTEtNW9yR1hITFpKZDlUOEdpN2NrbHV0UzlKWC0wVnFRUUxmemxUVENiSTF0ay0zVGFkOW5XZGNNMmxweVBnTkdSR002Mi1felcwalJadkprYlhkWmdxSDQ4Y0FqcWlESGJlX3pkYW95a2lIM1FVaHNHN0JrQkVGekZxNnlaZkM4enZnNHBQMkhjVDRnZ2pPOXg4cXdDVXNmMUpwRGc5WVBNdGR4OVE?oc=5",
+          "image": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?auto=format&fit=crop&w=1200&q=80",
+          "publishedAt": "Aug 26, 2026"
+        }
+      ]
+    },
     {
       "date": "2026-08-25",
       "stories": [
