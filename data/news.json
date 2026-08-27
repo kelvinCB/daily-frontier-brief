@@ -1,6 +1,56 @@
 {
-  "lastUpdated": "2026-08-26T10:29:30.339Z",
+  "lastUpdated": "2026-08-27T20:06:04.417Z",
   "days": [
+    {
+      "date": "2026-08-27",
+      "stories": [
+        {
+          "title": "Generative \"AI\" Macro Data Shows U.S. Impacts",
+          "summary": "Generative \"AI\" Macro Data Shows U.S. Impacts Zacks Investment Research",
+          "category": "ai",
+          "source": "Zacks Investment Research",
+          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQR3Vld1IyUW5ZenliaDZ0RjRfR0l4SmdUblBzblB2TWNTZ2NCOE1aTjJaNUJrcy0xWlJ6bWh0Y1NBVFkzSlB6OTNsWHM2cncwQjBFRVZEVHVKamxEWXZ5VXdnLW5pTXVKQ2lLYnhybk1zMDN3azl4RmZxMGhVUFJsVHF6ZDNFWHpJc2c?oc=5",
+          "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80",
+          "publishedAt": "Aug 27, 2026"
+        },
+        {
+          "title": "PTC to acquire Sangamo’s gene therapy for Fabry disease",
+          "summary": "PTC to acquire Sangamo’s gene therapy for Fabry disease Fabry Disease News",
+          "category": "biotech",
+          "source": "Fabry Disease News",
+          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOczlKR092NER2dkVXajhJNjJ3WjA0TGMyX2VVV1dIVTFRcnZ1SnZUMTl4UW1aaXgwRnZ3Y1VMQnd1dkxKemhzZ2laSWIycGg2YzVWNy1MaFd4Zm1WNkFlU1hHLXUyQ1Y2bTlQYlZ6TmtkX0VodEV2bjhmY3pvaDM0dFZ4WWg3SmN5dHc?oc=5",
+          "image": "https://images.unsplash.com/photo-1530026405186-ed1f139313f8?auto=format&fit=crop&w=1200&q=80",
+          "publishedAt": "Aug 27, 2026"
+        },
+        {
+          "title": "China aims to flood the market with humanoid robots — but they’re still too dumb to replace workers",
+          "summary": "China aims to flood the market with humanoid robots — but they’re still too dumb to replace workers Notebookcheck",
+          "category": "robotics",
+          "source": "Notebookcheck",
+          "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQamEwZkQ0VnBpS290ZEpzd2Z3aGgzOTNuaXFzSXI3Yld0SE92WURNWml4R0wxQmwtbVJTa3ZwS3FrYW5WdmFFUGFEVWRSUlh6Y2FwWEttX3JKcUNzMWV3VVhKRUpuRlRmSW5tVjJ1MExPM0x5OGRjTVIxLU50X0l6ZVNuazV3QzZmNlM4RWo4VFVFY2dwVk9VcjNySjU5My05OXNwMTdPQWkxS0VLMExmd1BPS1hmOUJSb0NWTHRjbGlsN1FfREstUnI4aGhZc3ZkQVhkOUVoNTBzZw?oc=5",
+          "image": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?auto=format&fit=crop&w=1200&q=80",
+          "publishedAt": "Aug 27, 2026"
+        },
+        {
+          "title": "Report: Nvidia to acquire AI model repository Hugging Face for $13 billion",
+          "summary": "Report: Nvidia to acquire AI model repository Hugging Face for $13 billion Ars Technica",
+          "category": "ai",
+          "source": "Ars Technica",
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQdmJJQWdCWGhOcmVGNTlxcUhaS2FfTUE1bndWZE5qRWNFSTZNdVRpbnRZMkJBZ1pHek16U3lOdERNTXdyWEc5Z1RWdDBxb3Z0aUhFZUpmTDEzZDVKVDc0UFRQbTg5UUd2WEpjSmNGSFJxemg1YzdMbmNUQThwdVpYSVREWVItcXZfaHpaR2I5SEE1dVdzbFJ1R0pIQnI5WW5MZU5OcmhkU0pIZmtl?oc=5",
+          "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80",
+          "publishedAt": "Aug 27, 2026"
+        },
+        {
+          "title": "NASA Awards Infleqtion $20M To Further Work On Quantum Gravity Sensor",
+          "summary": "NASA Awards Infleqtion $20M To Further Work On Quantum Gravity Sensor Aviation Week",
+          "category": "frontier",
+          "source": "Aviation Week",
+          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOMy1GdXlQMWltWGJuOUdxTkswU0dQa1pMVG1VUzdUV0lsX2xWWVFXa3hPdUFQeC1fYjFXUlNqemJFcmpyYzYtNzdUN3ZKX3huYjV5NmlrY29tMVdHVm9xNkowZ0lIZE9yVnhxbFljblJYWVBIdHk2SUFtYkNXUlJ1Q0ItTElFWXRpZFlEWllXM251YS0wRnExbFFnTDl4SWxPb2lzTmFDZw?oc=5",
+          "image": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?auto=format&fit=crop&w=1200&q=80",
+          "publishedAt": "Aug 27, 2026"
+        }
+      ]
+    },
     {
       "date": "2026-08-26",
       "stories": [
