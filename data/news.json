@@ -1,6 +1,56 @@
 {
-  "lastUpdated": "2026-08-27T20:06:04.417Z",
+  "lastUpdated": "2026-08-28T21:03:17.802Z",
   "days": [
+    {
+      "date": "2026-08-28",
+      "stories": [
+        {
+          "title": "Daniel Salvi: water, nymphs and artificial intelligence in his",
+          "summary": "Daniel Salvi: water, nymphs and artificial intelligence in his inItaly",
+          "category": "ai",
+          "source": "inItaly",
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOUkhLb1pMWE54VEVkcXh6aVFqVXExMUtBYm5qREpTLWZiWTVHWmFDeWtVQmdXUFBlM21pTnR2ME0yRVlnbnlWZFFKZklnQ0ZXdGpMZUstVUJGTjVtU3k0SjQ3UUQyQWtPWUV3NkJERnhtTVIxUHFpSTZvelgzN2lmTFJmc0lEUzNXaUZjV2hLbG1JajJsdS1XbUdlLXhDMlNCaV81QlJ6c0RaaGhsZmc?oc=5",
+          "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80",
+          "publishedAt": "Aug 28, 2026"
+        },
+        {
+          "title": "New technology developed to detect Parkinson’s early; Rajiv Gandhi Centre for Biotechnology researchers lead breakthrough",
+          "summary": "New technology developed to detect Parkinson’s early; Rajiv Gandhi Centre for Biotechnology researchers lead breakthrough Kerala Kaumudi",
+          "category": "biotech",
+          "source": "Kerala Kaumudi",
+          "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxQeGx4bTgwUXNsNmh2OGttTmVwQmk0Mm5YNzlMYUx6ak9td0E0RU5UeDc2R0JuM0JJeG02VGNTYVI1UjI4Y3dBSEFudU9SblhFYVJENHFBOEZ4RTdLWkRGNkh5RWNyYnZjcktQT1lpeUhpRVZ5ak1BdVN2N2JQeDhLdE9vMGg0QjdfejlORG9QX0IyV1RPYVF0di14S3RhQnNleDcwY003dF9Td1N3X1ZvVDlXcjlTRVRmVVVNTUxlS0VwZG1jRU5RUUEtSDFNb1RWNWVzUkdYdUVYRnVlenItMUtfb2xxd04ycFA2bUZEOXVIRHVMMGFDTXZ5UlNQZGs?oc=5",
+          "image": "https://images.unsplash.com/photo-1530026405186-ed1f139313f8?auto=format&fit=crop&w=1200&q=80",
+          "publishedAt": "Aug 28, 2026"
+        },
+        {
+          "title": "Chinese Companies Are Unleashing AI-Powered Robo-Chefs",
+          "summary": "Chinese Companies Are Unleashing AI-Powered Robo-Chefs Futurism",
+          "category": "robotics",
+          "source": "Futurism",
+          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNbnVtUFlrOHBicy1fRFZIVDI3NElGS1M3SEFfU3ljeEx1VWFBejVsTlo0TmN5eW40QVVnX3R1VHlsVlZlTDlZOWxuck9JUTdiV2ZHc2NoWmptMXJXcEh4Xzc1ZFljUkpzbFQxQUVibTJIWTF0blluTkJydXd3Vm56VjNYckxfV2JjcEJz?oc=5",
+          "image": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?auto=format&fit=crop&w=1200&q=80",
+          "publishedAt": "Aug 28, 2026"
+        },
+        {
+          "title": "ON Semiconductor Corp. stock outperforms competitors despite losses on the day",
+          "summary": "ON Semiconductor Corp. stock outperforms competitors despite losses on the day MarketWatch",
+          "category": "frontier",
+          "source": "MarketWatch",
+          "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxONnlRc2Y2cENsVFlibFkyWlc0SVg2cGhLb1NvUXlTemFRcWtPZEtFd1hRNFVJS2xhd3M5WHB0UXRCc1lYZG9JVmpTMkZWNjk0dUFtai1kd3B5RnFiWjVYWkVEN204LUZJc0hyZmNwblJCbzRibFVPbGp5MkwxZjRMaEFERlBNc2ltNGVQeWliRFh1clBvVndfcmJSeGZReGtta3pqMlpLQWlqcW9QN1Bpc2J1bE41YVlKQ1A5TGZDaXZkSVFCYlI0Y3ZyejRUSklJMk9XYnY2ZWwxQkdieW9KUG0tMUtGZlBaTkFF?oc=5",
+          "image": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?auto=format&fit=crop&w=1200&q=80",
+          "publishedAt": "Aug 28, 2026"
+        },
+        {
+          "title": "Largest-ever Canada quantum investment backs Xanadu (XNDU)",
+          "summary": "Largest-ever Canada quantum investment backs Xanadu (XNDU) Stock Titan",
+          "category": "frontier",
+          "source": "Stock Titan",
+          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNdWpwY1FZdllCLXFoQlBwUTgzYldvNkFvTko2bU1jSXhVVUE0Tzd2MWNsLXlyVTJMVzc5cjkzWWlNZWNwcE41S08wZjdZWkI3aTRKOUotWklpVGYxYlVXLUNXSEI3c29qem40NkxnODVndGRSOGxzN0toNWJzRVc5ZWlwS0Q4UGJQVXpIeUlPNVZsdXdOcno4THZuUDZYOVZ4THhEWUlQYmlCTlowTXVPb2c1eDJDMjVOZ1ZidUptNi1BMkUxRWc?oc=5",
+          "image": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?auto=format&fit=crop&w=1200&q=80",
+          "publishedAt": "Aug 28, 2026"
+        }
+      ]
+    },
     {
       "date": "2026-08-27",
       "stories": [
