@@ -1,6 +1,56 @@
 {
-  "lastUpdated": "2026-08-28T21:03:17.802Z",
+  "lastUpdated": "2026-08-29T14:53:58.767Z",
   "days": [
+    {
+      "date": "2026-08-29",
+      "stories": [
+        {
+          "title": "Accounting education and Artificial Intelligence",
+          "summary": "Accounting education and Artificial Intelligence The Hindu",
+          "category": "ai",
+          "source": "The Hindu",
+          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxORVJQTW93RnVlakhvTTV0UEppNHFwa09FRS1XSllTOFpSRmsyMHUtZFNwYzJxM0p5MFpkaW9qcENjZFdwNzhlc2VteERrVDJwbFpYYUNmeVpSM2E4Q0tXNENGU00tR2Y3WkhYX2FtT1ByeWl1SUZUSUJaMEYzZm9FbVQyaGZucXdvY0l5YnI0RVZ5NnlETHpKdllnOEV1bmE1MFE3SUZZclIyckpud29SaF9HcVlOY2hF0gG_AUFVX3lxTE96eVZJVWRfbHVLdTRkcHFYS3VfSlk5TDhoRWRoMm16b3Z4U3pUOThoaWlaZXh3dkxOZTFBYWRKV3lwem5CSlZ0RWw1c2l2enFRZlFjTXd2MEpOUi1UdFRpYlM0OF9Ja3dORV9xT2pMcXZ0OGJtSDV0LUhFU1lBd014ZE16amRxQUMwcDNQRm5RRVhLQno5a3RWWEl4WTFnX3dvcmcwM0N6Qzlyamw3YlBNU3p2ZmI3aVR2b09SQ0Zz?oc=5",
+          "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80",
+          "publishedAt": "Aug 29, 2026"
+        },
+        {
+          "title": "Revealing cell-cell interactions in immuno-oncology",
+          "summary": "Revealing cell-cell interactions in immuno-oncology Drug Discovery News",
+          "category": "biotech",
+          "source": "Drug Discovery News",
+          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPR3Awem1VeFhVRnctdVl6aGw1MzRUVkh1WF9aVEtQVmk2Nmc0S1VWeS05TTh3bGFIUnM0VGw2dkJ1MVBHQWw4Y29OeWdHWHNiYy1sUkxiX1dPTEpkRUtfamZiYUg3U0Z1VFlVT1FXbzE2ejFfbDV1UXJZUlhaUWpaUXlURU5GYnlPQ245LWJRZFJGUDZ2Z2c?oc=5",
+          "image": "https://images.unsplash.com/photo-1530026405186-ed1f139313f8?auto=format&fit=crop&w=1200&q=80",
+          "publishedAt": "Aug 29, 2026"
+        },
+        {
+          "title": "Genrobotics signs MoU with Territorial Army for robotics research, training",
+          "summary": "Genrobotics signs MoU with Territorial Army for robotics research, training Business Standard",
+          "category": "robotics",
+          "source": "Business Standard",
+          "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxPbFVMSlRzLXlsdjJkS1JRazNFWGlESjVrczNNQk9DeHdWNzd4MVFPRDhwcGgyUGh4X2pNdnBCd0lDWFdHeHM2QVlBQXlsQ01OOTBLbjFpa041TTRRa1RBWHJFcXNHWDhvS2N0eGxUVlc2U1p1c3B5OTYxZGxtWE55Qk1keldLcG1jSU1CX2lXbE5PazYwZ3psRGJMb0xUQjNuSzJoUmstcmU0a1l6QnRfZmRyLVVIUXdTemhFZkJmVzU2Z0RqRjFCNXQ1RnZtUmFEYzR0aXR0bnlWdHljWHlXQ09XY2c1enhuUGQzSF9wSFNPOUpHZktSdDZHb9IBgAJBVV95cUxOTzFlRW9hRXhNcTlTR0sydHlxTzZvaVhXY0VCTUk2cmJGUHF0TWdPQXpSV0JvS085LW56clpYN1Q1OGNRQ2FfTFBEWkJ5ZTRqOFVjamFEczl6aHhlUjd4Zi1GTG04V2pxUFNjdGsxR1pLR200WXM4aVhtRUZTMWU2a05VRVhOQnl2ajZvNUdsaWh4dC0yQVh4VWhTMXVPZ2NOZnU0QjhoRENLTWctbWlKRzd0MF8wcE5VajVZVEVyNTFBVmVFQ2ZFT3Byd1FSaTRKY25pNFM0bEo4S0FlV1BMY096WXROck1ianZsaWhzZzRITU9DenZjOTQwVjgyVjl0?oc=5",
+          "image": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?auto=format&fit=crop&w=1200&q=80",
+          "publishedAt": "Aug 29, 2026"
+        },
+        {
+          "title": "Where the Quantum Threat Stands",
+          "summary": "Where the Quantum Threat Stands WSJ",
+          "category": "frontier",
+          "source": "WSJ",
+          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPVmV5alRqUFNYRlNHVXFTSTdxdnlBZTNicGo5bEhSTGRSOVc3bGEwTWRiQWNwWkN3MTVsNWRvUDU0bW5XLWtWeEU5eU1rOUFhYTZPRHZZc2VabVNJWWcxbWxrQlEtSlNydHl5aERUZDkxcmw3ekMzUy1RWWp1ZXZqMWwwbEw?oc=5",
+          "image": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?auto=format&fit=crop&w=1200&q=80",
+          "publishedAt": "Aug 29, 2026"
+        },
+        {
+          "title": "Why Tesla's Optimus Robot Might Have a Hollywood \"Problem\"",
+          "summary": "Why Tesla's Optimus Robot Might Have a Hollywood \"Problem\" The Motley Fool",
+          "category": "robotics",
+          "source": "The Motley Fool",
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxObTRJOGVkOVJ2OVVzUHpmMzhGS3d1bXRMY0x3VXRHNlp4RVRWeEJmS2x3bnVQMHZianNDWXF1UjBRUUVwRWpjbWFmVzduSHVGMUpqRmhtZ21TTmJ1NzdCM0RGUndkLTRJZW5jTjRwQnVnV0hXM21hTW9DMGNYYldMNUgzMHpLMHFjMGplYw?oc=5",
+          "image": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?auto=format&fit=crop&w=1200&q=80",
+          "publishedAt": "Aug 29, 2026"
+        }
+      ]
+    },
     {
       "date": "2026-08-28",
       "stories": [
