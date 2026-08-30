@@ -1,6 +1,56 @@
 {
-  "lastUpdated": "2026-08-29T14:53:58.767Z",
+  "lastUpdated": "2026-08-30T14:38:05.078Z",
   "days": [
+    {
+      "date": "2026-08-30",
+      "stories": [
+        {
+          "title": "Xinhua Headlines: China promotes coordinated development of data industry, artificial intelligence",
+          "summary": "Xinhua Headlines: China promotes coordinated development of data industry, artificial intelligence Xinhua",
+          "category": "ai",
+          "source": "Xinhua",
+          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5pTk1ZV2U3LXZKZDZBQTY5bWZtZTJOSVVyaFpLLXQ0WEJ2bTZUWnZJb2NzOURBQVdJNkNVcXRsMy1IN0JESV9WbnR6bk9WNmFNdW5VNkpMUkdWdWNxQmRvS1MxNUVEbkxoUmJvaXhFSTZVc1NSNkJ0RGwyS0w?oc=5",
+          "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80",
+          "publishedAt": "Aug 30, 2026"
+        },
+        {
+          "title": "Evotec stock holds at $1.91 as analysts stick to a hold view",
+          "summary": "Evotec stock holds at $1.91 as analysts stick to a hold view AD HOC NEWS",
+          "category": "biotech",
+          "source": "AD HOC NEWS",
+          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOMzZSTC1qaEtWOXdRQmJfem9veURXVTlaa1VPM0dHUmxLMGhZdHpfekdPRDE5NDh6bTUteEplVXRzN1UxeEd4SGJYc0E4TWdqM2R1QnMtODRkRl94S1Q3YXFqRy1QX1NSRXA1eWdKX2hWTEdfT0RRazZCTmVfOHVuSjNaWW13QkRMUllJLV94QS13cWY4dEkySWhyUGJRRmNfcTNtVlh2RFVoUjNRRzZnUEdFOWdoWTZtYWFBMFYwUQ?oc=5",
+          "image": "https://images.unsplash.com/photo-1530026405186-ed1f139313f8?auto=format&fit=crop&w=1200&q=80",
+          "publishedAt": "Aug 30, 2026"
+        },
+        {
+          "title": "Hugging Face launches Microduck, a $399 open-source robot duck",
+          "summary": "Hugging Face launches Microduck, a $399 open-source robot duck Mashable",
+          "category": "robotics",
+          "source": "Mashable",
+          "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFAxZERia3N0LXJNcDBuYUhqUlpLYmZNMm8zWk9UQmJndFhLLVJNNUYySU1MS1JiUngycUEzbVJjSEJZb05LSkY1RF9xdGtsZmVILXFwTUd6RVJHQ1loM0RldFU0TTRuN2hqRlg4aXg4c1JySTA5ekFZSlFIQQ?oc=5",
+          "image": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?auto=format&fit=crop&w=1200&q=80",
+          "publishedAt": "Aug 30, 2026"
+        },
+        {
+          "title": "IBM quantum computer solves classically intractable problem in 15 minutes",
+          "summary": "IBM quantum computer solves classically intractable problem in 15 minutes Science Daily",
+          "category": "frontier",
+          "source": "Science Daily",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBUOXRBTGw4WktWNXkwUVl4M2k5R1VZZFRKR1JzSEJwMDVlNUpGUHpEOFJvV0ktc1h6MWZwTDlkRTBjdl9OUmdDd1ZWUDZZTzhhMnhESmIxVXBoZkE1TVp2bGhQOHhuSlVGXzNmVkxR?oc=5",
+          "image": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?auto=format&fit=crop&w=1200&q=80",
+          "publishedAt": "Aug 30, 2026"
+        },
+        {
+          "title": "The First Quantum-Resistant Bitcoin Transaction Has Been Mined",
+          "summary": "The First Quantum-Resistant Bitcoin Transaction Has Been Mined Gizmodo",
+          "category": "frontier",
+          "source": "Gizmodo",
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNWTZuWWFSZ3loOFRTNFFwSV8wNHBjVmRqekZCNUQtdHFaSGxGU0RaQzFjVV83TGdQdkRJTEtNWDRUOHhBNmdOWEE4Q1p0c0gxLWk5QVBsSkRBU29CcG5Qd1YzR3VQTWNsTE1BZk8zaE1vbk5SQXdOeVlmaGU5STBmOUhGOXRreGJaZDFuTWh0NUhBY1czNjZEQQ?oc=5",
+          "image": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?auto=format&fit=crop&w=1200&q=80",
+          "publishedAt": "Aug 30, 2026"
+        }
+      ]
+    },
     {
       "date": "2026-08-29",
       "stories": [
