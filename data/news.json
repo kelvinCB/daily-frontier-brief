@@ -1,6 +1,56 @@
 {
-  "lastUpdated": "2026-08-31T17:21:05.532Z",
+  "lastUpdated": "2026-09-01T14:27:42.635Z",
   "days": [
+    {
+      "date": "2026-09-01",
+      "stories": [
+        {
+          "title": "SCCS receives $2 million NSF award to prepare students for CyberAI careers",
+          "summary": "SCCS receives $2 million NSF award to prepare students for CyberAI careers jagwire.augusta.edu",
+          "category": "ai",
+          "source": "jagwire.augusta.edu",
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPME9NMTJOSXNQYmZHU1hON01ZOHI3SFpmYlVLTFlmMlBJSGVjOVZDUHIxR0VJUDVTUm1CLUhadFpYQkwzNy01dlEwSm40U0ZPZk0zM0UzdWlua2ZkNmYxbDB4SUw3bnNrcW9jeDVBU3AwVVV3cmR5amNHWm1HbllLVGV6aFUwMkZfZHFzQ2ZXVkJ2S0Y2Y3lHRExMYUJ1WGw5bklPQg?oc=5",
+          "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80",
+          "publishedAt": "Sep 1, 2026"
+        },
+        {
+          "title": "Recursion Pharmaceuticals Stock (RXRX) Opinions on AI Drug Discovery Pipeline",
+          "summary": "Recursion Pharmaceuticals Stock (RXRX) Opinions on AI Drug Discovery Pipeline Quiver Quantitative",
+          "category": "biotech",
+          "source": "Quiver Quantitative",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOcDN5bmo1NUotZklhZzJPOW4tUGVPeFZzS05LT1YtdGh5bzcxQ04tZy01Qm94QnMwOFdORVoydElXdzBZTXZvT1J1UHNVZm52RjB3MlJ0NDM0eTVDRmlKTnM4Q1BoaXFrTktEenNiVzFvV01KWXBoeVVib2Uwa0plX25aMlVnMjNwRkwya0RUcHRaUElxaGpOMThTanRLbV9EZlhqM2c2a18xR283b1hjNGw3bzU?oc=5",
+          "image": "https://images.unsplash.com/photo-1530026405186-ed1f139313f8?auto=format&fit=crop&w=1200&q=80",
+          "publishedAt": "Sep 1, 2026"
+        },
+        {
+          "title": "Gasgoo Daily: China Issues Guidelines for Automakers Going Global; Leapmotor Tops 100K Deliveries Again; UBTECH's Humanoid Robot Business Surges",
+          "summary": "Gasgoo Daily: China Issues Guidelines for Automakers Going Global; Leapmotor Tops 100K Deliveries Again; UBTECH's Humanoid Robot Business Surges Gasgoo",
+          "category": "robotics",
+          "source": "Gasgoo",
+          "url": "https://news.google.com/rss/articles/CBMiqgJBVV95cUxNUEdRcjJVVndXWW92RmhjVkdXYThkQVVrVmpZOXhTZTdxclozU3kyX2stRndfbzJ1Y3RVQVVZSnBmaEFmTk5ZZzdsaVBDMFU0VTY2eHJJaVVuOElWLVZFaXAwcjAzWnBucVItckV4WmRIUnZFcFA3Y0MyX016c2FDeFhHNjFxc044cjBwcXBkUEdHclJnSmtPd2Y0REdMSXBhbzZvVHVDQ2ItdTlma3BNYklUd0NoRkRkT2IydEE3TkdUem5xZnBZclZUODJWWTV1QktNN1JxMHBPRXVNUmpueHpuUTFvZ2dHME1vX01QOG8xckpWamxfbDhrOWZ2TGFQaV9veDFnUWRqbHNTOXZkUnBrZk9NcGVCMUZyc3BsejlqcXhjV0t3ZXFB?oc=5",
+          "image": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?auto=format&fit=crop&w=1200&q=80",
+          "publishedAt": "Sep 1, 2026"
+        },
+        {
+          "title": "Nebius vs. CoreWeave: Which Is the Better Artificial Intelligence (AI) Infrastructure Stock to Buy Right Now",
+          "summary": "Nebius vs. CoreWeave: Which Is the Better Artificial Intelligence (AI) Infrastructure Stock to Buy Right Now The Motley Fool",
+          "category": "ai",
+          "source": "The Motley Fool",
+          "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQZ0ZQbUFmWXNIb2gwWFV2QnZDc0gxRFBId0thaXBpNVhPT2Jic0p3MHZJUTNXRV8wTHF5cnJtRDFaYnBDRlRfVF9oVklnOVNCeXZSNjdqREg3RUt6cDdPMHo3YU9DQ3VNbFdhTmc0RTlHRmphMkRnbG9vRGpTU0NQcWoyWGRnTndJQy1sNjdDckMwSHhpaW9zV1FzTDdtMWctVzU4ZnY2SHNTbU9KOFByR1RnMlBKMWVBNGF0eDdoMlFHQ19Ub0paWmlBcFNmNzR5bDVCYWNnU1E2cTJDSHVucA?oc=5",
+          "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80",
+          "publishedAt": "Sep 1, 2026"
+        },
+        {
+          "title": "Arqit, Es’hailSat and AIEE Demonstrate Quantum-Safe Satellite Communications",
+          "summary": "Arqit, Es’hailSat and AIEE Demonstrate Quantum-Safe Satellite Communications thequantuminsider.com",
+          "category": "frontier",
+          "source": "thequantuminsider.com",
+          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQWmVjN0NLZk9YSWt4VTRWY3hfbEZ4NGVhbnlFalBuRXhSVC1NamxVaXhsQ25NZEtMU2RtZGJlTWNGOXFKNDA2OGQ2SjFaVEZrU2xfSlQzRGpsMFBWQWM3T0VQUUhKOFJqOTU3dkNIUjNQcExFakVGM2VPRmpGXy1GTWhvWU9BUGw0aGx4LTN3dXdLX2luNUNoV21UTGc0SHdSRWc?oc=5",
+          "image": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?auto=format&fit=crop&w=1200&q=80",
+          "publishedAt": "Sep 1, 2026"
+        }
+      ]
+    },
     {
       "date": "2026-08-31",
       "stories": [
