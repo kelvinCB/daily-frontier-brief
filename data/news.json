@@ -1,6 +1,56 @@
 {
-  "lastUpdated": "2026-09-04T13:56:11.270Z",
+  "lastUpdated": "2026-09-05T10:30:03.078Z",
   "days": [
+    {
+      "date": "2026-09-05",
+      "stories": [
+        {
+          "title": "AI sovereignty crucial for cybersecurity, says Gaganyaan astronaut",
+          "summary": "AI sovereignty crucial for cybersecurity, says Gaganyaan astronaut Business Standard",
+          "category": "ai",
+          "source": "Business Standard",
+          "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOdlp5eWVyQXhXV3duM0NBXzloWW4zcFdMd090bzRFTW0yYWpIREJGS2NlUi1Va3E0Y2o4SkVFTlU1Ujg3NEJOaWU0VU5feHNCZ1hnV3NQQ3YyZ254VXhaalhrWHRmZzZsWVJqd001a21tVVZHeW9mTEtJOUYzVkJrcWV1ems2ckhkZHpBOE9lTUptNFIwZXZkdVNRNURpOTJYM2d4VzNrMVdDRlBxQUEtVy1PZVBaWkxTbU10ZnVOeHdELWhxRDA2RG1hTjlQS0txaXk3cGkzV3d6SldQanN3MzBFTlZWWF9RZGfSAe8BQVVfeXFMUDBTdGNDVUhySGV3QnB1TTFyOTNucmt5YjNnRWtvVzctTGFvN0hkMGNITGo0bDEzdkNOVlpHeHV2elBKSldTU3FRUmJGSno5Nm9JVmx5dEVuNkJ3eU5DNzZhZHd1NXpFaFdnbXVXdzIteGFmYW04TEhiUHJxOFVQbnotS19QS2hoc1J5Zmd0TllvUDNzUmdnaU9NdDU2Y2JKZEg2aTZFSG5kSVFLaUFFbGR0Skh4NDZaOWUtMWZmTW1hOWYwZ0M4SmJ0OXFjY05fQWFYdloxa1ZQM29INjdUR3E2QWt6aHYwSFBIenNONmM?oc=5",
+          "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80",
+          "publishedAt": "Sep 5, 2026"
+        },
+        {
+          "title": "CRISPR Therapeutics: CASGEVY Validates The Platform, Strengthening The Acquisition Case",
+          "summary": "CRISPR Therapeutics: CASGEVY Validates The Platform, Strengthening The Acquisition Case Seeking Alpha",
+          "category": "biotech",
+          "source": "Seeking Alpha",
+          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQUS1LOUZzZmpUb21HcGJOVDE4YmFRWkVLNXpCYnhVMFpOZ2tQejQ2VGtPaVV5ZU14Y3ZYU2hxNXNQOW5ncVNkN2luQUI5M2ZEZ1ZFbzg5ZlRRRloyY3IyMjlIMzY1Ql9zUEJMLXJ4QlVPZklSTlZzVkZZalh1Z01XdHhGZ2ZiNzNmdlJVMUJBWG9ackpTSmJKU0JOMHpxX01GcHNzTzNlM2tfakEwYUdDbnlRVjVYZlQ3ZVNaYnFRTmQ1bkdx?oc=5",
+          "image": "https://images.unsplash.com/photo-1530026405186-ed1f139313f8?auto=format&fit=crop&w=1200&q=80",
+          "publishedAt": "Sep 5, 2026"
+        },
+        {
+          "title": "Sabac Robot Factory Ships First Humanoid Units",
+          "summary": "Sabac Robot Factory Ships First Humanoid Units srpske.rs",
+          "category": "robotics",
+          "source": "srpske.rs",
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPcGI5WmtmeGphQVhVVnFsR1h1TEZBZzF4Z2hIdXFDSnNTdWgyanhVWVVSWlNWa25BRkItWHdBZXpjemNBMmF4bkhrbkdBUV9hc2g2R0kyeUZIcFlXaklPOGUtdG04cWdCNG0xUFB5bC1fZzRpb29HeENTeUFrVkl3UHhrOVBKb0pYSGJxVy1laUtnVXVDTWFqRw?oc=5",
+          "image": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?auto=format&fit=crop&w=1200&q=80",
+          "publishedAt": "Sep 5, 2026"
+        },
+        {
+          "title": "Got $1,000? 3 Stocks Building the Physical Artificial Intelligence (AI) Era",
+          "summary": "Got $1,000? 3 Stocks Building the Physical Artificial Intelligence (AI) Era The Motley Fool",
+          "category": "ai",
+          "source": "The Motley Fool",
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNc3lnODlaa0ZWMC1laTU4ZnM0cHFxOVNaSjd3bW1qTXZRWTFtSVR5TmVZM0FTZXNsU3ZZTHpTT2xVNEhUQ2hSSzV4WmRQZjBWTGYxRHFzTlVzT2xTbHl5c3UxUWxCeElwb19hd20wTEp2M183M1BpOWdmUENncHFZN2FIajdabmxVUTJyU00wUkxpV2NLVFI1OA?oc=5",
+          "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80",
+          "publishedAt": "Sep 5, 2026"
+        },
+        {
+          "title": "School board to review new artificial intelligence policy - The Frederick News-Post",
+          "summary": "School board to review new artificial intelligence policy The Frederick News-Post",
+          "category": "ai",
+          "source": "The Frederick News-Post",
+          "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxOVDRyNjBjeDQ4Q1FCQzdYS3NCRmYtVnNITmtIamVnSlFzUVVfVWxqejB0RmYxZjVBRW1zT3ZYaUl6VmxpVzY2WXFpZGtMMmRxbjBhazdYMVRTdEtkUFVlNGVqZ0UybVFPbjNaWEptVDZzSXZGR056UHliVHh0bEhwMTE1MEpwLUNPQk9MbC05a242YVVHYko0VkZCV0dacHpFLW9uQmF3TlZkbE9hVTBBWmdiSDFHeGFkd1FyMHJWOXhfdFpYLXJIQ3JpcUdlZTJENWlJUWw3T0Z6YmItTWp3Qy1HblRLNVlWcjM1bXNpdkFkSnl6RnRGajRXOV91ZFMtaXNQMXlZTGZxUQ?oc=5",
+          "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80",
+          "publishedAt": "Sep 5, 2026"
+        }
+      ]
+    },
     {
       "date": "2026-09-04",
       "stories": [
