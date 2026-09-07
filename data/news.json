@@ -1,6 +1,56 @@
 {
-  "lastUpdated": "2026-09-06T13:20:57.309Z",
+  "lastUpdated": "2026-09-07T10:30:03.436Z",
   "days": [
+    {
+      "date": "2026-09-07",
+      "stories": [
+        {
+          "title": "Not a Crash, Not a Correction: What the September Effect Really Means for Artificial Intelligence (AI) Chip Stocks",
+          "summary": "Not a Crash, Not a Correction: What the September Effect Really Means for Artificial Intelligence (AI) Chip Stocks The Motley Fool",
+          "category": "ai",
+          "source": "The Motley Fool",
+          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOcVZ3S2RrN1B6bE5EbXNIS2RlNzdqMVJFTzY5X1RkZW5ZbXVPaWV4MUViaG54NUhPel9lbFl4bEJCQ1ZhSXgxel8zZ0ZlQjBmSjdHQmpuRmhpQVNtRlFwN1JZSDN6RVNtZ3FCM3ZZMmFMd1BOTGdCcWRHaUIyRERhMURWdl94aS1xcG9rRlJHdw?oc=5",
+          "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80",
+          "publishedAt": "Sep 7, 2026"
+        },
+        {
+          "title": "Northway Biotech Opens €61 Million Cell Therapy and Personalized Medicine CDMO",
+          "summary": "Northway Biotech Opens €61 Million Cell Therapy and Personalized Medicine CDMO CHEManager",
+          "category": "biotech",
+          "source": "CHEManager",
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOZEVrUXZ1ZHRabGNCME93Uzd6Q0VIZFFpTFRjWmhFbG9Qa0RvbHZyVC02WlZYa0RfMEVuVVZLV3Eyc0NWcFVIeW80SnZmZ3E4Y3ZSdi1wa25ESGNkT0g0RHphM0FCbGlNQ1EwRHFOeWdaOU5mc3NtaWtrSDl4ekhCOWFJV0p1eU9IUXVjcEp4Skh4di1JajlvYWpvbXRySzRzQllJamF0bThBckZieXhnTzRGYmZHdw?oc=5",
+          "image": "https://images.unsplash.com/photo-1530026405186-ed1f139313f8?auto=format&fit=crop&w=1200&q=80",
+          "publishedAt": "Sep 7, 2026"
+        },
+        {
+          "title": "Humanoid Robot Ambassador Marks New Era for Malaysia Cruises",
+          "summary": "Humanoid Robot Ambassador Marks New Era for Malaysia Cruises thetraveler.org",
+          "category": "robotics",
+          "source": "thetraveler.org",
+          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNWWtheFM2cWMwQ0pXWGtLTjFsVTdsa0VXVWltaG05aUJ1cnM4Z3J1Zm14aTJXLVVfTkVOMFlQRTViOVZaSFZuNWRWTzg3eDVwVWRvLUR2eEpQdFdUd0VNdDZiU1NiWHhVRnI0ZkhFUEdUWVZOWWVoLXI5ZTIxU1Z1cXhCQlFSeGR4TTd3RkQ2U2k2aDA?oc=5",
+          "image": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?auto=format&fit=crop&w=1200&q=80",
+          "publishedAt": "Sep 7, 2026"
+        },
+        {
+          "title": "D-Wave Quantum Faces Dual Headwinds: Legal Probes Into Disclosures, While a Landmark University Deal",
+          "summary": "D-Wave Quantum Faces Dual Headwinds: Legal Probes Into Disclosures, While a Landmark University Deal AD HOC NEWS",
+          "category": "frontier",
+          "source": "AD HOC NEWS",
+          "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOYnZCemxxbGxIWUM2cU1iMkpGWkNyQzVoWjUwUUxYZEpNcnFFcVgyN29STWFsYzhDTl90Yks0bjI5Qy0tWFRhbWdNOFgxck0yRVU5eFU1VWgxRzFvV0ZwSERRdHZSZGkwek11bHZtYVhYSGswUjN2NUZXVEp6ZGNJWW5ZZmVaNmtEazJ5N2xoNmJIbG1EY1otWm1mTmVOWmNwdXhOUG0yZzRsbF9GRWtzNlYyVlFkZFpJanN6MWc5NDZnRDZXOHhiaUJ0dnFOcDF0OUNpLS1FNlBzQTg?oc=5",
+          "image": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?auto=format&fit=crop&w=1200&q=80",
+          "publishedAt": "Sep 7, 2026"
+        },
+        {
+          "title": "2026 Korea-Canada Joint Call for Proposals in Quantum Science and Technology",
+          "summary": "2026 Korea-Canada Joint Call for Proposals in Quantum Science and Technology fundsforNGOs",
+          "category": "frontier",
+          "source": "fundsforNGOs",
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOSTI3NDQtNE8wc2F4bjRZbEh0Mi11ZXFRTExMd0tjN2hiNnVpY2NscUQzdDBScTIwRGpDeFdGSHo2LVBUYlZtLXpzRzc0bm9nTkRUcXZqZktDQnZmckZkSlB5ajR0dElXV1pHbVVoVFNCTTlrb2Fra3lEU2l5QThkelNsRi12V292U3hvLTVjWUdZMnRlRWIyUFUyLUk1MUVWYjRtSDJMaW5SNHl0dlE0VHZxel9JZ9IBuwFBVV95cUxPOXlZa0x2Sk53eWVqWmRwTF9nWWFBdnRTaW1nbkE2ajY0VkJwblp2aXROc2RabTg1UTZqeFR5ZGxhZXU0ZzhrOVJqMWttVy1fc29zajVyRWZzd3FYLU4wSGpQdS1NQXFiaV91SUY0RFJCM3dCSzFDRUNJRWNheGRTTFhnMjBvajVXTUxoNHVCRG1PWW1HczJPRm0xYWR0RjJHRXhFNHpFMVRnNG1KSGZuLVVTcmw5LXd6THJz?oc=5",
+          "image": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?auto=format&fit=crop&w=1200&q=80",
+          "publishedAt": "Sep 7, 2026"
+        }
+      ]
+    },
     {
       "date": "2026-09-06",
       "stories": [
