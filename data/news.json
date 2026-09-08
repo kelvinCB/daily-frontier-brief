@@ -1,6 +1,56 @@
 {
-  "lastUpdated": "2026-09-07T15:27:02.451Z",
+  "lastUpdated": "2026-09-08T14:03:54.373Z",
   "days": [
+    {
+      "date": "2026-09-08",
+      "stories": [
+        {
+          "title": "Game developers in Europe are more worried that artificial intelligence will push them to speed up their work pace, rather than replace their roles",
+          "summary": "Game developers in Europe are more worried that artificial intelligence will push them to speed up their work pace, rather than replace their roles WN Hub",
+          "category": "ai",
+          "source": "WN Hub",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5BRTdMd2tFSzdKTkpWaW14LW44bmRId2NZd0lZUUN2VHRhRG5hVFdyeUJCTXpCdkxNaEhyZUpTTm5tS1FoWkdpeGVJczNDN01vbXlqOEVmQ3Z0QQ?oc=5",
+          "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80",
+          "publishedAt": "Sep 8, 2026"
+        },
+        {
+          "title": "Personalized vaccines work, making them is the hard part",
+          "summary": "Personalized vaccines work, making them is the hard part Drug Discovery News",
+          "category": "biotech",
+          "source": "Drug Discovery News",
+          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNSTdOQndCeWt5cGt2VkIxdjE1VEphdVpqMHU2QnctMnhrdXEtVjlSWWlaTDVrVHlpVnZZT2c4NzJnbmZCQnh6aW1nVEhJYXo3RlgwLTBiTjluY3loNW9RWEh2cUhkZlpDTHNpeVlWbnI0ejlGNzFCdlpWaDZSY2E1UlEyX3o3RlBoazlleUhORXpUZnV6NjJNcWduYw?oc=5",
+          "image": "https://images.unsplash.com/photo-1530026405186-ed1f139313f8?auto=format&fit=crop&w=1200&q=80",
+          "publishedAt": "Sep 8, 2026"
+        },
+        {
+          "title": "Unitree unveils world-model-driven fully autonomous fighting robot; stock has halved from peak",
+          "summary": "Unitree unveils world-model-driven fully autonomous fighting robot; stock has halved from peak finance.biggo.com",
+          "category": "robotics",
+          "source": "finance.biggo.com",
+          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFB5Q2RBZ0lPeFdxYl9GbFpLc2NiQWRJMVpaNkpnaWxXb3NYcXl5dmZGOHBfdVVJZjNOd0Z4WUNIc2plVmdxaF82X0c5UTFzX2Nqb3pOZzdCaEI4QVVIYThxWUZBMHZZRVBYRUQ1d0paWGxKQ0FWdkE?oc=5",
+          "image": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?auto=format&fit=crop&w=1200&q=80",
+          "publishedAt": "Sep 8, 2026"
+        },
+        {
+          "title": "Superfluid qubit could help scale up quantum computers",
+          "summary": "Superfluid qubit could help scale up quantum computers Phys.org",
+          "category": "frontier",
+          "source": "Phys.org",
+          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE04dmdhN25qUVdxUnVNTkFyMF9yTC1yYXo2WkwzODdKN3FGOVNLaDBtaXZBblZiZXRfd0k3TVZGLW94RHB4LS1IS2FpcmdscTZ3VVJ5TzVlakFCZFNPWF9LQlhyMnBuS0xYalhLYzkzbG0yRzA?oc=5",
+          "image": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?auto=format&fit=crop&w=1200&q=80",
+          "publishedAt": "Sep 8, 2026"
+        },
+        {
+          "title": "Ethereum Sets End-2029 Target for Quantum-Resistant Security Overhaul",
+          "summary": "Ethereum Sets End-2029 Target for Quantum-Resistant Security Overhaul bloomingbit",
+          "category": "frontier",
+          "source": "bloomingbit",
+          "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1McUYtLTBGVDNDM3FTZk1OaTV0S29RcjAtS3poX3pTcVhkYlBxdzhkTWk2TTdoUnUtZ0NMZ1RTMWVRY3dzYmhoTzZPTndYaGJkWTZoZw?oc=5",
+          "image": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?auto=format&fit=crop&w=1200&q=80",
+          "publishedAt": "Sep 8, 2026"
+        }
+      ]
+    },
     {
       "date": "2026-09-07",
       "stories": [
