@@ -1,6 +1,56 @@
 {
-  "lastUpdated": "2026-09-10T14:00:26.721Z",
+  "lastUpdated": "2026-09-11T13:59:35.420Z",
   "days": [
+    {
+      "date": "2026-09-11",
+      "stories": [
+        {
+          "title": "Doomsday tech: could AI really kill us all?",
+          "summary": "Doomsday tech: could AI really kill us all? The Standard (HK)",
+          "category": "ai",
+          "source": "The Standard (HK)",
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPYWFONTlUNUxqa3Q1Tm0xUG13UFVHXzhaRVRUTEU2UHZfNHAtRnc1NzBzV2E1cEdfOWdUNlZSdUhqamhGMDlqaWhFY1lmSzE3STNpbllzN0l6WDJFZVh0QzJKNmNlVlppUGIxM1hpbm5qdVFNWlhtWUx6YndhTFpJb3Y0YVNOSi1IZ3ExeTlJOTVSTGl5XzhVVw?oc=5",
+          "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80",
+          "publishedAt": "Sep 11, 2026"
+        },
+        {
+          "title": "Egg-free cell line solves an MVA scale-up problem",
+          "summary": "Egg-free cell line solves an MVA scale-up problem Drug Discovery News",
+          "category": "biotech",
+          "source": "Drug Discovery News",
+          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOaEpPUmhDNE01OWxtYUpBM2dCQ1ZYQ3lNMHZ5TFVQLW8yQk9HRTdjLW5lZVZ4clpleTZNNkZmY0VSSnZ6WUU4SnQzTW9GVHNWQ1htaUNOSHNqNy0wQndQZWY5LXF2UDFyR3UxLWJnUEJLUnZjR0liRmRiMU5TMzE0eWpRcXYydU1DdUVmaTUxT0xJbjA?oc=5",
+          "image": "https://images.unsplash.com/photo-1530026405186-ed1f139313f8?auto=format&fit=crop&w=1200&q=80",
+          "publishedAt": "Sep 11, 2026"
+        },
+        {
+          "title": "WATCH: Humanoid Robot Does Indian Classical Dance To ‘Mala Jau De’!",
+          "summary": "WATCH: Humanoid Robot Does Indian Classical Dance To ‘Mala Jau De’! Times Now",
+          "category": "robotics",
+          "source": "Times Now",
+          "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNY1kzU3dYMDZKd3RSLXAtQWl2d2ptSmdoTkpHOXRNMGNvT28xaGttY3pnUjZSR0hfNEVpUFJFM1NFOHhOazNJU0dqUlB3ekU3allhRmFWbWJMRER1ZGI1cEs5NjQwMWxBUWUxUF9uRjhiYWt4RWFyd0RPT3JjR0k5MnZJZ1ZPMm1vUktxeGxza0o0NFVRUkoyWThGdkVnRnEwZUR6VWVBWGZ3LVZ1Zk53cGUtLXRqR2lXV1lnUjNqQVR0ZXhLRlVPcVZLanV3TTg5NTllNzZrN0NJbGNN0gHiAUFVX3lxTE1TSVIwU1FuejQ1bjdsN05Gc1pUU0dTR1Q4TlJobGNtd3YtZGVsR2t1VjJuRm9uUG5SbFJJdTlndkQyR3doWGtpejU1eXVBZy02NFpMNXJ0b0dWdXJOU3VTejNrWkZrd1dLLWZ3STZJTEtreUdBM1lXd0oxREQ3NDF6enlFRXJGa05WU25NdzBydEQtWkVVNUtjc2ZEOEVsaFNxVnAzLXE2eWtCUGl5THlNM0Z0eUlPZ01FV3FwaWNmUlpYVVVOVGRBaGFVSTdhZ25MZFM1TXFpaVlmRXJNOXd3WVE?oc=5",
+          "image": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?auto=format&fit=crop&w=1200&q=80",
+          "publishedAt": "Sep 11, 2026"
+        },
+        {
+          "title": "QUICK SPARK: AI Chip Boom Sparks New ETF Focused on Semiconductor Foundries",
+          "summary": "QUICK SPARK: AI Chip Boom Sparks New ETF Focused on Semiconductor Foundries Benzinga",
+          "category": "frontier",
+          "source": "Benzinga",
+          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNVkdJUnhtUDE1WjBSdUFNMFp3SUx1MEVBWHU1M08tc2Rmc2VIbHFaTy00aVdDSEF1R1dZWlBCVlRUd3JWODhTbFVOb1c1dWdBS3BFVTFXQTBnak05STNWNEdSbEdXMEZfNlphZ0VKc1RmVzRYcUNkUGpJbndmTUhqQm1LM3RvR2ZsSjd5T1g5ZklQTVZrUy1lNjlxREE5N21WdG5oQk03WEc3dmdwb3hzaWVwVmVHRmxWZVByY2NQbkk3dDhFX1hr?oc=5",
+          "image": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?auto=format&fit=crop&w=1200&q=80",
+          "publishedAt": "Sep 11, 2026"
+        },
+        {
+          "title": "If I Could Only Buy 1 Quantum Computing Stock, This Would Be It",
+          "summary": "If I Could Only Buy 1 Quantum Computing Stock, This Would Be It The Motley Fool",
+          "category": "frontier",
+          "source": "The Motley Fool",
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPeVlCdGhwRW5ETTBxVFdYd19zaGttcWxPWXFIdWVqM3p3eXh5QVgxa2g5MG9lWkZPa0s4ME5Fc3Y3MXhHbF9FQ2xNMjlSS3lDbjdqc2REWWh1RXNkdWMyWlliQWhOQ2R5MmlQeF9zOFhSbHFzazhwckE2RVVHMk1BX3NqdHJmVkdVZDhtUGFrZjgzRjVCcVZkQg?oc=5",
+          "image": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?auto=format&fit=crop&w=1200&q=80",
+          "publishedAt": "Sep 11, 2026"
+        }
+      ]
+    },
     {
       "date": "2026-09-10",
       "stories": [
