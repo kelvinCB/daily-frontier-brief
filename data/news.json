@@ -1,6 +1,56 @@
 {
-  "lastUpdated": "2026-09-11T13:59:35.420Z",
+  "lastUpdated": "2026-09-12T13:18:28.949Z",
   "days": [
+    {
+      "date": "2026-09-12",
+      "stories": [
+        {
+          "title": "Mental Health in the Age of Artificial Intelligence",
+          "summary": "Mental Health in the Age of Artificial Intelligence Mad In America",
+          "category": "ai",
+          "source": "Mad In America",
+          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPYjVBV1BsaDhxX2JiaFlFOTQzMDNxdzNwSldyd0JQU1ZSeHZIOTJZR2VwRlczbHNSMDctRW9WMll3VlBlTlRxUXlOZ1loXzlEdlotb1k2ZG9Ec21OYTl3TEFDci1FWk5TOWVUZmNQTDBtT0QteWJRNmNiNTZxdV9HLTBRemtsT2hHLWRKUWZKb1RWRXc?oc=5",
+          "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80",
+          "publishedAt": "Sep 12, 2026"
+        },
+        {
+          "title": "CRISPR and Surrogate Broodstock Push Aquaculture Toward Programmable Monosex and Sterile Fish",
+          "summary": "CRISPR and Surrogate Broodstock Push Aquaculture Toward Programmable Monosex and Sterile Fish Bioengineer.org",
+          "category": "biotech",
+          "source": "Bioengineer.org",
+          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOZ2QyYkRmSkRqV2t2eVpwTlgyUFAzNTRGVnlqNVk0ZGhrVGVwRWYtODU2Qk1ENjJjUmk3WHYzMWFiUENrWW01UVdrUDRzaEpKem9aU3IzaHJ1OWZJX1FYRmwtWnNtQl80WUQ4T0w1RFNkaFFxNGxSMU56a2JTenMzcUROSnR2QnhIc1piNFhYbW5MTlpLNjQtbEJZOGxJd0xKMDVrVl9IZ2d6QUlhSDFScEZGV0paaVJEM3c?oc=5",
+          "image": "https://images.unsplash.com/photo-1530026405186-ed1f139313f8?auto=format&fit=crop&w=1200&q=80",
+          "publishedAt": "Sep 12, 2026"
+        },
+        {
+          "title": "Why robot hands are one of the hardest problems in humanoid robotics",
+          "summary": "Why robot hands are one of the hardest problems in humanoid robotics Interesting Engineering",
+          "category": "robotics",
+          "source": "Interesting Engineering",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQQjNyeWlHOW9pUnlmUE1qOVIwbzhicHBQOTVhenFqZ0t5MFFUVm5BNklGMFBYWGpucVcxNVhhbTRPYXNRcFQxT1l6V20yWHFNZ3o4SXhRazlBSE5OZjkxYlBiNkcyMnZhc3ZjNVNnR1J0elRRMDh1ckhVeTA5dWJSRWVLLXFRY3hxWUFRbUJZTTBoRTQwQ1l5YlRpSERpeVc0aXJ5Q0hUbnZDS1ljZG5NcHB3?oc=5",
+          "image": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?auto=format&fit=crop&w=1200&q=80",
+          "publishedAt": "Sep 12, 2026"
+        },
+        {
+          "title": "SpaceX sues to block release of tax‑break records for AI semiconductor facility",
+          "summary": "SpaceX sues to block release of tax‑break records for AI semiconductor facility dig.watch",
+          "category": "frontier",
+          "source": "dig.watch",
+          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1KOHBPRFpaMVRoS0ZvQVFXVHpmODVGbjA3cllPYUt2cW1oT1Z4ejUyV1l6V01tcG9UY3Uwdjc2LTJERktUTjhSQk1wUUJrLUdFT3I0dGdQZ1V2QjRFRjV3ZEU1M00zbTFCRUMycTY1b3EtNndFMGhBNnRuVWZhSkE?oc=5",
+          "image": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?auto=format&fit=crop&w=1200&q=80",
+          "publishedAt": "Sep 12, 2026"
+        },
+        {
+          "title": "From assembly to inspection with a robot's eye… Klerobotics wins RoboWorld Award",
+          "summary": "From assembly to inspection with a robot's eye… Klerobotics wins RoboWorld Award venturesquare.net",
+          "category": "robotics",
+          "source": "venturesquare.net",
+          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBVcjhySDJrd1hTVkRmOW9wTzFLSm9NbE5XMGpqUjBaRVBrLVdCYmNycURQZmNTTFloaktWeGktejZ0NDBNWnFIakVqQ2N1aF9WZUhB?oc=5",
+          "image": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?auto=format&fit=crop&w=1200&q=80",
+          "publishedAt": "Sep 12, 2026"
+        }
+      ]
+    },
     {
       "date": "2026-09-11",
       "stories": [
