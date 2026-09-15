@@ -1,6 +1,56 @@
 {
-  "lastUpdated": "2026-09-14T16:06:41.283Z",
+  "lastUpdated": "2026-09-15T14:35:42.006Z",
   "days": [
+    {
+      "date": "2026-09-15",
+      "stories": [
+        {
+          "title": "Beyond Generative AI: CATL and Aramco Ventures Bet on DeepCtrls to Power AI's Second Act in the Physical World",
+          "summary": "Beyond Generative AI: CATL and Aramco Ventures Bet on DeepCtrls to Power AI's Second Act in the Physical World Yahoo Finance Singapore",
+          "category": "ai",
+          "source": "Yahoo Finance Singapore",
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQdVBuTzd0Q3ljNHdkRENUZkl0R2k4VlNlMXpyMGZoMW5pR2RsUl9lRUl2b01vd2JPdmYzZGdLM2tKQXRjTURJdDJsVHI3WlM4amt5dDdQUU5lMENCd1h4MDBXdUZhN0tRaktQWDFVdlE2MVJ4VUtQajU1UU5WTUhMWW1LTGNhUnlO?oc=5",
+          "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80",
+          "publishedAt": "Sep 15, 2026"
+        },
+        {
+          "title": "RXRX: AI-driven drug discovery engine delivers first-in-class assets and strong partnership milestones",
+          "summary": "RXRX: AI-driven drug discovery engine delivers first-in-class assets and strong partnership milestones TradingView",
+          "category": "biotech",
+          "source": "TradingView",
+          "url": "https://news.google.com/rss/articles/CBMilwJBVV95cUxON2J5czVnLVdwMU8tanFhM0k0MUQtTUg0Vm9MeVhCLVpMaWpLVUdFY3ZYQm94Sk9ONm5NOFhkVjNCcFFvZXVWakZ4N2ktcjRZcVl2enZWU2RMRUpkdXptTmljVFRpay1ZNjgxd0hfSTJtMEx3b05tcG1yRHNzZzJsVG9FM0ZSN3dwckc3ZTR0NklXZ0Q3U2lqaUlYVUxxeXZjai1KSy01bGI0aXZMZnVoUUljR1pxbG5uMzNTTm44d0lvZWh2QWlYUk91Vm5uYWRrWjUxT01CSi1mYU9KcExONXVNRUdpelIyNHhtV1BrMWxJaGhVTHdubGpmZnRVUTVra1VlVUxjdGRmQ0VXYTM3eXdROXhjME0?oc=5",
+          "image": "https://images.unsplash.com/photo-1530026405186-ed1f139313f8?auto=format&fit=crop&w=1200&q=80",
+          "publishedAt": "Sep 15, 2026"
+        },
+        {
+          "title": "Unitree Robotics Plummets 44% Amid China's Planned IPO Crackdown on Humanoid Robot Sector",
+          "summary": "Unitree Robotics Plummets 44% Amid China's Planned IPO Crackdown on Humanoid Robot Sector blockonomi.com",
+          "category": "robotics",
+          "source": "blockonomi.com",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNd1lZNjVuYXkyQXpvVHYxM21KeEJqLW5TVGxjTkFRcjdsVndCeW5YcjAtZFBWMThiSU9ETkFVU3FzZVFYVzJDWDdpLXZYbDFVVGtsOTBub2FGUzQzQm5SQUdhX0ZVWmlxQ0hPcGJGeE95V1VINHhsdWgzYTgwc1V3STRoLV9lb25hZmZjS05kRFcyYUc1MXQzcFBUZllHQ1pFbmlkVHpvcGhYTGMtTmJBbg?oc=5",
+          "image": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?auto=format&fit=crop&w=1200&q=80",
+          "publishedAt": "Sep 15, 2026"
+        },
+        {
+          "title": "Mitsubishi Electric Backs OptQC’s Optical Quantum Computing Hardware",
+          "summary": "Mitsubishi Electric Backs OptQC’s Optical Quantum Computing Hardware HPCwire",
+          "category": "frontier",
+          "source": "HPCwire",
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQTndMS01xeGEtOS1INEdYQ0p2eGpLb0ZNMEgzQi1GUmQ4aktCQlFjTFFlZHlpWmFZMlZ1MXBFVzJnMWJzclFfUldMS3ZtLWJNZEtabFFoVXV5aTFJV2JfS09sYXJiT2tpMEhtSHdYSURlOG40VlAtc2ZfYlVfdHZrNVZ4R1NpQ2JxWXFERTNUMWxESmUyWkhnNlZmalB0d0xLbXIwR1dJa0k?oc=5",
+          "image": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?auto=format&fit=crop&w=1200&q=80",
+          "publishedAt": "Sep 15, 2026"
+        },
+        {
+          "title": "Buy TI and NVIDIA for Exposure to Semiconductor Boom",
+          "summary": "Buy TI and NVIDIA for Exposure to Semiconductor Boom Zacks Investment Research",
+          "category": "frontier",
+          "source": "Zacks Investment Research",
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOWmtwWWlZX29qM2ZqbG0ySmZNc2pPT3p6dS15Q2JKc2RlY2hiQjRmVUNsNHJUOG45R2tLMUNrcGtOOGo2UDY2cE04NDRZWnlIVGVsN19MYkVxNG1sbFRPMnM3MElHd3A3cUpnZElJZVRzTG92SExmbXBWd2tfM2xfMVdQd1V5dWRUVzFpa09KWU9YdkJobjgyaw?oc=5",
+          "image": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?auto=format&fit=crop&w=1200&q=80",
+          "publishedAt": "Sep 15, 2026"
+        }
+      ]
+    },
     {
       "date": "2026-09-14",
       "stories": [
