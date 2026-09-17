@@ -1,6 +1,56 @@
 {
-  "lastUpdated": "2026-09-16T14:31:50.298Z",
+  "lastUpdated": "2026-09-17T14:35:44.724Z",
   "days": [
+    {
+      "date": "2026-09-17",
+      "stories": [
+        {
+          "title": "OpenAI reports more concerning AI model behavior",
+          "summary": "OpenAI reports more concerning AI model behavior upi.com",
+          "category": "ai",
+          "source": "upi.com",
+          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNR2RibnBNZnhiT0xRc2o3Ym1MQWJTYmdieFRxWGRYTGZQNTJqOGpmYWNXRW1fZUhNMlJBNkZhWjF0eW50TnZqakRPeWtqSlBvY0Y2N3pTdUQzVkRjZVlDX1JHTktHdnlraUJwQVZtUjNGTTB4QkFLV2x6dEpKcjlhaG9zaGhYRVNmSkJqLTFERE1QRENVbk51TUd4YnJRRGYtQVZj0gGoAUFVX3lxTE8tcFUwajYwNm1MdEpVendNazNJNEcwWDAxck1MYW5CQ1BSSFFfTkZjbDNrSUc4dnptcmsxZzJQOU5JOV9MZUg5WnUzZ1ZlNDJqM3lhakk1X1g3QkVVRkNUOWJfOXhWZk50VFVFbnozVU80YmNHd1hSOFNmTHR3d2M5T3kyUmFYVE1wQjFCNXBYVS1uSTNFUTNHWHpRT3VLcnZzUnlpNkozaA?oc=5",
+          "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80",
+          "publishedAt": "Sep 17, 2026"
+        },
+        {
+          "title": "CRISPR Therapeutics Surges As Gene-Editing Hopes Grow",
+          "summary": "CRISPR Therapeutics Surges As Gene-Editing Hopes Grow TipRanks",
+          "category": "biotech",
+          "source": "TipRanks",
+          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNaV9OYVRxV0paN2RQUWFOZmxYd2xqbWg4WXV5SGlJYWN0Wlh6Q25PblBBVGFlbTU5a2xFQmR1STdPelE2UndObVRkbnloRENOVDBoc0tnOGlIdHJORDNNMlRyX0J3c3ROazJWa1BaYlRLWF9OaGl4eEpJM1lrdlhZSjc1czJ4SDdCTGdXSFg5MnVNYm1vUnJn?oc=5",
+          "image": "https://images.unsplash.com/photo-1530026405186-ed1f139313f8?auto=format&fit=crop&w=1200&q=80",
+          "publishedAt": "Sep 17, 2026"
+        },
+        {
+          "title": "Human-Like Hip Motion Cuts Modeled Biped Robot Walking Energy by 14%",
+          "summary": "Human-Like Hip Motion Cuts Modeled Biped Robot Walking Energy by 14% AZoRobotics",
+          "category": "robotics",
+          "source": "AZoRobotics",
+          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE44SHVUN0MyX1pMZ2d3Wnl0VmhkVWloXzNBNEo2R2IyQlgxUC1FRXBNdXU1VGxZN2E3LXJEdWVUOG9EZlNjbW1nUF9UTldiOElqSktFaFQ3ZzUtelVjUWJN?oc=5",
+          "image": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?auto=format&fit=crop&w=1200&q=80",
+          "publishedAt": "Sep 17, 2026"
+        },
+        {
+          "title": "Novartis pays $125M for Sironax brain delivery platform",
+          "summary": "Novartis pays $125M for Sironax brain delivery platform European Biotechnology Magazine",
+          "category": "biotech",
+          "source": "European Biotechnology Magazine",
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNaHpDZ3V3aUZua0hmUDRxZjJfZnJCeHFaRmRUSWpKOVdNemh0YXFCZzlReDhnNEZtTk8ySjF3RjZOenppTlpSeGk3WW9ULXc2dDFqSUc2U1dvNkw2NE5wQ0owWTdoOUg0aDVBZXdWU2VmSnJTc1BlQnBaM0YzeElCSGZfTzRWSk9OdWFTVjhfdUItRG03YTlHa0F4R2FzVU0yY0NsdQ?oc=5",
+          "image": "https://images.unsplash.com/photo-1530026405186-ed1f139313f8?auto=format&fit=crop&w=1200&q=80",
+          "publishedAt": "Sep 17, 2026"
+        },
+        {
+          "title": "Senator Mark Warner Sits for Interview with Reuters on Artificial Intelligence in Washington",
+          "summary": "Senator Mark Warner Sits for Interview with Reuters on Artificial Intelligence in Washington The Lufkin Daily News",
+          "category": "ai",
+          "source": "The Lufkin Daily News",
+          "url": "https://news.google.com/rss/articles/CBMimgJBVV95cUxQandtT1BJQUpCWVV6NkFWRHhHWDhuN2JKbmFFcVE5ZXNrZGltUHdkZ3oyRWptSHU2MnZHblRiNUlmLVk3RFVROExtblJPdVl4SWR5T1dSclNrNHh3ajFqaVFDcEZwalJmLVlzNFJ5YlZKOVlKOFpibXF3OHpoMUFicFdNNTVFWHI4TC1KTkk2dzRWVWktQmtBNzF2dGtKRzBLOXlZTGhSTVdnUEhpbkkxajBNMVN3cl9vYWg3cVpMYWVKVDlSWDBwU0lOcmhkR1hNV2c3VTA3RmZ4blN6cHZSLWZOUWlFUm5RTDRKS2dMQzFLTTlBdlBPU3ktck0wajJ2emkyZzM5Sng1SDFEM04tNTF4d2d6emdXRHc?oc=5",
+          "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80",
+          "publishedAt": "Sep 17, 2026"
+        }
+      ]
+    },
     {
       "date": "2026-09-16",
       "stories": [
