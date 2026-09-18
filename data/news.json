@@ -1,6 +1,56 @@
 {
-  "lastUpdated": "2026-09-17T14:35:44.724Z",
+  "lastUpdated": "2026-09-18T14:02:10.165Z",
   "days": [
+    {
+      "date": "2026-09-18",
+      "stories": [
+        {
+          "title": "Artificial intelligence: can GPU compute become a financeable asset class?",
+          "summary": "Artificial intelligence: can GPU compute become a financeable asset class? Pinsent Masons",
+          "category": "ai",
+          "source": "Pinsent Masons",
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNNG50UURZNHRkOUxSMEItd2xoMGJDbFJMeVhQTm13OTBMcVJrUVhXc2NVOFc2NEh3VEJtZzhJX0dwOTBzN3R2dDc1VWJOX2RHZ0duZ0N3TkNaeWZ4U1dsQ0QyaHRNOU1uNHdVVTJaZHdEcHRFWnV2RUFuaDV6cWo1aXRaejJtd3V4VTBHQk1Yd0VUbXpyTTd2bDZGanFsWTVIdk9iZ0otU0lZZw?oc=5",
+          "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80",
+          "publishedAt": "Sep 18, 2026"
+        },
+        {
+          "title": "Florida clinic is first in Southeast with gene therapy for fragile skin",
+          "summary": "Florida clinic is first in Southeast with gene therapy for fragile skin Epidermolysis Bullosa News",
+          "category": "biotech",
+          "source": "Epidermolysis Bullosa News",
+          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQbTZCY1QwUTFMVEd5SF9uajFPSVFHdnhGMFhGdWJuTGRMWE5GMHp2WnJHbzc5UXRYZHZFZE4tRE56Vk9lUDlhVWJUaWhmZnJzZllxSXl2dkp1WGZKMXNKbTBBRXBMM1hrWGl6dS1KNzFnVmhQWjFmcE9IUUwxMk5HbE1WdXJNSExKY093aVF3V0M3d1RNOWxSUWs3YW42TU5zaUVSb1hQcHp5am1jRmZyYmNBWFRXeTAyWFh6cw?oc=5",
+          "image": "https://images.unsplash.com/photo-1530026405186-ed1f139313f8?auto=format&fit=crop&w=1200&q=80",
+          "publishedAt": "Sep 18, 2026"
+        },
+        {
+          "title": "Figure introduces new humanoid robot neural network",
+          "summary": "Figure introduces new humanoid robot neural network Interesting Engineering",
+          "category": "robotics",
+          "source": "Interesting Engineering",
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNVXZCZzlpREZtd0ppSW1EQTJ4NXMtbUpqaHZzVDVsdS1tTXhPQm83RkI3SkNMaXRDRHFqSVpCZ2ZGSFp6RkhNRVNjTW5zN0tUXzJzY2lpQVB2TFFVcE9GZXl4dlgtS3pVTWZJVGFJaUxCMlpxQlRXWUMxaTE3V2R6SFAzOXByek5HalVFM2p0bmt1NTZPRHdZNQ?oc=5",
+          "image": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?auto=format&fit=crop&w=1200&q=80",
+          "publishedAt": "Sep 18, 2026"
+        },
+        {
+          "title": "Trump Admin Launches $215M Quantum Competition: IonQ, D-Wave, Rigetti Take Notice",
+          "summary": "Trump Admin Launches $215M Quantum Competition: IonQ, D-Wave, Rigetti Take Notice Benzinga",
+          "category": "frontier",
+          "source": "Benzinga",
+          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNMl9SWmZSOGVkRHAxdHhZSEYxd1VxMTVQdU5HVXRQQ1JUTE1SQWFPYzJ4S3VCY1h2aUhQRzBQVkIxOGZiWGJUSDJKYy10Wjk5Vk84cE8wUDZuZE41ZnNlemFSbllLYXlLYjlCUTFvUVFRZTl1b1BnOVp3UU1IOWpCVVlSZ1hISnhqdTVqSEZ6RDh6V2lhaVgxRWZTTUpGQ1l2R3d1eVd3QnFBV0tFYWhRcFUtNUlRWE9lYTRicURuc09EUXdxeGtFbTZn?oc=5",
+          "image": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?auto=format&fit=crop&w=1200&q=80",
+          "publishedAt": "Sep 18, 2026"
+        },
+        {
+          "title": "Guest Post -- The Quantum Inflection Point: Charting a Science-First Roadmap for the Nation",
+          "summary": "Guest Post -- The Quantum Inflection Point: Charting a Science-First Roadmap for the Nation The Quantum Insider",
+          "category": "frontier",
+          "source": "The Quantum Insider",
+          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQU3A1aXlsMzY3NGZ0eE1QbmYtSUJ5dnNnNzVrWDRXZ3dnZ1EzWEJ5YUVidGdmT0V0QkJ5OG5VQmg4RkZ4VFUyd2RHV0VOOVloY0pNZi0tMmpCMmVNUDVuVjhCR0NySWx3ck9HU2l0MUY5V2MxQWFLMWZmLUtiUVVRaUNUcmhEZ2M2aGlHWXdWNi1WZmJwUWxucFk4bUgyZDlMMXUxTVlla2hYcy12dzA0RkhKUlFGYl96cExhR216VEtHY1FzdG9sYg?oc=5",
+          "image": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?auto=format&fit=crop&w=1200&q=80",
+          "publishedAt": "Sep 18, 2026"
+        }
+      ]
+    },
     {
       "date": "2026-09-17",
       "stories": [
