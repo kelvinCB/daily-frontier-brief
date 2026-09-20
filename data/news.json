@@ -1,51 +1,51 @@
 {
-  "lastUpdated": "2026-09-20T10:30:17.437Z",
+  "lastUpdated": "2026-09-20T13:53:07.770Z",
   "days": [
     {
       "date": "2026-09-20",
       "stories": [
         {
-          "title": "Gene Robinson and Rashid Bashir: Chicago can be the place where the world learns to build AI worthy of trust",
-          "summary": "Gene Robinson and Rashid Bashir: Chicago can be the place where the world learns to build AI worthy of trust Chicago Tribune",
+          "title": "Artificial intelligence giants sued over collaborative call to ‘pace’ AI",
+          "summary": "Artificial intelligence giants sued over collaborative call to ‘pace’ AI The Independent",
           "category": "ai",
-          "source": "Chicago Tribune",
-          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQbFk5WXc2UXpaM1lNRFhleWNtU2x0QnBYZW9WNWRqNzFsU241SFRWeWNwaU9QVENSbmRQRlFBc3p4dGpCOGVicEZUOFlDSTVMZ01zVFhqNVNVV2ZHT2FKREh5TE5mTWNkY0RuSUJWTk8zUl9JVFk0ZlBfTTFhajdvaU1tMERiWDRPNEZ6MjRPZUQ5QXZZTFE?oc=5",
+          "source": "The Independent",
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPSXF4ZFd4MlU4STlFa1BjYVFfcUFzcWZrRXhIbUlSMVM3U2tETTFKc2pvbjc5Z1FqZWVGMWFNMjR4eVlGa3hXcnZjZzVmMWd0NmUxS2NWbF9taGFmR0oybG5jMkVTX3pmUVVqT2o2N2hQeVJ3VHprYmFydkVneGpLZnFERjlxZi1ldW5UeUdKYWZMcWljNFJ6LWh6cExUdWJ3TzNjOWZFMlJrQQ?oc=5",
           "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80",
           "publishedAt": "Sep 20, 2026"
         },
         {
-          "title": "The NIH funding crisis that could reshape biotech for years to come",
-          "summary": "The NIH funding crisis that could reshape biotech for years to come Drug Discovery News",
+          "title": "Ocugen Lays Out Three-Year FDA Roadmap as Gene Therapy Timelines Stretch to 2028",
+          "summary": "Ocugen Lays Out Three-Year FDA Roadmap as Gene Therapy Timelines Stretch to 2028 AD HOC NEWS",
           "category": "biotech",
-          "source": "Drug Discovery News",
-          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQQUpXMk01ODhESUs0TzhqaEFZdXZzSDVxXzFEWlVYYXdibE5ZTW5uUDljd1lydkdIc0JhUVVQNXJCX29FWVJOczlpVjIxSFhGeWZSZHYzZHE0OUxRcWtyY3NtYVBmV3NwcE85VGNLd3FyWmQ1UzZ1WHA1LXRUVHJvU2k2MnlndFh3NU9Zd1VHRFBzMk16M29HSTFnemxsTkFRRGxhZWRtTTQ5b2s?oc=5",
+          "source": "AD HOC NEWS",
+          "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNRzUwTGt1VmpXa1ZWMndVVGdoVTZna1dsNTg4b3A1bmVnOXFYMmVKeHVDOHdXMzRTZUtVSDlUanYwS0lyVzNBVzRWNXA3STRhRFZmNW16Sk9wMGlLaTlkZTl6MW9xTUlEX3lQOHVTTWR2MW9rNGdCQzBTYlBxR2F2ay1RcWZOTUwyd3RfMl9udHRIZG0wSXdoSjhyX3VoVXU1dzFzbkFKWjZzWEUzbVlGYl9UM3RzTDhpVFhyNTZxZUZjRkl0RkVVRDJoU183b051WUQ0QTJjcXctYUNT?oc=5",
           "image": "https://images.unsplash.com/photo-1530026405186-ed1f139313f8?auto=format&fit=crop&w=1200&q=80",
           "publishedAt": "Sep 20, 2026"
         },
         {
-          "title": "Two Birotors With a Deep Connection Can Breathe Life Into a Quadrotor",
-          "summary": "Two Birotors With a Deep Connection Can Breathe Life Into a Quadrotor spectrum.ieee.org",
+          "title": "Japan launches 1st Humanoid Ambulance for robot repairs | Tap to know more | Inshorts",
+          "summary": "Japan launches 1st Humanoid Ambulance for robot repairs | Tap to know more | Inshorts Inshorts",
           "category": "robotics",
-          "source": "spectrum.ieee.org",
-          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFA0TFdITDdRa0dpcHJYcTJxbkYzdDU0M1J6LURVNnp2TTR5Rm5BVjZkdEFDdHU1dUFWVVp6QjRVY3UyeFEyZGpxVkpyNkxEanlham1IY0hSVzNXRm9HTVNEUkFpbVhJeUw0TV9ZRjV3?oc=5",
+          "source": "Inshorts",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQY2hhR2xfNXNQbGRRaHo5dVFYUXNoT2dORG1KVC1jNlJyZ3BKS3lBU1JSQXA1OE0zODlfU1NxUzFZM2l6TUJzYldBZXZ2NTdiUHpjVW9iejV6LUFlLUotQm1UV2lybHAtOEt4cm9zWlA0cFRRWkp3NUFvbkZ5ZXFILWVkZzRJbmhKTkhsQjhveTBlaXF4RE1ZeldJbzJqdzjSAZ8BQVVfeXFMUGNoYUdsXzVzUGxkUWh6OXVRWFFzaE9nTkRtSlQtYzZScmdwSkt5QVNSUkFwNThNMzg5X1NTcVMxWTNpek1Cc2JXQWV2djU3YlB6Y1VvYno1ei1BZS1KLUJtVFdpcmxwLThLeHJvc1pQNHBUUVpKdzVBb25GeWVxSC1lZGc0SW5oSk5IbEI4b3kwZWlxeERNWXpXSW8yanc4?oc=5",
           "image": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?auto=format&fit=crop&w=1200&q=80",
           "publishedAt": "Sep 20, 2026"
         },
         {
-          "title": "Tessolve in talks to acquire two firms, eyes $500 mn revenue in 3-4 years",
-          "summary": "Tessolve in talks to acquire two firms, eyes $500 mn revenue in 3-4 years Business Standard",
-          "category": "frontier",
-          "source": "Business Standard",
-          "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOdG9mcFZBaDJ5MXduZ1NXZEY0Z1k0SjZKZG9fOGlSU0dYUE90S2djaXRVN0x0ZEwzTW9kY2kyWFdfcy1PWWhrbF9wWlhrdXlud3BYWG5qcmdPNHRzR21aNnppUWtFTkFvemJpdUk0dlo4cW44UlNJbjY3enh5enEyN0lpd2pINjZnMTZ5R2R5S0pXTWtWSkw1RlVBMVpaUDJWZnlNU1p4Mi1OdzF0Um1pWlI0ZERiVlNEX0ZXbVgyTlFVYXd0TW5yNEt5X0tuOHJwczUtUkFFTdIB3AFBVV95cUxNSnRRSThxeFk0dWxvbnN5TGs3dktZclNUbWFqTjY5SzhzYnJYZDQtNjRXdUxMS1B5SkZYVnBYS1JJeXlLbXdWUUdaMjB3SXpwLTNLRzNtY1k5Z2tsWDRSMWFGRTV1YkYydUVFNC02WHh3Tlp3UTR2bEVocUFqOEhMZXc5dUktN09ZU0xjdW1jNUU3STNzUC1TSXp2YXBxRk5za2tMa3dobEI1VU84QmxFZ1RxNTRyZjljdk95R1FBSEkyU0ozSXFYOS1KdEdFMDIwZWlkMm5xUkpncTFu?oc=5",
-          "image": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?auto=format&fit=crop&w=1200&q=80",
+          "title": "Nvidia's Jensen Huang on artificial intelligence",
+          "summary": "Nvidia's Jensen Huang on artificial intelligence cbsnews.com",
+          "category": "ai",
+          "source": "cbsnews.com",
+          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQVUpsci04dXBTUkZhdWlwa0M0d2tyYzhObFVWX1BKZExvbGEzalk5X2JSVFJ3SzVlWXRTbU8xOTFXMml1Y3p5Q0ZOc2lQUDlPMmp1SWpCN2lrMlFzZllGRTZZalphU0lBc2thdDBGakcyaVBqeGdLNGNKQjFQOEdfX3RHRVU?oc=5",
+          "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80",
           "publishedAt": "Sep 20, 2026"
         },
         {
-          "title": "AI is going to change all our lives. Ohio experts explain how",
-          "summary": "AI is going to change all our lives. Ohio experts explain how dispatch.com",
+          "title": "Berkshire Hathaway's Favorite Artificial Intelligence (AI) Stock Looks Like a Genius Buy Now",
+          "summary": "Berkshire Hathaway's Favorite Artificial Intelligence (AI) Stock Looks Like a Genius Buy Now The Motley Fool",
           "category": "ai",
-          "source": "dispatch.com",
-          "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNSkQ2cWU1TnVEeUx3bE1oQTFEdVNvdUw0SzZHMGpsQnpfZGlyZDlrOXU1SjhIeWlYWjZNV3ZMTU5lcE9ndXRnVWl5TzhQMktvYXdqQU1iaEhDeVB2bDlMZ3d0SVVOVHBwT1ZtdGZEdnQxYzhSNUE4cnpwYVRKSVEzZlF3djRhbXpTbDhOX2xka05xVnI0cDlvOG0yTElSQm9RbUktSi1XbXp5TUlSckVFVDl5X21wS0QtbS1lQjlMbzI0TEQ3enN4QTZDX1VHVUY5U0czdGxyeWJ5Zw?oc=5",
+          "source": "The Motley Fool",
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPMV9mZnd4RUxjckVleHppWW9CWmZUX1p4TktuX2NWaDB0WmlSWVNkNi1vc19XX2xHMVRPZlQ4bmQyQU9VQkV0VW5SNHpJY21ZeXpwa3BwSnhMZ0U4eFBGMExWdEhlcTU5Yy16andzWU5HZTZIdmM3X3doUGJyS2tPdnBxM2RtTnJXRDJzbEk5Z0FSOWhYbWZZNQ?oc=5",
           "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80",
           "publishedAt": "Sep 20, 2026"
         }
