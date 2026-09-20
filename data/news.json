@@ -1,6 +1,56 @@
 {
-  "lastUpdated": "2026-09-19T13:38:41.808Z",
+  "lastUpdated": "2026-09-20T10:30:17.437Z",
   "days": [
+    {
+      "date": "2026-09-20",
+      "stories": [
+        {
+          "title": "Gene Robinson and Rashid Bashir: Chicago can be the place where the world learns to build AI worthy of trust",
+          "summary": "Gene Robinson and Rashid Bashir: Chicago can be the place where the world learns to build AI worthy of trust Chicago Tribune",
+          "category": "ai",
+          "source": "Chicago Tribune",
+          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQbFk5WXc2UXpaM1lNRFhleWNtU2x0QnBYZW9WNWRqNzFsU241SFRWeWNwaU9QVENSbmRQRlFBc3p4dGpCOGVicEZUOFlDSTVMZ01zVFhqNVNVV2ZHT2FKREh5TE5mTWNkY0RuSUJWTk8zUl9JVFk0ZlBfTTFhajdvaU1tMERiWDRPNEZ6MjRPZUQ5QXZZTFE?oc=5",
+          "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80",
+          "publishedAt": "Sep 20, 2026"
+        },
+        {
+          "title": "The NIH funding crisis that could reshape biotech for years to come",
+          "summary": "The NIH funding crisis that could reshape biotech for years to come Drug Discovery News",
+          "category": "biotech",
+          "source": "Drug Discovery News",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQQUpXMk01ODhESUs0TzhqaEFZdXZzSDVxXzFEWlVYYXdibE5ZTW5uUDljd1lydkdIc0JhUVVQNXJCX29FWVJOczlpVjIxSFhGeWZSZHYzZHE0OUxRcWtyY3NtYVBmV3NwcE85VGNLd3FyWmQ1UzZ1WHA1LXRUVHJvU2k2MnlndFh3NU9Zd1VHRFBzMk16M29HSTFnemxsTkFRRGxhZWRtTTQ5b2s?oc=5",
+          "image": "https://images.unsplash.com/photo-1530026405186-ed1f139313f8?auto=format&fit=crop&w=1200&q=80",
+          "publishedAt": "Sep 20, 2026"
+        },
+        {
+          "title": "Two Birotors With a Deep Connection Can Breathe Life Into a Quadrotor",
+          "summary": "Two Birotors With a Deep Connection Can Breathe Life Into a Quadrotor spectrum.ieee.org",
+          "category": "robotics",
+          "source": "spectrum.ieee.org",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFA0TFdITDdRa0dpcHJYcTJxbkYzdDU0M1J6LURVNnp2TTR5Rm5BVjZkdEFDdHU1dUFWVVp6QjRVY3UyeFEyZGpxVkpyNkxEanlham1IY0hSVzNXRm9HTVNEUkFpbVhJeUw0TV9ZRjV3?oc=5",
+          "image": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?auto=format&fit=crop&w=1200&q=80",
+          "publishedAt": "Sep 20, 2026"
+        },
+        {
+          "title": "Tessolve in talks to acquire two firms, eyes $500 mn revenue in 3-4 years",
+          "summary": "Tessolve in talks to acquire two firms, eyes $500 mn revenue in 3-4 years Business Standard",
+          "category": "frontier",
+          "source": "Business Standard",
+          "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOdG9mcFZBaDJ5MXduZ1NXZEY0Z1k0SjZKZG9fOGlSU0dYUE90S2djaXRVN0x0ZEwzTW9kY2kyWFdfcy1PWWhrbF9wWlhrdXlud3BYWG5qcmdPNHRzR21aNnppUWtFTkFvemJpdUk0dlo4cW44UlNJbjY3enh5enEyN0lpd2pINjZnMTZ5R2R5S0pXTWtWSkw1RlVBMVpaUDJWZnlNU1p4Mi1OdzF0Um1pWlI0ZERiVlNEX0ZXbVgyTlFVYXd0TW5yNEt5X0tuOHJwczUtUkFFTdIB3AFBVV95cUxNSnRRSThxeFk0dWxvbnN5TGs3dktZclNUbWFqTjY5SzhzYnJYZDQtNjRXdUxMS1B5SkZYVnBYS1JJeXlLbXdWUUdaMjB3SXpwLTNLRzNtY1k5Z2tsWDRSMWFGRTV1YkYydUVFNC02WHh3Tlp3UTR2bEVocUFqOEhMZXc5dUktN09ZU0xjdW1jNUU3STNzUC1TSXp2YXBxRk5za2tMa3dobEI1VU84QmxFZ1RxNTRyZjljdk95R1FBSEkyU0ozSXFYOS1KdEdFMDIwZWlkMm5xUkpncTFu?oc=5",
+          "image": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?auto=format&fit=crop&w=1200&q=80",
+          "publishedAt": "Sep 20, 2026"
+        },
+        {
+          "title": "AI is going to change all our lives. Ohio experts explain how",
+          "summary": "AI is going to change all our lives. Ohio experts explain how dispatch.com",
+          "category": "ai",
+          "source": "dispatch.com",
+          "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNSkQ2cWU1TnVEeUx3bE1oQTFEdVNvdUw0SzZHMGpsQnpfZGlyZDlrOXU1SjhIeWlYWjZNV3ZMTU5lcE9ndXRnVWl5TzhQMktvYXdqQU1iaEhDeVB2bDlMZ3d0SVVOVHBwT1ZtdGZEdnQxYzhSNUE4cnpwYVRKSVEzZlF3djRhbXpTbDhOX2xka05xVnI0cDlvOG0yTElSQm9RbUktSi1XbXp5TUlSckVFVDl5X21wS0QtbS1lQjlMbzI0TEQ3enN4QTZDX1VHVUY5U0czdGxyeWJ5Zw?oc=5",
+          "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80",
+          "publishedAt": "Sep 20, 2026"
+        }
+      ]
+    },
     {
       "date": "2026-09-19",
       "stories": [
