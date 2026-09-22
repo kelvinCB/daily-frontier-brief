@@ -1,6 +1,56 @@
 {
-  "lastUpdated": "2026-09-21T16:09:05.744Z",
+  "lastUpdated": "2026-09-22T14:17:36.833Z",
   "days": [
+    {
+      "date": "2026-09-22",
+      "stories": [
+        {
+          "title": "Agents branching out from generative AI as adoption grows",
+          "summary": "Agents branching out from generative AI as adoption grows RealEstateNews.com",
+          "category": "ai",
+          "source": "RealEstateNews.com",
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOMlJIVXJpUzhaMy1fSm5fVF84aU1WVWtaMmtOZHBjTkxDU0p4UzRIVDlWTF9jbWxhb01pVnRVNFcwaHdXXy1mSEw4N1JoQnY3ZGRJNEhqWUtET29lUWtodjg2cGdBcXNnSUt5blJiVVZvSmNweF83aVk5Y2dlZW5TMDhRTmNOcHdJZUZFZUlQaVZxdjNYNDRaalRlWEZsX25V?oc=5",
+          "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80",
+          "publishedAt": "Sep 22, 2026"
+        },
+        {
+          "title": "DENR launches Pinoy Biotech Hub",
+          "summary": "DENR launches Pinoy Biotech Hub Manila Bulletin",
+          "category": "biotech",
+          "source": "Manila Bulletin",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBPZmwtOEVUcXRtMFRNdTdJSVFQak1WdFZBZjFfZFdoSlBzN25iNWlOV01hRWZTdkJEa1FYQ1cxdnl5VUpmbUIyYW9DeEp3aXBJYzlfX3YyOWYyUEo4TzFGTjMwaUcyMnVUcE04LQ?oc=5",
+          "image": "https://images.unsplash.com/photo-1530026405186-ed1f139313f8?auto=format&fit=crop&w=1200&q=80",
+          "publishedAt": "Sep 22, 2026"
+        },
+        {
+          "title": "Man vs robot: Influencer takes on 6ft humanoid in a terrifying cage fight - and it doesn't end well for him",
+          "summary": "Man vs robot: Influencer takes on 6ft humanoid in a terrifying cage fight - and it doesn't end well for him Daily Mail",
+          "category": "robotics",
+          "source": "Daily Mail",
+          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQRFo2UEQxeFE2MHlkZDFjUkppdGtTcWl2cVd6LUZXSkZlWHlvT1NQOWM0UEsxVmRnaXpGeXFCb3NxZ0xFeVViUDZEVG9ITzEteGxzdUVkSDhnYXpsUlZXQTFmV1dzMjBTeVUtWHVVYmt5WExIUkdpeVdsNm01Q3BPRkNfU1hjcmo4aC1v?oc=5",
+          "image": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?auto=format&fit=crop&w=1200&q=80",
+          "publishedAt": "Sep 22, 2026"
+        },
+        {
+          "title": "Scientists propose a light-matter quantum state inside living cells",
+          "summary": "Scientists propose a light-matter quantum state inside living cells The Brighter Side of News",
+          "category": "frontier",
+          "source": "The Brighter Side of News",
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOTEloa2F3TjhaMmVUcXo4ZUF3VnNsT0RSbFdocjdqa0NEc245U3lVaTNGODdXM1lGUUlZTjlMdHQ3Q2h2em1XWkRJSWhZaXF2emt4dC1NVy0xYmd5M0FoUnBUUXBzbzI5MnlTUXdVRzB6S1AwNElRZHlMVGhsUlhKLS1HTEJfelhneldEampwWGhXTEtZWVFzR1BCUnZPSXRFTkgtYnZtbVV5UQ?oc=5",
+          "image": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?auto=format&fit=crop&w=1200&q=80",
+          "publishedAt": "Sep 22, 2026"
+        },
+        {
+          "title": "Vme TV Uses Generative AI to Bring the Untold Hispanic Stories of the American Revolution to Life",
+          "summary": "Vme TV Uses Generative AI to Bring the Untold Hispanic Stories of the American Revolution to Life Noticias Newswire",
+          "category": "ai",
+          "source": "Noticias Newswire",
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1xclZ1QlIxUE5vQ01pMEM4NGhLWmRJSTJBNnl3X3ZZWncxT2o4cGRpRTZURHZHSGd0WVVSU1RaUkEzLVhjV3I2cDg1TU9MczM5S1kyVE9UeFgxbmltckVvYzNQQmZzM2R5a0Fj?oc=5",
+          "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80",
+          "publishedAt": "Sep 22, 2026"
+        }
+      ]
+    },
     {
       "date": "2026-09-21",
       "stories": [
