@@ -1,6 +1,56 @@
 {
-  "lastUpdated": "2026-09-23T14:36:40.314Z",
+  "lastUpdated": "2026-09-24T14:34:46.897Z",
   "days": [
+    {
+      "date": "2026-09-24",
+      "stories": [
+        {
+          "title": "NVIDIA NeMo Relay now natively supports Oracle Generative AI",
+          "summary": "NVIDIA NeMo Relay now natively supports Oracle Generative AI Oracle Blogs",
+          "category": "ai",
+          "source": "Oracle Blogs",
+          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE51U2UwMGpkc2dFMkRRbHlLYnNrZ0NaSWlDR1QzeVF0a056eTBPVTRvU0QzVS04S2dBY3N6c0RiNnNhaFJjY2hORVRHMmZQUUJNXzN1ekhvTUlJT1BCdlU1czFIZEplem1uME5hdGdGYzgxQzItdWc?oc=5",
+          "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80",
+          "publishedAt": "Sep 24, 2026"
+        },
+        {
+          "title": "InnoCare Enters $3.35 Billion Research Collaboration and License Agreement with Eli Lilly",
+          "summary": "InnoCare Enters $3.35 Billion Research Collaboration and License Agreement with Eli Lilly PharmExec.com",
+          "category": "biotech",
+          "source": "PharmExec.com",
+          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQczdWRzFnZXhEdnJFTXY5d2tEZkVaYTRGdXdVSjh4MzRXRjRqQVUxeVpDd1VIZWJkejJjRWFTWlI3NUdYN3dobElfdWsyN1diU0d3X09KT1U3aDJPUldYSVdPalhXWGJwU3dfLWZzUkdfNjZma2otbWhQYWVXMk5TbHByS2VpeXpBWHF3eVp6ZUJUbUlzbTVaSUFZSEtJc0dWNVE?oc=5",
+          "image": "https://images.unsplash.com/photo-1530026405186-ed1f139313f8?auto=format&fit=crop&w=1200&q=80",
+          "publishedAt": "Sep 24, 2026"
+        },
+        {
+          "title": "Mech-Mind Robotics Announces First Interim Results Since Listing: Revenue and Orders Both Grow, Robot Brain Breakthroughs Open Up Industrial-Scale Growth Potential",
+          "summary": "Mech-Mind Robotics Announces First Interim Results Since Listing: Revenue and Orders Both Grow, Robot Brain Breakthroughs Open Up Industrial-Scale Growth Potential TradingView",
+          "category": "robotics",
+          "source": "TradingView",
+          "url": "https://news.google.com/rss/articles/CBMixAJBVV95cUxQQnRPS1lSeGo1dktLTXk3ZmozUllaLVhSYVQtc2t5NDktcHoyU3hlNjVrV2N6SlhJQnJEUk1pZFBhWVd0bVVzWkdxdEl3djhscV9mQ0tPNFJKSFQzd2U5UFBFSlBpTjVIc2RYSDNGQTk2cXZOeE1kWG5rNU5kaElQMnFmNG9EcWV2WEg2UUptbVlpSkdCM3BFSFFFa2NMd21iUHJTWjcxa3kzRlNONDBINXN0eGlxQUp6aHpsbGtjb0FxclpsdHFTbFJQWDlQekhRamFFNFY5WHNMTE01Zk0yN3Zlb082a3Q4bnlvSktqUjFmMEYxMW1pc011VTVTWnFwem11YTNLckxDNDNVazlJeFpSNHpsQVE0X21hTTYzMWw3YUZ2b0hseDM5cER2Z0dWUV9BcWY3UndXZFd3Yy1zdnFpZjc?oc=5",
+          "image": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?auto=format&fit=crop&w=1200&q=80",
+          "publishedAt": "Sep 24, 2026"
+        },
+        {
+          "title": "Cornell Demonstrates Standing-Wave Cooling for Trapped-Ion Quantum Computing",
+          "summary": "Cornell Demonstrates Standing-Wave Cooling for Trapped-Ion Quantum Computing HPCwire",
+          "category": "frontier",
+          "source": "HPCwire",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNdjFLbFJsVDU4ZGxjLTJPRlFOZGtkaTlsVDN2V3lIUWRNZ3plVW1lZ1ozQnR1TWNqbXA1N2pSbVRoR1c2cVQ4bUJNWFVWSHJtbXQ0MDR0QV9idDRBZ1lKMGU0TFlqVGxZYWdWdXFxQTlHbGdldnlPSjd4SVpiVGdkNkd1dUM3bDJHWDRLMGVMSkRIby1sWFFiZ1lLVlJTM0NhTnJJVWRjaEZBbGg3dlpibVR2UFk?oc=5",
+          "image": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?auto=format&fit=crop&w=1200&q=80",
+          "publishedAt": "Sep 24, 2026"
+        },
+        {
+          "title": "IonQ to Deploy Superion 256 Quantum Computer at Florida International University",
+          "summary": "IonQ to Deploy Superion 256 Quantum Computer at Florida International University The Quantum Insider",
+          "category": "frontier",
+          "source": "The Quantum Insider",
+          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNYk4tWlZHdjdOZF9FS0U4a2RveDNDRDFNbFhyalhvU0dDUmppcEZkbXJjblpteGFRc1hIZThSZXdtSTlIbllPYkFLQ3AwVE1HNElKN2JZdW5uZE8xdDRpWnNhSl9TZm5GNFN3Vy1QeVdTaENyUDBLOGtCMUVZWUNhcEc5QjM1NV83bXlNMzVIeldKZkYtb1Vz?oc=5",
+          "image": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?auto=format&fit=crop&w=1200&q=80",
+          "publishedAt": "Sep 24, 2026"
+        }
+      ]
+    },
     {
       "date": "2026-09-23",
       "stories": [
