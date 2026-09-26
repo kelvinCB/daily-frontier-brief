@@ -1,6 +1,56 @@
 {
-  "lastUpdated": "2026-09-25T14:55:39.475Z",
+  "lastUpdated": "2026-09-26T14:00:40.456Z",
   "days": [
+    {
+      "date": "2026-09-26",
+      "stories": [
+        {
+          "title": "NASA, IBM launch AI model for lunar science",
+          "summary": "NASA, IBM launch AI model for lunar science Daily Observer",
+          "category": "ai",
+          "source": "Daily Observer",
+          "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5xbFI3ZnVKTy1lTm9rVW5fNjExNXRMMkNaZzVvX085TUdCTGJudmRVaV9VT0pTN1FlY2NNcFVuZUFyQldUTEVQb0lR?oc=5",
+          "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80",
+          "publishedAt": "Sep 26, 2026"
+        },
+        {
+          "title": "Snowflake, Palo Alto, Dell, GameStop, Crispr Insider Shock",
+          "summary": "Snowflake, Palo Alto, Dell, GameStop, Crispr Insider Shock TipRanks",
+          "category": "biotech",
+          "source": "TipRanks",
+          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQY2IyYzM5ZGMzcDd4NUpONVdLMkFlSmpQVDl0UkFJZEpQemltYzNzQmt6Yk9LVzlEOHRxbzlfeG8xSVdXZ3I0bDhXR1FJZkIxWHZKX2Mwd195cGY3ZjJpSDdYU3c2THRYWHYwQVRBMVozVWcwcUotQkJraHNmckVVZURkVkRVbXp4eGNkQzJIaFVpNzhVdGxDcHBLc1RIbHR3RVE?oc=5",
+          "image": "https://images.unsplash.com/photo-1530026405186-ed1f139313f8?auto=format&fit=crop&w=1200&q=80",
+          "publishedAt": "Sep 26, 2026"
+        },
+        {
+          "title": "Tesla Wants to Build 20,000 Optimus Robots a Week. First It Has to Figure Out Hands",
+          "summary": "Tesla Wants to Build 20,000 Optimus Robots a Week. First It Has to Figure Out Hands Gizmodo",
+          "category": "robotics",
+          "source": "Gizmodo",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPbm9fMDV4eXROakVrOW15d092U19MdGtGbG5VWExjOXdiaDlHX3hYNU5ldFltVkh2NWs0ckRiNWdaYWJUWnFTS2JvQzhHaUtVVFotbmxWYXBzLXpLSm1jUmNkZkU5M1dUUUN0SGQ3eFFLeGpSOU5VMDlpVGh4SVZUcHJvVlVSemtTbFc1OFBEVjB3SUU3b2V4X1RzbzA1d1JOTVQ2VFdDRkVyT3diQUlFTEJn?oc=5",
+          "image": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?auto=format&fit=crop&w=1200&q=80",
+          "publishedAt": "Sep 26, 2026"
+        },
+        {
+          "title": "CGI Federal To Research AI And Quantum For Defense Logistics",
+          "summary": "CGI Federal To Research AI And Quantum For Defense Logistics Quantum Zeitgeist",
+          "category": "frontier",
+          "source": "Quantum Zeitgeist",
+          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9WVkstSGFHek5nQzFhSWdvSjBBS042ZE9vLXNyRjZJSVFUOVNhbTFxY1hldkJTbFItcm8zWnhwNUR6eGJwZjljUzhsSjIxb1I4X2M3ME9aM1h3S2FUR3RJcFAxdUxpOFRBUzFoS3pQbjRrMy1Q?oc=5",
+          "image": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?auto=format&fit=crop&w=1200&q=80",
+          "publishedAt": "Sep 26, 2026"
+        },
+        {
+          "title": "RCQI And CyberSecurityHubCZ Co-hosted Quantum CEQIP 2026",
+          "summary": "RCQI And CyberSecurityHubCZ Co-hosted Quantum CEQIP 2026 Quantum Zeitgeist",
+          "category": "frontier",
+          "source": "Quantum Zeitgeist",
+          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNNVd0Ui1GNURxYjVhUEpHeUthMVRzR21TU2ZjX0t0RGJVS05CNTB2VjBCN2Qwa1RORW1RaVpGOWJfYWdiUkIyWHI0cWpNZ1BYdkRQd0sza1VLdnR5VU8xMVBGMFJZbzVXTE0wcDVCWGR0SnpHMGtzR2xnc3lpYUZ4UlZwMA?oc=5",
+          "image": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?auto=format&fit=crop&w=1200&q=80",
+          "publishedAt": "Sep 26, 2026"
+        }
+      ]
+    },
     {
       "date": "2026-09-25",
       "stories": [
