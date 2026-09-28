@@ -1,6 +1,56 @@
 {
-  "lastUpdated": "2026-09-27T14:57:21.040Z",
+  "lastUpdated": "2026-09-28T17:55:18.734Z",
   "days": [
+    {
+      "date": "2026-09-28",
+      "stories": [
+        {
+          "title": "OpenAI is pausing training of its most powerful AI models after rogue agents hit government sites",
+          "summary": "OpenAI is pausing training of its most powerful AI models after rogue agents hit government sites qz.com",
+          "category": "ai",
+          "source": "qz.com",
+          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPSU1HLURfWkV6cEVXY1I4UDF3RzZmdGJ4eGZQNzJnLW5zb1YwSkE3dnhVZ0JfMExDUndQWGcxX1JGUDBWTzk0cFhPSVY4LVdYaEdqNVlxOGtIeFlVZU80ellfOW1zbTVjWXhHdEhxQXpQNFNzMjdic1ZsLWZKVU9ha24wbWd1V3hXR21Z?oc=5",
+          "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80",
+          "publishedAt": "Sep 28, 2026"
+        },
+        {
+          "title": "Vir Biotechnology (VIR) Poised for Q4 ECLIPSE-1 Data Amid Strate",
+          "summary": "Vir Biotechnology (VIR) Poised for Q4 ECLIPSE-1 Data Amid Strate GuruFocus",
+          "category": "biotech",
+          "source": "GuruFocus",
+          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPTkhlOEtZaHNxOEJmS0ktbVZGcFJaN0E2MEJHRTh5YktUX05DcndDUzF3dDB0Z0x5TEx2dldtZHF6Qy11bi1SVGREOWtxZjFYMHJyXzF3S2V1WWlNMHhFOURGaTA5NVc1NVVOdFQ3QU4wM2FSWkdCUW9RM0VDcGhkNHRKT0o4cVFteU95NXFPN3REMzNab0VnRzBJaG0xQktDNTVncVBYTll4Z3JwRFJHVm9PVTVMR0hobHh5ckR4akQ0c21vakw0?oc=5",
+          "image": "https://images.unsplash.com/photo-1530026405186-ed1f139313f8?auto=format&fit=crop&w=1200&q=80",
+          "publishedAt": "Sep 28, 2026"
+        },
+        {
+          "title": "The Machines Have Won (Their First MMA Fight Against A Human)",
+          "summary": "The Machines Have Won (Their First MMA Fight Against A Human) bgr.com",
+          "category": "robotics",
+          "source": "bgr.com",
+          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNcWFLcGhFdW5fTVJ6T29ZNmEyUE1MYTFxOTdPRFJKYnliMFVwckJvSzQyLVB6LWhDazBFZWtTdHU1N1p1MVZ6M0UwUUVtNmhTVEdtdXdXb1dKRm9BLUpmVV9CMFZoMnJmOUg5UTlsZWd3Y3FDNnJBMVdsUmVDQVRpbk53?oc=5",
+          "image": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?auto=format&fit=crop&w=1200&q=80",
+          "publishedAt": "Sep 28, 2026"
+        },
+        {
+          "title": "Automating Post-Quantum IPsec on Cisco Routers – IPsec Series, Part 12",
+          "summary": "Automating Post-Quantum IPsec on Cisco Routers – IPsec Series, Part 12 Cisco Blogs",
+          "category": "frontier",
+          "source": "Cisco Blogs",
+          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPeVFpa0YtU1d1VWFzR0p2WkZrbEZCejVFQU1wUHZiS0Jaa2RYejlVek5ySGlacHY1bjFCbWEtUVRjb2x3dDFTLWtkUFVIaS1DOUdsdURsb2FXX0RGMWFWdHpMcmQzVnVJV2JMWVRZdVZqcnhmb1VmTnFFcVRuaDk2RFN2ZV80UTh2RFIwU1oyZlgtYlFWYWF5TG15aml2MWV4TEww?oc=5",
+          "image": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?auto=format&fit=crop&w=1200&q=80",
+          "publishedAt": "Sep 28, 2026"
+        },
+        {
+          "title": "Accountable Artificial Intelligence Series",
+          "summary": "Accountable Artificial Intelligence Series Just Security",
+          "category": "ai",
+          "source": "Just Security",
+          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOdkRWRl9pUS1DRTVIY0hoYkhyb3VwbzZsdW1fbGFXTV8xZXRSamU0Z1RRU192VWdMaVVFUTBXSXE4aTFVRTM5dTdpRllfal9XWmxIUmMzSWxrRWNHMndUNlBJTTM3VEJqemhTSlJmNjl6clA4U0ljMjFZV2RndTRMSFV4VEZKQQ?oc=5",
+          "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80",
+          "publishedAt": "Sep 28, 2026"
+        }
+      ]
+    },
     {
       "date": "2026-09-27",
       "stories": [
