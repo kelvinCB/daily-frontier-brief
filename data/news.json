@@ -1,6 +1,56 @@
 {
-  "lastUpdated": "2026-09-29T16:17:47.729Z",
+  "lastUpdated": "2026-09-30T16:13:02.337Z",
   "days": [
+    {
+      "date": "2026-09-30",
+      "stories": [
+        {
+          "title": "Butler 2.0: Intelligence analysis and assessment in the age of artificial intelligence",
+          "summary": "Butler 2.0: Intelligence analysis and assessment in the age of artificial intelligence iiss.org",
+          "category": "ai",
+          "source": "iiss.org",
+          "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNNlpieXhYVzBOcGJNWHF1VHpiVm4tbjdfVktlbXNHcTlRWmtYTk9vaXFvUjZTMDJTTkduRUZOYm5zNlNfaXBKbzN3c0dVZUhhc3MxVno0ODRWWUVCcGhJSnBVby1zNjZzY0ZCR3pvZHN5UTV4Z2N1aU1zQlcxT21vb2gxN2tkeXNWMGgzYldxcXNFRTg4YldOcWU4VWFPUktHMmQzbzhyMDVRc09KSEFlWTZMOWdsbjlYU1dJS09mbFEtQ0xJTUdlcFRPMHAtd01McUI5MVA0bmJYa3JBeXFN?oc=5",
+          "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80",
+          "publishedAt": "Sep 30, 2026"
+        },
+        {
+          "title": "Ray Therapeutics Awarded $8 Million CIRM Grant to Advance RTx-021 Gene Therapy for Stargardt Disease",
+          "summary": "Ray Therapeutics Awarded $8 Million CIRM Grant to Advance RTx-021 Gene Therapy for Stargardt Disease BioSpace",
+          "category": "biotech",
+          "source": "BioSpace",
+          "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPUXctYnZHaUt1dmt5YmV3TzV1WHpDTk1Pcjdpekd0YzhwdnYyRG5uajFjWVplOTBvTzZQTVV0d2dJUW15VnR5R0NUZmZ6aW1QY2ZuZFM1OF9JQ2ZJTGJSOWdCeTdBaTNnMFZuNDZvcENkSGpvRmNfQ0sta0k0c1ViNDV4clJ6N2VqbFZaR3FHWWZlNC1VZlZpS0NSWmRoUHdtQVE1UFdRWXhCOUJFYk5IUVZwSzl2T2xTaU5mQW5USlpZaXc5b2cwOE41U2xHcXdvOWswM3VB?oc=5",
+          "image": "https://images.unsplash.com/photo-1530026405186-ed1f139313f8?auto=format&fit=crop&w=1200&q=80",
+          "publishedAt": "Sep 30, 2026"
+        },
+        {
+          "title": "Robot Ambulances Respond to Growing Humanoid Malfunctions",
+          "summary": "Robot Ambulances Respond to Growing Humanoid Malfunctions 조선일보",
+          "category": "robotics",
+          "source": "조선일보",
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxONnpGZmt1TVRQVnJJWWQ5bGtFMHF4OHpKT1ZOUlhPX3pibWJybVFOYlp1MEwxMm1JcDE2RW9wenZTU3h5R1BWSThRbHAyNDlmZHJuaGxkWnFfVVZXUkJ1NnppaFh4MGY1aUpTbGhUaTdxeWVlY0NaSEJIMlRtZW83ckhRbDF2X3dI?oc=5",
+          "image": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?auto=format&fit=crop&w=1200&q=80",
+          "publishedAt": "Sep 30, 2026"
+        },
+        {
+          "title": "How to deal with the growing impact of artificial intelligence",
+          "summary": "How to deal with the growing impact of artificial intelligence Indiana Public Media",
+          "category": "ai",
+          "source": "Indiana Public Media",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPa3B2V0JQa1pJZGJ1MjJRdHp0em5Ibi15U2M0VjlGVlZaRzU2QUR5OTBURWtzZU94VFBPZkxMbTBkS0I4U0twSXlYdXFCSmFqSlY5T0ZCc05uRjdLVnlXV05qbTNpOVpEUjhrLU15WU1FR2xlUkFVR3pRRU05VGhNX01zemRydE1TZDk3UHRxemNIbWNhdDNjaENZWjlvYkNGZk9VQU1hWmoxNXFRMnVj?oc=5",
+          "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80",
+          "publishedAt": "Sep 30, 2026"
+        },
+        {
+          "title": "Representative August Pfluger introduces H.R. 10594: Reliable Artificial Intelligence Research Act of 2026",
+          "summary": "Representative August Pfluger introduces H.R. 10594: Reliable Artificial Intelligence Research Act of 2026 Quiver Quantitative",
+          "category": "ai",
+          "source": "Quiver Quantitative",
+          "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQQ2VOaEhjOWFnMWxfVXNtdnJMR0JXYl9KS0RDRkpneWdQVWkxTlFSSUc5YkQxcnpQLUw3OElDUk1FM3hIc1ZrWEdnQUsybGk4QW9nc2pmcktXSDZEQUMyN1ZBWmRHbnhKNlJCZmMxdVVKVlZmbFhwTTI1VVNTY3lVUnUyQ3pGalVBMmZTcURmT3BpcEV1MlFzT1BIWGVSbWRfUWVIODNBalFNbzF0OG52bHpXWXNhYmlKTmJNQ3UzTmlYZFR2c21oeWV6a2ZjaFlpM2Zna0JySGg?oc=5",
+          "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80",
+          "publishedAt": "Sep 30, 2026"
+        }
+      ]
+    },
     {
       "date": "2026-09-29",
       "stories": [
