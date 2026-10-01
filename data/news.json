@@ -1,6 +1,56 @@
 {
-  "lastUpdated": "2026-09-30T16:13:02.337Z",
+  "lastUpdated": "2026-10-01T16:50:09.838Z",
   "days": [
+    {
+      "date": "2026-10-01",
+      "stories": [
+        {
+          "title": "Artificial Intelligence-Based Adaptive Simulation Integrated With a Workforce Decision-Support System to Improve Simulated Nursing Leadership Performance: A Randomized Controlled Study",
+          "summary": "Artificial Intelligence-Based Adaptive Simulation Integrated With a Workforce Decision-Support System to Improve Simulated Nursing Leadership Performance: A Randomized Controlled Study The Cureus Journal of Medical Science",
+          "category": "ai",
+          "source": "The Cureus Journal of Medical Science",
+          "url": "https://news.google.com/rss/articles/CBMi3gJBVV95cUxQLW1lampLN2Z5VkZpdmtFbGJjTnlpeW9PckF3R0sweTZiWnpoc2xkVEFPbFF3UU1NTTVtSzdfeENnYmROTlNHeXlKenhJbV9IU2lYZzFpUGVMLWd2bmF2QllKY1FHczRLR1VyLWxjdEtHNVY4X3pyNFc1RkNiT1lrbWV5cnQ4TzVOYUs0Znd3RFpIbkRjWGhMQmxRNllPM3lWTmhrVnAwRXdmeW9fUkp5N0tlVDY5S2QxNFAwenZOR0NvbDBlSTMwOXlSeV9PNEVXa3MyeXZBbnpIaG04Uk9lUUVBVEZIemxJNllRRjkzRk9JbHlrZkhidnpaOVFZblZZR3NudHRVMmx1MHhVRV9sc3NGTlZnOWxrRUNMNm5KR0hianl3Q1otWE1BQzJBRnpxTEZoTlNSeWk0X3l1SnFtNWFZdGh4cWhCX2VsRHVaOTJYR3dHLXZNNlVnRE9MUQ?oc=5",
+          "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80",
+          "publishedAt": "Oct 1, 2026"
+        },
+        {
+          "title": "Nautilus Biotechnology NAUT Draws Bullish Analyst Wave",
+          "summary": "Nautilus Biotechnology NAUT Draws Bullish Analyst Wave StocksToTrade",
+          "category": "biotech",
+          "source": "StocksToTrade",
+          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOSHQxTVdyV1N2TFNydk5LUWQwYnE0VnZMN0dXcVRvOTBHT29fRDVyRlhMQ2RDcE10V0ZQSHF1TXdHcktVU2dIaXJRNHJUN1M1YlFwdnREc1JNLTFpZFozTnZPenBPYy1LdmM0ZFNvX2NMQ3RUX1E5MC1lcTJRdGZfdmhWczUzUQ?oc=5",
+          "image": "https://images.unsplash.com/photo-1530026405186-ed1f139313f8?auto=format&fit=crop&w=1200&q=80",
+          "publishedAt": "Oct 1, 2026"
+        },
+        {
+          "title": "Atlas Humanoid Robot — Hyundai Preps Boston Dynamics AI Bot for Factory Floor",
+          "summary": "Atlas Humanoid Robot — Hyundai Preps Boston Dynamics AI Bot for Factory Floor The Korea Daily",
+          "category": "robotics",
+          "source": "The Korea Daily",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1IYy0zM1BUenltYnJNOTdsQ2tPRVFSTm1KZUEyb0tiamhCS0FXR2ZNS0FRb1pTNnRjRU5NOGMtWXdVTnkyU3FUd0VXY3JmbDg3OFdQOS00bkpBaFBIb240M29FLVRtNVFlRkcxeG5PNEg?oc=5",
+          "image": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?auto=format&fit=crop&w=1200&q=80",
+          "publishedAt": "Oct 1, 2026"
+        },
+        {
+          "title": "New Standard for Logical Quantum Computational Systems (SLQCS)",
+          "summary": "New Standard for Logical Quantum Computational Systems (SLQCS) EIN Presswire",
+          "category": "frontier",
+          "source": "EIN Presswire",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOT1JwbDJDNHExVHlGYmpmVEc0RFVqWS1Ec0VXUUNadjA2MGFLOVVzUkYtRUliQWh0WWJXdHBlTlVvNXdOVTZLZGtvYTBFSFUtRndBY1ktX3lZbWdNOFJiWERzajhLVUhKY3BXa3IwaUVPWUJpdXdpMWJUREo1U21USkxxWUZJcTd3Qk1jQWpfM3p6Z0RtdUl0bWdYM013SEtYZlRQN3JiQ2FrM2M?oc=5",
+          "image": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?auto=format&fit=crop&w=1200&q=80",
+          "publishedAt": "Oct 1, 2026"
+        },
+        {
+          "title": "Building a More Transparent, Resilient Future: Lessons From the 2021 Semiconductor Shortage",
+          "summary": "Building a More Transparent, Resilient Future: Lessons From the 2021 Semiconductor Shortage Supply & Demand Chain Executive",
+          "category": "frontier",
+          "source": "Supply & Demand Chain Executive",
+          "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxPMnBEUEtBOU9kU2U5dEpyS2tOTlJmclA1Y2NCV0VMSlp1NGZzSW9lNkNXUXpjZlo4LWZ4X0ktcVpNWTk5dkttaVNpSV9HWEl3c056blJ2aGVGT1ozOUFLRE1ud0ZGSFRiTjNfdm9xalVNMUNNNVV3cmJWVWRYUGlfT3ItTE5RNFhfRzBGcDRreGpyTFhsMUR1RlRLQUpzQllxMDFaQ19ubzdLSnlMdG5lcmJXcGZDXzB1N1NCbGcwUXd0TGtLSVFTTG1Mem9vUF9ZajBLUDB6dWZzaWd6eThVZ3haNWs1eUJqdDNVSFFNMTVmWi04dU0wNDhHazJiaEpGc0FSNjlR?oc=5",
+          "image": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?auto=format&fit=crop&w=1200&q=80",
+          "publishedAt": "Oct 1, 2026"
+        }
+      ]
+    },
     {
       "date": "2026-09-30",
       "stories": [
