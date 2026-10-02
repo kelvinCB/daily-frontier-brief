@@ -1,6 +1,56 @@
 {
-  "lastUpdated": "2026-10-01T16:50:09.838Z",
+  "lastUpdated": "2026-10-02T16:03:21.938Z",
   "days": [
+    {
+      "date": "2026-10-02",
+      "stories": [
+        {
+          "title": "Fact Check Team: What’s the difference between artificial intelligence & superintelligence",
+          "summary": "Fact Check Team: What’s the difference between artificial intelligence & superintelligence KEYE",
+          "category": "ai",
+          "source": "KEYE",
+          "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPWm1fQ0VScWJFVEd3VjIxNTZjaFF6RE5rQ05Sa0ltVExoOV9oTGxTT21vMm1zUVRQWFpxTkw3UTZHWnlrVTNlS3pKOXJ3NFNraXdaZHNuNVZCVXg2NTVvS1dfc1hBdlowYWkyT0VRM3paYjJGeFNCaHhEbVN0WWdYSEZ4bEZVUXdzcERabVZjTnFpMEhZNEVqYmtpQm1kQ2hUQjJUOThMTUVaM1ptX0JJMzhEblp2b0UwNzJ3Ry04bEFzNXpwQXM5OHJQcWJ5U1BKNFFQZkw3TEhNMkxiU21yQVRwMjM?oc=5",
+          "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80",
+          "publishedAt": "Oct 2, 2026"
+        },
+        {
+          "title": "CRISPR base editing targets life-limiting familial dysautonomia in animal models",
+          "summary": "CRISPR base editing targets life-limiting familial dysautonomia in animal models BioXconomy",
+          "category": "biotech",
+          "source": "BioXconomy",
+          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPU1FHLVp3dE9ub3VzSnBCUDJrWjZuTUI2UUdXb250LUJHY2xYTHRrVEhVX2dHRXVVeDNQWmVYekkxalF4VERIUEdETi10bHRqRWtYbzlRZHNCcjdRZ2RwY1YwaW8yTDk0OFpCMEdlREJBY0Y1WkpHTmZNX0psQ19HWUc2Zm5KUkZySHA3bGtBOEdhLVdxU2ROWWFvdVVsOVhJZ2NKNFhGNWVnaHhLb2tFRTdLVENndGdkTk9n?oc=5",
+          "image": "https://images.unsplash.com/photo-1530026405186-ed1f139313f8?auto=format&fit=crop&w=1200&q=80",
+          "publishedAt": "Oct 2, 2026"
+        },
+        {
+          "title": "Uncut two-hour video shows Nucleus humanoid robot doing factory tasks",
+          "summary": "Uncut two-hour video shows Nucleus humanoid robot doing factory tasks interestingengineering.com",
+          "category": "robotics",
+          "source": "interestingengineering.com",
+          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPYy04Y0ZNcjZRcXZ3UHNSelRCQ3U1bk94ZmtPdzhxLWRvX1R0MXpId2l5OGEtTnFqcXkwX1RhX3RnZFdsTWUzb0ZVUldqTGkzVXFfVWY4S05WTEJkbDg4MEdJU0MxRjJyWmtoQkkwNVBlUHVPcXUyNUQ3WHlDM1d5TjZGSWRsdTA?oc=5",
+          "image": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?auto=format&fit=crop&w=1200&q=80",
+          "publishedAt": "Oct 2, 2026"
+        },
+        {
+          "title": "QEst Hack Invites Participants to Test Quantum Algorithms on Real Business Problems",
+          "summary": "QEst Hack Invites Participants to Test Quantum Algorithms on Real Business Problems The Quantum Insider",
+          "category": "frontier",
+          "source": "The Quantum Insider",
+          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOU2xsTWJJb0U3VS1VNGR4T3gySEFRZTFPalo3Skdxdk1Na2pYZ19sRFJHR2dacEY3QUpuS2Q2SnlpdDlfSWNOU2ZjcHg2TTNaN2JuYWxJeXA2d3lxSVVoZHdwOURYSVIxS3hlZXJoWmt4akFCTWtWazZ6N1haNXRhMy1MeVFBNTE1T0NzemJOaFVvZXQwNFk1N1d5Wkl2bjZFSHNBNkp4LUVwdkNWdkh3cHZ2QnJqZ2s5ZE1MSVlPN2NjYnM?oc=5",
+          "image": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?auto=format&fit=crop&w=1200&q=80",
+          "publishedAt": "Oct 2, 2026"
+        },
+        {
+          "title": "New Method Generates Photons That Are Virtually Indistinguishable",
+          "summary": "New Method Generates Photons That Are Virtually Indistinguishable The Quantum Insider",
+          "category": "frontier",
+          "source": "The Quantum Insider",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPMFNjNzBRUlZDc2RoeXdqME5kS2lha3UwdEI1TkpzV1BhWVpZbEFxOFdIakRlbTlENFB2eDZZdi1oY2ZzNWRsUnJQNndCdUdGY2JzTkw3QXRaMWZIakllV0ZESUV2ald6enBSeFZ0WEdVRVV2Ni1CMlpVSnhSdE91Q1dfbUh1N0ZuaEpwWEZJZHVXSVB2NndrY25saVlVODNpUjNqXzRFQUxvVFE?oc=5",
+          "image": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?auto=format&fit=crop&w=1200&q=80",
+          "publishedAt": "Oct 2, 2026"
+        }
+      ]
+    },
     {
       "date": "2026-10-01",
       "stories": [
