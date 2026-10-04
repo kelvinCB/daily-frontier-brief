@@ -1,6 +1,56 @@
 {
-  "lastUpdated": "2026-10-03T14:30:23.103Z",
+  "lastUpdated": "2026-10-04T15:05:38.714Z",
   "days": [
+    {
+      "date": "2026-10-04",
+      "stories": [
+        {
+          "title": "Trump launches Super Intelligence Force to keep U.S. leading AI, names top officials",
+          "summary": "Trump launches Super Intelligence Force to keep U.S. leading AI, names top officials fox23.com",
+          "category": "ai",
+          "source": "fox23.com",
+          "url": "https://news.google.com/rss/articles/CBMigwNBVV95cUxQcl8xRTcxRkY1VllmR2h2VkZwbkp2YzhrNGNpQzdmSzlnblNzYm9kVzhoQmR2N2Z0ZWM5cU1FMGt1amR6S0tpQXJRLXljTmJJOFA0Yk5MWnJvRzQzWTFJVDdZcUFtTjlXZGJ0YXp5NE0tUnk4QjZIV1pZeDMzMjBvcFRHT2YtMXRmdkhiOWZqaW1SaXI1cjhBTWtFNmJsaEFDZnd5bDdHWnotRFpSUU1KeG9NWUtlUVlxSS1NaEE4T2lUaVJrM2JhUFE2N3hXQ2NDQzI4VjlHQ3RLVTNvdjUxaU52cWpQWFlkNWFuTlREQXpidlp4X1NWejYxUmFtZHhhcDEzRjJId2NyQlI0MGFsdHljRmtmTHlHTmJ0LWl4b0NhX2V0YjIwMlJ1OU9SbTlpdWNfWTQxcXRWOXhpSUZUSXNtMXBjMGZ6YlRRUWp6WGRDMmpJN21TaFNBVzl0c1VyUDlxUUxxaFJGRkhza21hMjA1cGFjdHh4eHZ3T2ZYRTJTUXc?oc=5",
+          "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80",
+          "publishedAt": "Oct 4, 2026"
+        },
+        {
+          "title": "Scientists May Have Found a Way to Make Damaged Adult Retinas Repair Themselves",
+          "summary": "Scientists May Have Found a Way to Make Damaged Adult Retinas Repair Themselves ScienceAlert",
+          "category": "biotech",
+          "source": "ScienceAlert",
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNcDVKdnNNMzdlVVpvNG42b3FQVVVYMW5QVVpYcVRWVFJEOTB4RnhnSG5yOU9nNnQ1QnJ6Rl9KcHladEpYYlNoRS1aajF3QUJta2VwREE5dUFTQmxFbklsV25qLVlON1lZbXNva1Vmb2dpRDBoQ3BMcjZwMGlyUzQ2RzRaUkpmZ3EyYUNncmRwVjZiZGFZZDBiX1NvZzUxNUdBX3Y0VXRVVXB3TWtS?oc=5",
+          "image": "https://images.unsplash.com/photo-1530026405186-ed1f139313f8?auto=format&fit=crop&w=1200&q=80",
+          "publishedAt": "Oct 4, 2026"
+        },
+        {
+          "title": "Robotics startup has real human vs. robot cage match, California responds with cease-and-desist order — regulator threatens misdemeanor charges after YouTuber fights three robotic humanoids",
+          "summary": "Robotics startup has real human vs. robot cage match, California responds with cease-and-desist order — regulator threatens misdemeanor charges after YouTuber fights three robotic humanoids tomshardware.com",
+          "category": "robotics",
+          "source": "tomshardware.com",
+          "url": "https://news.google.com/rss/articles/CBMi2AJBVV95cUxQSzR6OVd2V0ZxdEx3SGNKc2pMdFdmcmVsSWNwcnRUR3FYdmtFMmdiQnlETVV0OEhVVjhwMUtrOW5FUDh3Q09wZnNsbTJYQm13RVNYMTlKS29NMExDZE0tMGhwWTRkU3JJMHNrcXFIX05aUDZ5ekZpYUJkbnlTbzZZQjFfTEFUUzdlZnA1MXdOTm1FQXlJdHM4RmRDRk1DYzh5bUZydGVSYlh4ZHU1dDF6Z3llelNGWkdoVkJVOG4zaktzV3RmU010dldCQUlsT2l6Q1A2WjRlZWpCLVYwMXExbTQyaHBJcnB5SW9PLWlBb1VFeVRlZmhaVE5BeHprUXhqQTlYUHlNUDRRWkpoNmw2WVVKakFsQ0JxYzBCdklIbnhlNnlSaVh2UE9mdk9ycm00bllJcV9yMDhwX3ZGMWdOSjV4WVZ5RGpKZi05Z1lxX3Nxc2p1d0tDcw?oc=5",
+          "image": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?auto=format&fit=crop&w=1200&q=80",
+          "publishedAt": "Oct 4, 2026"
+        },
+        {
+          "title": "5 students from Ranikhet College selected for Global STEM Accelerator Programme",
+          "summary": "5 students from Ranikhet College selected for Global STEM Accelerator Programme Garhwal Post",
+          "category": "biotech",
+          "source": "Garhwal Post",
+          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNRFM1cnhxZ1NnVlRfY3NQWVVJcmR5WE1DdmpzRWxZOHI4N3FyLU1ubmU1VGlkVkU5S3gwMDIxc1B3Z3cyeTJtMXltOFZzTGlTUTlycXk5dGhUd0h5QVJ0akIyMFJpQWtCMkpRdWRzZUQ4Sk5zaGREX0FMWTBkVU5Xc0xrQmI4N0pRWGYyNzU2RlZyRDN4Nng1TGczM0ZFa0JzMXJ5T0Vn?oc=5",
+          "image": "https://images.unsplash.com/photo-1530026405186-ed1f139313f8?auto=format&fit=crop&w=1200&q=80",
+          "publishedAt": "Oct 4, 2026"
+        },
+        {
+          "title": "D-Wave Quantum Taps BNP Paribas Veteran for Board as Beta Testers Circle Its Gate-Model Simulator",
+          "summary": "D-Wave Quantum Taps BNP Paribas Veteran for Board as Beta Testers Circle Its Gate-Model Simulator AD HOC NEWS",
+          "category": "frontier",
+          "source": "AD HOC NEWS",
+          "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNSjFpRTQyV3V6ZlJLaVJHaTFkNTdkeGRrRHdqVUZ4RXlzZ2hCWElpVlFQZmJ4UHpRNlNGOEhDX3lZQVNEYXpCdHF4NUhUbUNmNzNQb1Z4NWx4dXVaaVRRWV84cWt3R1ZQaTRzSkxoeVh0M3pJV2U0VWl2aXd0eXUxZDJ6dWRpLW1iVEhtZnlYSlZKWlg0OFdlbnhFOGJCVlJRT1dYWHhTaFZNOTBQZXp2RHowcGFER1dGdDh1OEpXYWJNNTV4NWFNcE9TY094UjB6c0MzUHJJdGxNY2NT?oc=5",
+          "image": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?auto=format&fit=crop&w=1200&q=80",
+          "publishedAt": "Oct 4, 2026"
+        }
+      ]
+    },
     {
       "date": "2026-10-03",
       "stories": [
