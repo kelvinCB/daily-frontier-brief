@@ -1,6 +1,56 @@
 {
-  "lastUpdated": "2026-10-04T15:05:38.714Z",
+  "lastUpdated": "2026-10-05T19:00:32.379Z",
   "days": [
+    {
+      "date": "2026-10-05",
+      "stories": [
+        {
+          "title": "AI industry insiders voice alarms to NYC council as local governments take up safety concerns",
+          "summary": "AI industry insiders voice alarms to NYC council as local governments take up safety concerns Audacy",
+          "category": "ai",
+          "source": "Audacy",
+          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQckhmZG53ME9nU28xM1h4VXdTRTBzMHFoSDZRbXZlVXJTTmplR19WMWhIaGtHQ3FEQ1ZxTjk1eU1kTEs5UHZKaWhSUmhrZk56U00tMzZISVBXanJpb0hOX3BBbWs3M1BZNzZmRWs2b3RSdzJGRTkzZW9TZnVWYm13YkNCemRmc0U4QmJnekRZUlJvS01NRmVCV1ZiY0pYWlJrREtvOHRFRnlMRDhoNjZoZ2czMEJ1bkJOWWNV?oc=5",
+          "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80",
+          "publishedAt": "Oct 5, 2026"
+        },
+        {
+          "title": "Genflow gene therapy nudges aging clock in dogs",
+          "summary": "Genflow gene therapy nudges aging clock in dogs longevity.technology",
+          "category": "biotech",
+          "source": "longevity.technology",
+          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOdTNwMVlZbmdLUmljVDhxY25CMTlDVDU2V3hfQTU3TThWX2ZMcC1nQXR4YXhqNDBfX2FWVmxSeFlQZTg2ZThPdFFCWjkxVkxlVTB3aHpLMkdmeXA3cVZ1WmNiN2FhOGFhUlM5aGhSc0x5OHJYblpIOS1FRlFjd09ZTVdwWWZESW5PSGc?oc=5",
+          "image": "https://images.unsplash.com/photo-1530026405186-ed1f139313f8?auto=format&fit=crop&w=1200&q=80",
+          "publishedAt": "Oct 5, 2026"
+        },
+        {
+          "title": "FCC robot restrictions could accelerate shift to local AI",
+          "summary": "FCC robot restrictions could accelerate shift to local AI The Robot Report",
+          "category": "robotics",
+          "source": "The Robot Report",
+          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQREw2aFRGY1VpZHQ1azlLYXFUeXZNTFRDbEp3SGJEbVd5bl9HQU1ncDZsOGlPOVVPcGR0OU5JSHJVb0U4MWVOUEptbFhuMExKZk9mVEhOZ0diUWhqcUwwQXhQbDRteWpVT2hmcUV5dzIwYkJxd2N2WWNaemk0LW92TGllWXNIbnctV0Y2Y3JWR3pMYW8?oc=5",
+          "image": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?auto=format&fit=crop&w=1200&q=80",
+          "publishedAt": "Oct 5, 2026"
+        },
+        {
+          "title": "FDA Develops Regulatory Blueprint for Generative AI-Enabled Devices | News",
+          "summary": "FDA Develops Regulatory Blueprint for Generative AI-Enabled Devices | News JDSupra",
+          "category": "ai",
+          "source": "JDSupra",
+          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQcHppd3BvSHBKbG0yYVRQb05saWhxOTR6TnllOFd3THdHeVI3Nm5WaFVIQW8xdTg3NkhOcWhqekhCczFDX1NrRHdZb3pMYnhlUWMzajYyVHdrS0RKN1E1MEN6VVlhYUowYkoweFdvVHJlRE1oTVZGT1J4dnFUeFBMX05ZV0RoOWc?oc=5",
+          "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80",
+          "publishedAt": "Oct 5, 2026"
+        },
+        {
+          "title": "GOOG, GOOGL Class Action Notice: Alphabet Inc. Sued for Securities Fraud After Misstatements about AI Model Development Lead to 4% Stock Drop – Investors Urged to Contact BFA Law",
+          "summary": "GOOG, GOOGL Class Action Notice: Alphabet Inc. Sued for Securities Fraud After Misstatements about AI Model Development Lead to 4% Stock Drop – Investors Urged to Contact BFA Law businesswire.com",
+          "category": "ai",
+          "source": "businesswire.com",
+          "url": "https://news.google.com/rss/articles/CBMizwJBVV95cUxNMVhaZ2FjVkF4aHhkb2R1NnoxUGN3WVlGNXBiOXEyVEx0NzdIa1QtVFRMRUJXX283YndVOEhuS0hrWUR4aGkxeGZPNHN3cC03ZGRSVmM2cUJXQ1RDeDlfME4xZms2YWVoUGk1RFp5UjlWTm94bVF1TjV4YndPc0g1TGlmY2d0U1JIR1RabEVIOUFZdkZSd1NLTDUxRGxnMjlwWEhGeHNMaUN4QWl5dFZrRmViaUdYYUtRd2paU3ZCSzJydWtzamMzODNvMkozVXJzWXgwSUNLY1hEc2c4SjJyQ2M0X3pfU19kTFAycGJudE03QVJwY2N6cVlTUWhNVjhoRG9vQTRIeE9RTUJkaDd4ejBVVXk4WWt3YzVZOUhyN19pcVpITEhuc0tjR3R0eDVTNTl0RjljRlNUSUZVLWVKSVFMb2NyRXlzaVlQU3BKaw?oc=5",
+          "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80",
+          "publishedAt": "Oct 5, 2026"
+        }
+      ]
+    },
     {
       "date": "2026-10-04",
       "stories": [
