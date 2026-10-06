@@ -1,6 +1,56 @@
 {
-  "lastUpdated": "2026-10-05T19:00:32.379Z",
+  "lastUpdated": "2026-10-06T16:26:51.543Z",
   "days": [
+    {
+      "date": "2026-10-06",
+      "stories": [
+        {
+          "title": "Sony Patent Would Use AI to Make Bosses Harder and NPCs More Believable, Based on Your Data",
+          "summary": "Sony Patent Would Use AI to Make Bosses Harder and NPCs More Believable, Based on Your Data IGN",
+          "category": "ai",
+          "source": "IGN",
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQeUM1SHUwRWxGV0tNRFVqR1lETk1FSmxYWWpBTl9yNlg5Uko5YUdnWE5UQ0h6bVZINkJxN1lJV0MyYXVUWmRxTXk0cXlzZjFBRG5McHJiY2lrbzdXaWpEb1A2VnpYX1dUVFdxMm9sanJlYnZGZGd6ajlFVlNETzV5TzJfMFMxZk1HbmlEWTZVa2hPMmdwZHR3Y2ZzWDlCYUpX?oc=5",
+          "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80",
+          "publishedAt": "Oct 6, 2026"
+        },
+        {
+          "title": "Baio Labs obtains funding to accelerate drug discovery with generative AI",
+          "summary": "Baio Labs obtains funding to accelerate drug discovery with generative AI Startupticker",
+          "category": "biotech",
+          "source": "Startupticker",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQRTVGUFdyTWs0S2dzSjVJWDFrdmJDazNQeVN0WVp4RXZCNVlwRlg1cVZRdm5WdXkyZUw5Rkc1Qm53Q2R6ZWtKdTg5QzBiSDV1X21VTkhmME5jUVhuNGZ0d0QxZmx0bW1MdGZ5Vk9YZ2NtdDlxTjFFaWI0SUVxUW95aXFIa0VOWGVmWGR2aWJvb1FRUVdBQ3BPOEs5QzZ5bnF5ZUhkdUU1MlJlREt4eXhR?oc=5",
+          "image": "https://images.unsplash.com/photo-1530026405186-ed1f139313f8?auto=format&fit=crop&w=1200&q=80",
+          "publishedAt": "Oct 6, 2026"
+        },
+        {
+          "title": "Humanoid Robot Demonstrates Tennis Skills at Seoul Event",
+          "summary": "Humanoid Robot Demonstrates Tennis Skills at Seoul Event 조선일보",
+          "category": "robotics",
+          "source": "조선일보",
+          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQXzE0d05yVXduOG1zb0FsTHRfWXVHdWl2NjhlLU1UZ3BieEhZNktZbXVuOVlHSzVPNmY5X3NUekZEXzF5bDM5TWZ0OVBzU3lDOUxYR1dEalNxREItcFpJZjNreF80X2M4OEVKRmEzYmFfblBNTWk0MEZfaWk4NjdCQjRST1FrbmxlSU53b3ZR?oc=5",
+          "image": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?auto=format&fit=crop&w=1200&q=80",
+          "publishedAt": "Oct 6, 2026"
+        },
+        {
+          "title": "IonQ’s Craig Miller on securing against quantum threats",
+          "summary": "IonQ’s Craig Miller on securing against quantum threats DefenseScoop",
+          "category": "frontier",
+          "source": "DefenseScoop",
+          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNcS1jRjA5bmdueEliaGdZbGVSUjVoTDhhV1dUSkxvSERMR29QYXItN0RQcHY3RWFDSlZwVzhpZDYza3FOci1vVmVUYVFQM0RXWW82RWZvS2xrWTRPR1VCNkJ0dWdoeDhxTW94QTNPZDJuMWVrZFVBd2twd2J3QWtDbXFtSHE2U24xdUdZb09jNA?oc=5",
+          "image": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?auto=format&fit=crop&w=1200&q=80",
+          "publishedAt": "Oct 6, 2026"
+        },
+        {
+          "title": "Faculty are quietly being judged by those using generative AI detection tools",
+          "summary": "Faculty are quietly being judged by those using generative AI detection tools Law School Docket",
+          "category": "ai",
+          "source": "Law School Docket",
+          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE52VGVnbEZCYVlORWh5NklzVTQwenNxLUJLcEZuU3pDekNObW8yeUYxRURQUVh6MzA0QnNZQjF0MnY2aUI0aE55ZGhTUG5RMklzemNoQW92SzVpNmpCTnJOcml2VUFCeWNkNDdtQzdfVWRTM0VFMEcw?oc=5",
+          "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80",
+          "publishedAt": "Oct 6, 2026"
+        }
+      ]
+    },
     {
       "date": "2026-10-05",
       "stories": [
