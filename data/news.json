@@ -1,6 +1,56 @@
 {
-  "lastUpdated": "2026-10-06T16:26:51.543Z",
+  "lastUpdated": "2026-10-07T17:10:04.059Z",
   "days": [
+    {
+      "date": "2026-10-07",
+      "stories": [
+        {
+          "title": "SpaceX Reportedly Wants $40 Billion to Buy Artificial Intelligence (AI) Chips. Here's Why That's Huge News for Nvidia Investors.",
+          "summary": "SpaceX Reportedly Wants $40 Billion to Buy Artificial Intelligence (AI) Chips. Here's Why That's Huge News for Nvidia Investors. The Motley Fool",
+          "category": "ai",
+          "source": "The Motley Fool",
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQN0lyZDJIRlcyVVhQa3B2UGlPdURpa3lhWTluUTZCOWxhRk1jcE0xdm14RV9TRjFXLUVIRTlrQWdfMS1mcDZkbzNQdjg4VzVqS1AzdDNkZHhIcjMySTNCUW5hbUtUaVNKX1RBc1RaWjNwRWxjd2NVdXJWM2ZzeXBsczhyeno5c3pheHZDeWttUnNTbzFSdnh3YQ?oc=5",
+          "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80",
+          "publishedAt": "Oct 7, 2026"
+        },
+        {
+          "title": "Danone-Backed Biotechnology Platform Opens Industrial Facility",
+          "summary": "Danone-Backed Biotechnology Platform Opens Industrial Facility ESM Magazine",
+          "category": "biotech",
+          "source": "ESM Magazine",
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPMkktM2p0Qm11ZUVscGNlRkRJWDlJVVVwSzZFVzFKN0IwRHpjM3NwOUI2dF9DeVE5TWdRTUVTVzh0Ul8wQnVfQmtsNWh3T1k4Yk9qbElHY1JJMmgwbnFqNlVsUThjWFdya1lLYm94eWwzcXRiRHQwRkxQM0hpRExSTHZSbXdkNXU3RHl4b0lHOFVYUzFCY3lfZ3FqMjlNeHJjY2FPUzNIb2RZUQ?oc=5",
+          "image": "https://images.unsplash.com/photo-1530026405186-ed1f139313f8?auto=format&fit=crop&w=1200&q=80",
+          "publishedAt": "Oct 7, 2026"
+        },
+        {
+          "title": "Boston Dynamics hires former Amazon AI leader as CEO",
+          "summary": "Boston Dynamics hires former Amazon AI leader as CEO Manufacturing Dive",
+          "category": "robotics",
+          "source": "Manufacturing Dive",
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQUk5IZGRybW5fSk1STVdKXzNYTC1fa2I3MTV5cnhqelpOVDYzT1lwLVpQVm85Nl9xR0o5TkZfNlM5YUs5U2paVXloQ0gwMWdIVUtwcmpJYVhLenVIdFB3Qzl5dWJBdWtOQ0VYODdENmY2X3luVVJBMXFVaWswNzl5dnZ5WVkxRlNQREpaWFZMRDBuMmVVc1pSWnp5MHhocTVpMWRPYw?oc=5",
+          "image": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?auto=format&fit=crop&w=1200&q=80",
+          "publishedAt": "Oct 7, 2026"
+        },
+        {
+          "title": "One quantum material, two superconducting states: Stretching helps explain conflicting experiments",
+          "summary": "One quantum material, two superconducting states: Stretching helps explain conflicting experiments Phys.org",
+          "category": "frontier",
+          "source": "Phys.org",
+          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPNmZvaGxNZkVHSzFoRnBYdlo1ZUdtTXJ6bGVfaHYzTlo4YW1ISDdzM1ZTbGxIUnVpMTVoZUNFSlFuaWhZcXZVYXRKZklnSTB2a0V5LTIwUHdURzkwQk8wdzdyUUlxWFNYZ0RNSFhQNXpGQV9VZkp0a3JZaVNoNHgzWFZPNnM2X2V1Mzd5YzVLdw?oc=5",
+          "image": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?auto=format&fit=crop&w=1200&q=80",
+          "publishedAt": "Oct 7, 2026"
+        },
+        {
+          "title": "Rigaku Brings Application-Focused Semiconductor Solutions to SEMICON West 2026",
+          "summary": "Rigaku Brings Application-Focused Semiconductor Solutions to SEMICON West 2026 Business Wire",
+          "category": "frontier",
+          "source": "Business Wire",
+          "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQTlljUTFfRjh4YzRLRDM5dUxFV3hOS3g2RWR6LW9tT1A3WWF5NmJGNWhYQV9GN3J1XzhLVDhFTDNJSFVTSHM0MENvVUdwY2xZZ0RRWjJvSlM1Z1k2Y3UzTml1anprSl9vVnB5TU1ydmFFZ0RkRVAzTVVlTXp0VThtZkN1YWlYS29SOVByNlpOcUZRQnhXZndaVmEyOFNoZmwzeVV5Z2JJblhfRkxoVXpZQi1oOXJacVF6cmQ5UTQ4eE9BN0hYcUhYcFQxYXJqemo4?oc=5",
+          "image": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?auto=format&fit=crop&w=1200&q=80",
+          "publishedAt": "Oct 7, 2026"
+        }
+      ]
+    },
     {
       "date": "2026-10-06",
       "stories": [
