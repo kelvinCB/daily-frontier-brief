@@ -1,6 +1,56 @@
 {
-  "lastUpdated": "2026-10-10T15:39:44.391Z",
+  "lastUpdated": "2026-10-11T16:06:03.988Z",
   "days": [
+    {
+      "date": "2026-10-11",
+      "stories": [
+        {
+          "title": "Enhancing digital skills and applying artificial intelligence for youth union members and young people.",
+          "summary": "Enhancing digital skills and applying artificial intelligence for youth union members and young people. Vietnam.vn",
+          "category": "ai",
+          "source": "Vietnam.vn",
+          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQQ1lBLWcyODlkVHZldjZqQ0ZITUpCTjB3ckh2UnpUdXFlN1pfMnZaVDJ5VXhvSllaV0tRNW9kNWJwaXRBSlg3V3g5ZXY3NVlBOHNrQUxrODZzN01MOEVKSXAycEJNWGFfOTM3WGdBWXE5YVR6UlhNa0tNbGt1eUdqSVdYQjVFODBfVmJ5THlBY2kzZGh4cWpxVFdicWVkdw?oc=5",
+          "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80",
+          "publishedAt": "Oct 11, 2026"
+        },
+        {
+          "title": "Plasmid Affinity Resins Market To 2035: Gene Therapy Demand Accelerates Growth - News and Statistics",
+          "summary": "Plasmid Affinity Resins Market To 2035: Gene Therapy Demand Accelerates Growth - News and Statistics IndexBox",
+          "category": "biotech",
+          "source": "IndexBox",
+          "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPaEROWDlsb0VUQTJxYkNSWUdRVF92RnFKVHo5SXpmUUxyd3E5clNtQXNOOU9pMHpiTk5nTFR0LWd5bHdqLVJhaVRoMUQ5T2NLQXh4R2U4TjY1QXljSGh6UXdVeTRxdVMtV05QTXpEazNoT3BVRTJCYjNRYXpmNnoxRTQzeEowM25zb255UW5GaXRGTmdXbHRKbnlzYUtzS1RMWWVBMUFhRnAyN3pvekJVTG5HSVJkczJIeHRmT3R3SzFKUTYwdVJGSlFTU3AtMFIzaHc?oc=5",
+          "image": "https://images.unsplash.com/photo-1530026405186-ed1f139313f8?auto=format&fit=crop&w=1200&q=80",
+          "publishedAt": "Oct 11, 2026"
+        },
+        {
+          "title": "AI-enabled spending fuels China’s holiday economy",
+          "summary": "AI-enabled spending fuels China’s holiday economy Blueprint Newspapers",
+          "category": "robotics",
+          "source": "Blueprint Newspapers",
+          "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBoZHd1d1RFTElnaVhVWHNBeTVxRUp3UURlOHZDdzRsa0txM1hub0FDRmplR2ZjMmFFdDE0WDFWMERkY0xIVlVqalVGUUlvT0JPaWpSMnRva01SZEozNGoyNVMyR1AyTFB4RUVTQ3RIUkdNR21fR0t5a2l3?oc=5",
+          "image": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?auto=format&fit=crop&w=1200&q=80",
+          "publishedAt": "Oct 11, 2026"
+        },
+        {
+          "title": "Hero Electronix’s Tessolve Semiconductor raises $75 Mn led by Vector Line Capital",
+          "summary": "Hero Electronix’s Tessolve Semiconductor raises $75 Mn led by Vector Line Capital Entrackr",
+          "category": "frontier",
+          "source": "Entrackr",
+          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQbWZyTXVpNkZDTHdQaTNodzV3WmNybzhZeDVFd2hERjdOWm83THQ2eTJJdkQ4Y2RvbnZNcW4tV3BSSjNDQ1BIclp1ZmFWWUxhMHpEWG5fUzJPT2g3cUI0cmtENFNoVVpZOThmSy1mTWxCdHdSUWJkZDE2ckpXM1dOMlF0am9DUjlsVW1MN1F2YklFdWluak5qSDc3V0tXT18tem9hWi1tYlM3bGtHT1lIcEFycWY0cUdjVFHSAboBQVVfeXFMUG1mck11aTZGQ0x3UGkzaHc1d1pjcm84WXg1RXdoREY3TlpvN0x0NnkySXZEOGNkb252TXFuLVdwUkozQ0NQSHJadWZhVllMYTB6RFhuX1MyT09oN3FCNHJrRDRTaFVaWTk4ZkstZk1sQnR3UlFiZGQxNnJKVzNXTjJRdGpvQ1I5bFVtTDdRdmJJRXVpbmpOakg3N1dLV09fLXpvYVotbWJTN2xrR09ZSHBBcnFmNHFHY1RR?oc=5",
+          "image": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?auto=format&fit=crop&w=1200&q=80",
+          "publishedAt": "Oct 11, 2026"
+        },
+        {
+          "title": "DRAM Demand for Humanoid Robots Set to Surge 20-Fold by 2030",
+          "summary": "DRAM Demand for Humanoid Robots Set to Surge 20-Fold by 2030 조선일보",
+          "category": "robotics",
+          "source": "조선일보",
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQNlAzSGVQbDFjZnFtYmlJNXdhX0tQREhPeUV6amx6OUt6VXAzcm4zcUR6Ny1BOS1HVGhkOEYtZ3BPbWpqUGQ1Um1TMDYtekRoY3BFV1lFaFY1MlJRM0NLcnFrbmpSWVZBbjhNZTZoNzhQeUlEeHpIdFk5SlhyMjJUaDZxNkl1eWdR?oc=5",
+          "image": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?auto=format&fit=crop&w=1200&q=80",
+          "publishedAt": "Oct 11, 2026"
+        }
+      ]
+    },
     {
       "date": "2026-10-10",
       "stories": [
