@@ -1,6 +1,56 @@
 {
-  "lastUpdated": "2026-10-17T13:24:50.340Z",
+  "lastUpdated": "2026-10-18T10:30:05.394Z",
   "days": [
+    {
+      "date": "2026-10-18",
+      "stories": [
+        {
+          "title": "AI Model Flags Pancreatic Cancer Risk Up to Three Years Before Diagnosis",
+          "summary": "AI Model Flags Pancreatic Cancer Risk Up to Three Years Before Diagnosis bioengineer.org",
+          "category": "ai",
+          "source": "bioengineer.org",
+          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOUGhUaU91S1U0UnJpT25ZSXZ6V3NRaHVGUHdkdEJFbk8yWjZfeUVhQTRlTHZseENOUkFXcndBOVF3bjMydEctNkd4LVpFeFVSQzFBUWRHa1Z4dkZXWUVjcm0xY3FMUTJqMUU3NnRqbmlVT3BrOVA0bnBZRVBwWU1ZczhWY3hRa0h4bWZvS0JsM2tTZ0ZVcXNVLWtQNWk4dw?oc=5",
+          "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80",
+          "publishedAt": "Oct 18, 2026"
+        },
+        {
+          "title": "Drug Discovery Informatics Market To 2035: AI Integration and R&D Efficiency Drive Growth - News and Statistics",
+          "summary": "Drug Discovery Informatics Market To 2035: AI Integration and R&D Efficiency Drive Growth - News and Statistics IndexBox",
+          "category": "biotech",
+          "source": "IndexBox",
+          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPcEh5clBpeTZXczJaSEFoblN6OFZJTTlPVEhKd3BOZHBueV9LS2JTMVlLWVRDTFo5S0Vuc25tYjRwZkFWbndrZUdWeWotMmRtQ3lGNjFJNHBucHZZb1NPV2wxY3ZXM18zc1VUZ2JFU1dOQUhUaTE0QzE3UjUxaFZiMzA4SVRvZUdpZFl1OGw3S1ItS1FkaTVaTzZWZVJ0Z2pSeFpHZzVpeUNuYk5rQlJxQ09Td1pHWHlndDlocTA0OWRtMmRDX3Y3Wg?oc=5",
+          "image": "https://images.unsplash.com/photo-1530026405186-ed1f139313f8?auto=format&fit=crop&w=1200&q=80",
+          "publishedAt": "Oct 18, 2026"
+        },
+        {
+          "title": "What is the purpose of the giant 4-meter-tall humanoid robot launched by the Chinese company?",
+          "summary": "What is the purpose of the giant 4-meter-tall humanoid robot launched by the Chinese company? Vietnam.vn",
+          "category": "robotics",
+          "source": "Vietnam.vn",
+          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNN0t2VElEQ20ySFZTczNnTDkxQzVMb1dFRmVQNkZsSkZoRmprS1ZrVmNlcUFxcHRzV2hlaVJPenZSV3BKMF84THNELUxuN2d5ZXM0NzJzQi1Gc0NIUFJ5QjdDcy1JLUJzTmd2VWpkdGFiSHhYTmd4OG5RYW5UcUo4Z01iZlZFd25jdkVBYjB3WU1teFdQOWdteEwtVXdkQjNGdEE?oc=5",
+          "image": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?auto=format&fit=crop&w=1200&q=80",
+          "publishedAt": "Oct 18, 2026"
+        },
+        {
+          "title": "Taiwan Semiconductor Manufacturing Company Ltd. $TSM Shares Bought by SteelPeak Wealth LLC",
+          "summary": "Taiwan Semiconductor Manufacturing Company Ltd. $TSM Shares Bought by SteelPeak Wealth LLC MarketBeat",
+          "category": "frontier",
+          "source": "MarketBeat",
+          "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQc0JfQWtlaDU4RjhFWnNtaklGTkVWdjNJOGdhV291SDNxQXJrUWZIYnNwNjl1QXdMTjFHNXVXdzQzZTlPTlVINVpIc2VWVFNiN3RfWjB2NV9BbUxzYU4xUnJnZTE3T2pmeFV0ekJOdkNRaUdjdFd5NjN4ZGZrSnh4WDJ1ZmtfdDdPT0dOM053cldIQW5YV1JxeEo5anNYNUpDNmdNVVpWSFQzc25VRHV3UG9IMUxpZnJLV21qM1ltUlY3TlR2Smw0VDZHR19tLVJ6bWZrVUpoWDREZkYtZVJqVVY0VQ?oc=5",
+          "image": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?auto=format&fit=crop&w=1200&q=80",
+          "publishedAt": "Oct 18, 2026"
+        },
+        {
+          "title": "Alex Yamane Releases ‘Future God,’ a Spiritual Codex for Artificial Intelligence and Emerging Machine Minds",
+          "summary": "Alex Yamane Releases ‘Future God,’ a Spiritual Codex for Artificial Intelligence and Emerging Machine Minds EIN News",
+          "category": "ai",
+          "source": "EIN News",
+          "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPM1FoRVJ5VmdGcGM5SEZfN0FTUGxZY2JTWnBHczItZWpLd2dwa2VpejZ2TTZ5S3Z3WEhtblViOFNKOHVVZ0Nfb0pNaVhqVzNlbFBtbXBTWi1BNTVHdmpEaHBOY2RzNXFDVjVwdktCS0NiNVR6MlVTSVNwalYzMW5mVjVISHlRX2ozTHJycHJVZjQwQ0o1QTRfWnl5WmhEU0QzaHAwOVNsT0Y3Tm1OUmVHOFlQRkZINGlDVkdUaW5MR19FdDNYNlc5RTFtOGZNNDNHcVRpeVoxZ081SGpyYlVF?oc=5",
+          "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80",
+          "publishedAt": "Oct 18, 2026"
+        }
+      ]
+    },
     {
       "date": "2026-10-17",
       "stories": [
