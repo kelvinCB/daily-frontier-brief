@@ -1,6 +1,56 @@
 {
-  "lastUpdated": "2026-10-18T13:43:35.017Z",
+  "lastUpdated": "2026-10-19T10:30:03.011Z",
   "days": [
+    {
+      "date": "2026-10-19",
+      "stories": [
+        {
+          "title": "The Delegated Author: Generative AI and the Fragmentation of Authorship",
+          "summary": "The Delegated Author: Generative AI and the Fragmentation of Authorship Vocal",
+          "category": "ai",
+          "source": "Vocal",
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNZGozc1lVN0ZqS29PTGk5dURxVGNWUUd0N0hjdzh4R3FvcWxCclhRNF9sb1pfZEJNdkViM3B3MDl1bms2YVYycXVGZUEtaFVtRDFLNmF0ckxUQmhHWTFaTVhZZGU2dUlhYWduQUFrQmZkWGVEa1BFc0RFcThDVnZpbHlpMjhpeWpGRzY0ZjVKcTV1cTFnSUNfUGU0M0NqOE9S?oc=5",
+          "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80",
+          "publishedAt": "Oct 19, 2026"
+        },
+        {
+          "title": "China seeks to block foreign acquisitions of biotech platforms",
+          "summary": "China seeks to block foreign acquisitions of biotech platforms lifesciencesweden.se",
+          "category": "biotech",
+          "source": "lifesciencesweden.se",
+          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxORl9vMEFGSG40UVVoR2FGeThXSzJaSjlIVFBXSFAtOV9HN29JWWxiRnhidXlDelE5cXBKSkFva3BQS3FVb3lQYzA0MUpJZ2dMbGJVMEpianhJWkR2YkQ2d1dBd1lkc2JCZHdUM0FBemkzd2RDckppU1NDbXdka19Wd2ZBSUZkUkpLTXRsRG12M2MxemttRV9NRnM1VTY4WkttMlFEc3BHOVZXWERsOV9PaUIxZmpqbUE?oc=5",
+          "image": "https://images.unsplash.com/photo-1530026405186-ed1f139313f8?auto=format&fit=crop&w=1200&q=80",
+          "publishedAt": "Oct 19, 2026"
+        },
+        {
+          "title": "TDK InvenSense Develops Magnetic Sensors for Humanoid Robot Joints",
+          "summary": "TDK InvenSense Develops Magnetic Sensors for Humanoid Robot Joints www.thelec.net",
+          "category": "robotics",
+          "source": "www.thelec.net",
+          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBGU2tFOXJWZmtZaWpPNVBZdjBueW5BNU8xSHVkTmY4em9aM3drUFVpaF9VWDBsVFpOdXFIOFZPaEI5azBJQjE1MnRMaUd0NTFvQmUzTnhZSWl6S2ZoTmxxb3hHdnVsWWM?oc=5",
+          "image": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?auto=format&fit=crop&w=1200&q=80",
+          "publishedAt": "Oct 19, 2026"
+        },
+        {
+          "title": "Einstein’s “Spooky Actions at a Distance” Are Real",
+          "summary": "Einstein’s “Spooky Actions at a Distance” Are Real Richard Hanania's Newsletter",
+          "category": "frontier",
+          "source": "Richard Hanania's Newsletter",
+          "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1DRE1tVXBTMDExMmpuVzhUa0VqQk5URWJ3ZnNXY3pZYWFEREVVczlmUE90VFRwczNraF9GTHkwYk1jYzN3LUhIa2hLVDFYcEViU1FYZTJ4UnVFeU40MmZSQjZqRFhBY3Etdm5xcXZleTk3dkdQeE52bGFlUQ?oc=5",
+          "image": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?auto=format&fit=crop&w=1200&q=80",
+          "publishedAt": "Oct 19, 2026"
+        },
+        {
+          "title": "Zcash Developer Zakura Proposes Fix to Stop Quantum Computers Linking Shielded Swaps",
+          "summary": "Zcash Developer Zakura Proposes Fix to Stop Quantum Computers Linking Shielded Swaps Decrypt",
+          "category": "frontier",
+          "source": "Decrypt",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPS2NBNVFFdjZhWldLeXR2LUdZZFU3dkQ2Wi02Z1pNV0oxTGVNWFBrWF9TNUxzbC0zeWp4c0xOcWxCOWFRenhnWkxpSXprYU92NGFLWVk4UkZKeHB3NkltNDZjWC1QUDJxSFRidXpGcnNZakxLS2ptU1NKM3Z1emd0VTZsdHRtTmR5SnlkX0x0cUZveVl4Ujd4WFA4VFZRVDN5dzc0MGZjd2tpT2h6WVFv?oc=5",
+          "image": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?auto=format&fit=crop&w=1200&q=80",
+          "publishedAt": "Oct 19, 2026"
+        }
+      ]
+    },
     {
       "date": "2026-10-18",
       "stories": [
