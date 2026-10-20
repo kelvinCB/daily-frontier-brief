@@ -1,6 +1,56 @@
 {
-  "lastUpdated": "2026-10-19T16:44:55.233Z",
+  "lastUpdated": "2026-10-20T14:37:04.889Z",
   "days": [
+    {
+      "date": "2026-10-20",
+      "stories": [
+        {
+          "title": "COMMENTARY: When your browser starts speaking for you — who consented, the consumer or the AI?",
+          "summary": "COMMENTARY: When your browser starts speaking for you — who consented, the consumer or the AI? Reuters",
+          "category": "ai",
+          "source": "Reuters",
+          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOOFV5cWJjYUhnNjRnNDExQ0lKVTQ2aW1mTFVrZ0xoSklqWkhKa25nQkdVaWx5NXZaeGFTcUFxREZFTlZlb051Wm1VSkdlemhZaUpEVFNETGJwZi1rdk5CQWFyT3ZHVEFHQ2o3ZDBYdUFDOWJEQzlGWUxqXzZ3QkVJY282dEViRFUxN1htTG9ySzF0OWF1dTVhYXdoV05taDBreG1tTmNnTVhVeVg3a01iZ3lSQld5MlNiUmdoX3RDcGIxZnFIZUlPcExR?oc=5",
+          "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80",
+          "publishedAt": "Oct 20, 2026"
+        },
+        {
+          "title": "NetworkNewsBreaks – Oncotelic Therapeutics, Inc. (OTCQB: OTLC) to Present AI-Enabled Drug Discovery Keynote at 22nd Drug Discovery Strategic Summit",
+          "summary": "NetworkNewsBreaks – Oncotelic Therapeutics, Inc. (OTCQB: OTLC) to Present AI-Enabled Drug Discovery Keynote at 22nd Drug Discovery Strategic Summit StreetInsider",
+          "category": "biotech",
+          "source": "StreetInsider",
+          "url": "https://news.google.com/rss/articles/CBMizwJBVV95cUxObVFEM3ZLUU1BODNmZlkzTkdhLUQ2dER4alhPYUhjRkVkZUVraDU1TFFWaFZERmJTbFo5elM0OXFaMEoxTFhZTU5waTREd0FVTU9NQWJJQnd2QXlKXzMyb1JLWC1hZ0g5YjFnU29xaVJsYkE3djBBWV9PcDlOSzZtaHpHeF9pWUF2MHFQVXJYckxEUUQwRlFSYWJTZHZ6UVVfTDAyR1FlZlZLVEpiR0lPVzVsbWl4TGVNZjFwMmFGMUZqVXRQbWpFZVBMWEpaMUVSVkEtc2lpXzlsY3pHU3NjSW5rR3FHQUE1clVmaTlhYlViVEQ3VVdzcDI0U29DdDhsVy1XcEJTY1JkNkhuazhqVjE0aTlRMVVhNHhXSjhCWFpsOEhzNWg1ZWJkT25GbFNOX3F5TTJlbnBMczE0ckN2M1E2VXBaZFdodlNoajFHdw?oc=5",
+          "image": "https://images.unsplash.com/photo-1530026405186-ed1f139313f8?auto=format&fit=crop&w=1200&q=80",
+          "publishedAt": "Oct 20, 2026"
+        },
+        {
+          "title": "China Humanoid Robot Production 2026 Rare Earth Impact",
+          "summary": "China Humanoid Robot Production 2026 Rare Earth Impact Rare Earth Exchanges",
+          "category": "robotics",
+          "source": "Rare Earth Exchanges",
+          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPTmpSUWQ0X3JOaEUxQW1qcDRSaU9TR2hWR21qY1FnUHJvMTBSaTZLRDBvRm5jTFc4UnpwQjk2dEpkbndmaUVtaWxoc3pGSENOZXcwSkl1MjVaNlFnVk1PZDVZbFE3WkZwb0x3aUVZYzZmUHBlZ25wYS1jUXEzWGxOWkRR?oc=5",
+          "image": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?auto=format&fit=crop&w=1200&q=80",
+          "publishedAt": "Oct 20, 2026"
+        },
+        {
+          "title": "Vietnam Quantum Expert Urges Closer EU Ties to Build National Capabilities",
+          "summary": "Vietnam Quantum Expert Urges Closer EU Ties to Build National Capabilities The Quantum Insider",
+          "category": "frontier",
+          "source": "The Quantum Insider",
+          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPdm03dzJnVTdSMUdoaVNVM1ZENWdJOWR6WWZTYUFid2h1VGtoelVmNkZCZjZFVThaWDZVcHhCRFNiQjk1dU9qUGEzQ2ZLbWFaOTlheENOQzBBdTdwd1h6MkVOSjg0VHo1SkhDcnNRS3B6Tmp6YWs3R3BKWUlRcGxhakQwbzJqOWtJTDZEeFV4NUhkb0d0M3pORVRCalhWbDBKbVpiZnlYbGFXMDYtWTR1VjA5R1BYY2M?oc=5",
+          "image": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?auto=format&fit=crop&w=1200&q=80",
+          "publishedAt": "Oct 20, 2026"
+        },
+        {
+          "title": "Sinopia Biosciences Secures $2.5 Million NIH Grant to Advance Metabolomics Foundation Model for Drug Discovery",
+          "summary": "Sinopia Biosciences Secures $2.5 Million NIH Grant to Advance Metabolomics Foundation Model for Drug Discovery BioSpace",
+          "category": "biotech",
+          "source": "BioSpace",
+          "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOTTllbDV1WWRTR0ZJYTZ1YWpyWVJYNDNiSjFmUG5QNHlvNTFrQ2FJTnB2RWlWNTV0NkYzNVdiUE5zY01nUzNOM012UW43eHZEb1F4VFFvWldzZlV0UE9IQ1MycWVEczF0REs2TXdfYU5zTTQ1YmJxeVVXYk42WlBJaFZibnBwd3V5VC1Hai1acGFlRGdiOGVIWHBibVVWSUZscFJuTzJRVkJRQlIzQ1RxRUppdEdGcEpDUnZqWXVpeDAzaEUySnJMTlVHbFhmSkltSXBHRjV5UzI3UkhHSUxtdHhHMA?oc=5",
+          "image": "https://images.unsplash.com/photo-1530026405186-ed1f139313f8?auto=format&fit=crop&w=1200&q=80",
+          "publishedAt": "Oct 20, 2026"
+        }
+      ]
+    },
     {
       "date": "2026-10-19",
       "stories": [
