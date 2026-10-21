@@ -1,6 +1,56 @@
 {
-  "lastUpdated": "2026-10-20T14:37:04.889Z",
+  "lastUpdated": "2026-10-21T14:48:33.838Z",
   "days": [
+    {
+      "date": "2026-10-21",
+      "stories": [
+        {
+          "title": "Concerns mount over artificial intelligence as Silicon Valley sees AI boom - Focus",
+          "summary": "Concerns mount over artificial intelligence as Silicon Valley sees AI boom - Focus France 24",
+          "category": "ai",
+          "source": "France 24",
+          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxORXk0Mk1aRWhVMERVZ2tCYnBKT21yLUdpS1VVOUkxUmMwZ1BZNnAtaGtwUGJ2NDFsUHJJSmRGWmZRMUVuWDFJalJMcVJfdy02c3VXanBLS0Vsc2JVVXN3N2xRTlBUX2JxWnctMTJhT3Y0Z2R1RWR6MEJsWTQ3dWtJLXRvYTZpaE1fTUdFbzloQUtKQ2RDZm03YkdUaWVvaDJvRm00OVpvQnA0SkpiaThsM2l2UE1oaXZpenVVUGU0TzNWbHhj?oc=5",
+          "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80",
+          "publishedAt": "Oct 21, 2026"
+        },
+        {
+          "title": "OpenAI uses nearly 2,000 AI agents to analyze brain CRISPR data in 32 minutes",
+          "summary": "OpenAI uses nearly 2,000 AI agents to analyze brain CRISPR data in 32 minutes Crypto Briefing",
+          "category": "biotech",
+          "source": "Crypto Briefing",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9LanhFLUNDM0oxNHdKN0Y1Y3hoa0I3V1ZFcjNDenJNbVdKSmtJS1Jkc1l4WkJDS3JQWklvUi0tMVhpbVE5d1UtcXpwOEg0UXV5RUNweGVwVElqN2F1OEhWYV9pVXNaMmtOYlYzZWtDbDQ?oc=5",
+          "image": "https://images.unsplash.com/photo-1530026405186-ed1f139313f8?auto=format&fit=crop&w=1200&q=80",
+          "publishedAt": "Oct 21, 2026"
+        },
+        {
+          "title": "Chery unveils Mobo home robot with 22 degrees of freedom",
+          "summary": "Chery unveils Mobo home robot with 22 degrees of freedom RUSSPAIN.com",
+          "category": "robotics",
+          "source": "RUSSPAIN.com",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNbHRwQURydjlqaEpPYl9oUk04VmFzM0JDZ25aWXJnMzU0Z0dnUU9WaTlIQUpHUndDb1Q3b2loTkNKV3lORFBfbTVza3h3eW80eDBkNmQxZnFRQ1dyM1dGNFhyNEJHZ09IYUhEdk9rZUJuNWFLUmJVRFZqS2RuNWU0dEM2M0JCNVdhS3dvMTE4Zk5tWHFS?oc=5",
+          "image": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?auto=format&fit=crop&w=1200&q=80",
+          "publishedAt": "Oct 21, 2026"
+        },
+        {
+          "title": "Opus Genetics to Launch RDH12 Gene Therapy Trial for Childhood Blindness",
+          "summary": "Opus Genetics to Launch RDH12 Gene Therapy Trial for Childhood Blindness GenomeWeb",
+          "category": "biotech",
+          "source": "GenomeWeb",
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOSDhUdW9LRDh2cS1NZmFaLU9Kc2Z0SXRra2pxZnR4bHZMY0FyLVg1YloxVmdjZlExVFU0aVJVaDNWVnRWV0tZSGtUQ2VsUGZYdWdVcWpzTVVXTmNOeUpfV0Y0RWZmc18yTkJrdkRYNUZzeHNOVjFyMTRleWRVelg4Wlhpd3NnbXY4cmJLdQ?oc=5",
+          "image": "https://images.unsplash.com/photo-1530026405186-ed1f139313f8?auto=format&fit=crop&w=1200&q=80",
+          "publishedAt": "Oct 21, 2026"
+        },
+        {
+          "title": "qBraid Announces qBraid OS for Operating Quantum Computing Services",
+          "summary": "qBraid Announces qBraid OS for Operating Quantum Computing Services HPCwire",
+          "category": "frontier",
+          "source": "HPCwire",
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNNDNVTHg1clNuZXVTVUhqbnlyVk9hOWU2NkhmOWRLOVd1TXhRazZjaVNmU19NVm43bVF4X2g4Vk44ZDlfQndnU0pMUVNvY0lBNU9kTmw3S05RNmhSY1RPYndMRGsxRXRVOEdnUmpNV2Y2aXE1QklDQl80ckxBTTBKVkNLX3RVaW54ejNXdXdzTTBZNXVjRGFLajZmd3Z4ZWl5R2JOQzMtUUU?oc=5",
+          "image": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?auto=format&fit=crop&w=1200&q=80",
+          "publishedAt": "Oct 21, 2026"
+        }
+      ]
+    },
     {
       "date": "2026-10-20",
       "stories": [
