@@ -1,6 +1,56 @@
 {
-  "lastUpdated": "2026-10-21T14:48:33.838Z",
+  "lastUpdated": "2026-10-22T14:49:14.497Z",
   "days": [
+    {
+      "date": "2026-10-22",
+      "stories": [
+        {
+          "title": "New literary prize honours works featuring artificial intelligence",
+          "summary": "New literary prize honours works featuring artificial intelligence Yahoo",
+          "category": "ai",
+          "source": "Yahoo",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNcEdXdi14ZlM0MXlBMnMwX1F0WWtpSi1kbWpQczBxcWgxR3JPS29CRENocWRmZlhuYVRiOC1HSXN4UTI5am1vM1JoV3I4NGNHSjVHZVpZSm1KaGRPWmttcHFuSW5ROENzLXhTTVRLa1lZcFRreHRTOWdBV2hWTV85SXMyaEd2MlVXOE1WUktoX2VVSy1LUkRhdFQ0M3JPRVk?oc=5",
+          "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80",
+          "publishedAt": "Oct 22, 2026"
+        },
+        {
+          "title": "Healthcare ETF: China May Control A Key Bottleneck In AI Drug Discovery",
+          "summary": "Healthcare ETF: China May Control A Key Bottleneck In AI Drug Discovery Seeking Alpha",
+          "category": "biotech",
+          "source": "Seeking Alpha",
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOM21FcGtjclBoUnJPNEVJUjZTSXRQUWNjVmF3RkthTTluVFp1cGIxNHhYLXJOOEtUek0zZHlmbzFXN1lRbThOWFZkbHdLaGt3MU81Nk1Qak9xeUN4WUI4M0lheWZVOS0zZXRhYTBlWGpWeXdIZFc4WGgxNkRjcWlpbGJ2ZFYzVTFlQUJVaURfOXZFVmRfbUdQVS1Sb2JUMVViZXBTaXBGRjJDZjFtTHc?oc=5",
+          "image": "https://images.unsplash.com/photo-1530026405186-ed1f139313f8?auto=format&fit=crop&w=1200&q=80",
+          "publishedAt": "Oct 22, 2026"
+        },
+        {
+          "title": "China’s Unitree Shows Off H2-X Robot With Kung Fu Moves and Rescue Skills",
+          "summary": "China’s Unitree Shows Off H2-X Robot With Kung Fu Moves and Rescue Skills TechRepublic",
+          "category": "robotics",
+          "source": "TechRepublic",
+          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNejByRENoRnRwNmFjTHdzcTFMYTlwZ25jaENTNS1ucV9iQjNwT3ZBQnVydHFjU0EtYzNaMHBEOE1rRW92OXpERnVRa2Z2ck9zOV84VHhQNXdMeFF3R0g5YU5NSktudnAxb1BQTlM2S0pkSUtudXAyRDNHV0JIVDhGeUs4MkRYRTZKRGdGM0lYUndEcHhVYzBpb3lBcDdNdw?oc=5",
+          "image": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?auto=format&fit=crop&w=1200&q=80",
+          "publishedAt": "Oct 22, 2026"
+        },
+        {
+          "title": "100-channel single-photon detector opens doors to quantum internet",
+          "summary": "100-channel single-photon detector opens doors to quantum internet Interesting Engineering",
+          "category": "frontier",
+          "source": "Interesting Engineering",
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOYW5keWNtcGVlUU9RNmtxdXpNS3ZBYTUzaFh4ZFJZTnZYSUdUbmNKVFltVTJNYmdPWmR3VFRpU3Zvd2gyc3ViczBLMWgwcUZKdVE3dWZuRWRNMm9Tc05CTmk1UDZKOUw1NEQtckYtcDZHNUgwdHMxc0VyTkFZTjA3YmVyaDVVakFBS3dlYUx6ZUFSdGVOLWhINnRR?oc=5",
+          "image": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?auto=format&fit=crop&w=1200&q=80",
+          "publishedAt": "Oct 22, 2026"
+        },
+        {
+          "title": "Commerce plans $389M semiconductor awards tied to fusion",
+          "summary": "Commerce plans $389M semiconductor awards tied to fusion New Orleans CityBusiness",
+          "category": "frontier",
+          "source": "New Orleans CityBusiness",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNZ05kbE10ei1zR0xlV1lfWE1fS2VFSDMySnVOTjZSU0dKMHo1bDltbzFvOW9zdVlWRU85VmFhQnhkNGZ2YUM3QzBncWRZbXZHN3RNUDN2N043VngzZTgwU1RRdUtJaUNpbTlkbzl1b0huWEgxTkZDbm9aLUxrYkNRSjI4QVZFakJhSzBUdDJ1VnBtQQ?oc=5",
+          "image": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?auto=format&fit=crop&w=1200&q=80",
+          "publishedAt": "Oct 22, 2026"
+        }
+      ]
+    },
     {
       "date": "2026-10-21",
       "stories": [
