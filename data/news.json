@@ -1,6 +1,56 @@
 {
-  "lastUpdated": "2026-10-22T14:49:14.497Z",
+  "lastUpdated": "2026-10-23T14:35:06.654Z",
   "days": [
+    {
+      "date": "2026-10-23",
+      "stories": [
+        {
+          "title": "Advancing Transit Cybersecurity, System Assurance, and Artificial Intelligence Governance",
+          "summary": "Advancing Transit Cybersecurity, System Assurance, and Artificial Intelligence Governance Passenger Transport",
+          "category": "ai",
+          "source": "Passenger Transport",
+          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOOElOeFZSaHg5WDJETG1ham04NUpSMDZhNkRlRnJxZmdoYm5vSFhBTjdiX3JuRmVYNVJjUEVzRWZlazNhM0VVdXgtNTY4ajJoOFBSN2s3SUE4dlphLXBGdVJsMU9qdy05ckNFMko5RlY1SEQ5bC1FeHJmckpRN3RORFV0dXpxZUlEdVhXUy1wRjhUb1NoMkNFMEdrWkdRbTFGVWpUa0Vob0oxQVlBUFJLNEJkM3AwMGlMcnZ1Q1VUTnQ?oc=5",
+          "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80",
+          "publishedAt": "Oct 23, 2026"
+        },
+        {
+          "title": "Treasury Proposes Rules Adding Biotechnology to Outbound Investment Security Program",
+          "summary": "Treasury Proposes Rules Adding Biotechnology to Outbound Investment Security Program Pharmaceutical Executive",
+          "category": "biotech",
+          "source": "Pharmaceutical Executive",
+          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOLTdFVE5GUFpfOWp2WTRGN2ZhNFI2d3ZMc0QyX256QlNEYnZnc00xTWJQanVrdDRmazJOakY1Ymk2dTctbF9SX09UZEF0bjNwbzdFajRCVzFGVG4wcE9NTmZ0U1hjejZ5Sm9UNU55a2Zlb095UnNxc2NCaEU5c1dSeWRJeVVfMlFTRGdISWlPTW5JemdzdzJleVp3eTlmZw?oc=5",
+          "image": "https://images.unsplash.com/photo-1530026405186-ed1f139313f8?auto=format&fit=crop&w=1200&q=80",
+          "publishedAt": "Oct 23, 2026"
+        },
+        {
+          "title": "Tesla Starts Producing Humanoid Robots: Who Could Get One First?",
+          "summary": "Tesla Starts Producing Humanoid Robots: Who Could Get One First? Daily Voice",
+          "category": "robotics",
+          "source": "Daily Voice",
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxObkt6YWd3eXdtVUlIaWdjdE1KYnpUUWpmMmtGMTVKV2pyMlUzY1dlcFZHV0MyZkNROWdONDYwSHByMjBZeEdKN3ZqanVKTDEzdmstR3lMU2c2LTUxWFQyVlpublJ3bk56NXlsWjI4aGlsbWxabG5Bbl8zQjlZcFhieHQxWUpBNWczaVZDcGdmMVJOcXRsWS1WaDZ3?oc=5",
+          "image": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?auto=format&fit=crop&w=1200&q=80",
+          "publishedAt": "Oct 23, 2026"
+        },
+        {
+          "title": "LG Innotek Teams With Nvidia to Develop Humanoid Robot Vision Systems",
+          "summary": "LG Innotek Teams With Nvidia to Develop Humanoid Robot Vision Systems Channel Insider",
+          "category": "robotics",
+          "source": "Channel Insider",
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOVmxNOWVoWW1iMXNXQ2xLTGt3eFRmZGxBakY4d0h6dERlbVZod1lGbHVIa1pMbkczYUFTUXVHaWZQR2pZZ3JVM0FmTmhQWDczTy1mOGRCRGZqTEZWN1FXemR3X19uSHJSeHo2ZWM2dW0tcnZlVURHV3Q2U2VfODZoOE1wQUVjcGxCeHB5ejN3SHlBV0NqNHlKaQ?oc=5",
+          "image": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?auto=format&fit=crop&w=1200&q=80",
+          "publishedAt": "Oct 23, 2026"
+        },
+        {
+          "title": "Stony Brook Researcher Leads Quantum Technology Discussion at NORDTECH Meeting",
+          "summary": "Stony Brook Researcher Leads Quantum Technology Discussion at NORDTECH Meeting Stony Brook Matters",
+          "category": "frontier",
+          "source": "Stony Brook Matters",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQcFhBN25iNWRyRHB5NWNBMGtCV0Qxa0RERUh2LTc0Z0lUTTdvVnZ4V0pTd0JKQUx2bkpiWGhadEI2TVlJTzN1ejBneDBibE9HRDZUM3JrSW1xMXhOUVl6a1FWcHdQTE5ieGNGUG5HZUc3bU52NDNaQ2xUT3JsVHE3UGJ4Tno1bmZoUDB6amxmZFFrWGJxY2djVWJRZDAzSzRNbl9tWkstVGtZZ25NNVVmOGhn?oc=5",
+          "image": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?auto=format&fit=crop&w=1200&q=80",
+          "publishedAt": "Oct 23, 2026"
+        }
+      ]
+    },
     {
       "date": "2026-10-22",
       "stories": [
