@@ -1,6 +1,56 @@
 {
-  "lastUpdated": "2026-10-26T16:25:34.487Z",
+  "lastUpdated": "2026-10-27T15:40:18.387Z",
   "days": [
+    {
+      "date": "2026-10-27",
+      "stories": [
+        {
+          "title": "Microsoft unveils new image AI model, MAI Image 2.7 (MSFT:NASDAQ)",
+          "summary": "Microsoft unveils new image AI model, MAI Image 2.7 (MSFT:NASDAQ) Seeking Alpha",
+          "category": "ai",
+          "source": "Seeking Alpha",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQbFpIUnJRQkt2eWdzMHplZERDb0lmSmkwWjQyLTRDamNCNUxiS3pBZ2NxTWlRLVM5Tk1qNlAwa0FDelU3ZzRBSVBZUGFKc3hoX0JnYUg1LWZjakNUYzM0ZlUtZmdiLWxUZnlRUjdJQkp3QVNuVm5kNHFJMWtDQmNyNEtoWGhRVS1YVncyMFFrOTJ4UQ?oc=5",
+          "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80",
+          "publishedAt": "Oct 27, 2026"
+        },
+        {
+          "title": "Global CRISPR market to nearly double to $6.12B by 2031, driven by drug discovery and gene editing advances",
+          "summary": "Global CRISPR market to nearly double to $6.12B by 2031, driven by drug discovery and gene editing advances Pluang",
+          "category": "biotech",
+          "source": "Pluang",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPbE14QUcxZ2NGcE1TbFJLUE5Td0xIRkVtYlVSMUQxZk5ZN1dkd1dWLWRtZkdBXzBEUi1PeEJmXzRsMjFneXNWWEtJUFVXajBQQjZrZGxSYWFTOTdFYnBmUUZTdUdERDI1VVVlUnRnVzR2TmxzUU1fUEtYU1pXZVhNTlBPaFNjZXVyR3BfNlFuTC0zNnRnZDlKRXk0QkppUzQ?oc=5",
+          "image": "https://images.unsplash.com/photo-1530026405186-ed1f139313f8?auto=format&fit=crop&w=1200&q=80",
+          "publishedAt": "Oct 27, 2026"
+        },
+        {
+          "title": "This humanoid robot climbs ladders and vaults obstacles with one AI system",
+          "summary": "This humanoid robot climbs ladders and vaults obstacles with one AI system Interesting Engineering",
+          "category": "robotics",
+          "source": "Interesting Engineering",
+          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNSUFESk90dTBHdHBHS3ZQaTdqc0QzcllZS0xhUEFSMVp3dC1yaVFhakFLeGxGN3Nrd0VFUUhVMTh0R0E3dGtBVl9BcUUyX1ZZSlQ0cXFDdWlSNmhVWGZPWUdnclZ6WmIxekxCWmlnQ1ZCOGRXVFFjWnNVbEZ2Mk0tcUN2MEFuUjVubG1fZ1d2cjdwdmR2aGRFVW40VDd0b1RNc3NTM3NER0syLUE4Y0lQRU9HUVBtTVk?oc=5",
+          "image": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?auto=format&fit=crop&w=1200&q=80",
+          "publishedAt": "Oct 27, 2026"
+        },
+        {
+          "title": "Google Just Solved a Major Quantum Computing Problem. Here’s Why Investors Still Have a 10-Year Wait.",
+          "summary": "Google Just Solved a Major Quantum Computing Problem. Here’s Why Investors Still Have a 10-Year Wait. Barchart.com",
+          "category": "frontier",
+          "source": "Barchart.com",
+          "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPb1hzbkFHcjRXR3hhMTBJYXZwNjJWenl6QVBENUlwYnpqLURuaW1DZmVsZ0loUXVxb2JGNXZrdWg1ek1ldkd1TWZkUk9HaTBFWmlQZzZFdmRqYmJHN3VMQ1hzMnlIR3IzSW5HN0RKOXAxSUEzcVdtRl81SmZ2MVVtdHZaV2E0OVVSNWpHY2FNUC1ScVR5X09aaDI2dmx4aF9HRGlidVJfV2xHVi1LVGNXTmt3U19OWldkbllvX2tSOFkxOUVDcml5M2d6V0xNNUVjbks5c0JPakVEQQ?oc=5",
+          "image": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?auto=format&fit=crop&w=1200&q=80",
+          "publishedAt": "Oct 27, 2026"
+        },
+        {
+          "title": "Nord Quantique Secures US$10 Million DARPA Stage B Extension",
+          "summary": "Nord Quantique Secures US$10 Million DARPA Stage B Extension HPCwire",
+          "category": "frontier",
+          "source": "HPCwire",
+          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPcjc0RjFUWjNoTjdxVUNBMVh0NnFwNWlwaFo5RG1vMThNNU5CaWlhbUtqRzdodXBmTWNwaFZGUEZGcGg4cnJvOHpxeDEzU2hzem9lT1h2elBQT3JkOFNkUWlBTFk2U2MwZDdsWDFjZURDajJoek14RVNTdXBvRmxmbDF0VzFEajBiNHg0NnZLbmI0ajV0cG9UZXExYWNuUQ?oc=5",
+          "image": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?auto=format&fit=crop&w=1200&q=80",
+          "publishedAt": "Oct 27, 2026"
+        }
+      ]
+    },
     {
       "date": "2026-10-26",
       "stories": [
