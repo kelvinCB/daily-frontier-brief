@@ -1,6 +1,56 @@
 {
-  "lastUpdated": "2026-10-31T15:34:34.582Z",
+  "lastUpdated": "2026-11-01T16:32:24.226Z",
   "days": [
+    {
+      "date": "2026-11-01",
+      "stories": [
+        {
+          "title": "Debate intensifies over AI liability",
+          "summary": "Debate intensifies over AI liability theinsurer.com",
+          "category": "ai",
+          "source": "theinsurer.com",
+          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQeU1mREpjYUExUEhxN19faVlMVnprTVkwY0ZIdWVyNTBINjB5STR1cDhnaTItTUxOcG5iM0x2UWZWRXgweDdkMGRJZkI1eDZPbWdHQlltRi0zaUZVUDdRbVBCRlRJSFpLdmFiRVVETW5vWl8wX3BtcGhULThsOGVEb0ZoWWxaVHVxSWVj?oc=5",
+          "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80",
+          "publishedAt": "Nov 1, 2026"
+        },
+        {
+          "title": "CRISPR-Edited Cacao Advances to Field Trials for Black Pod Disease Resistance",
+          "summary": "CRISPR-Edited Cacao Advances to Field Trials for Black Pod Disease Resistance Global Agriculture",
+          "category": "biotech",
+          "source": "Global Agriculture",
+          "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQdVdrSDVzbDM4aEIzV3BxQmdUaFdwaEtBQXM5REE4OTctTHpSZjFoV0FqTmtGeElubFRHOTZsQ25aMUFudU9wOW9XekhqazAyMndlZXVqMWM2Q0w1WnhEcXdWRHVVUWZQMnlPUHRzQ3Z1N3ZFOVlYWFV0WXhEOGlVeHdqOEJOTjJrMDA5U3haSkxtamliY0hkaGZxcTZUd0VrdjdISWlDR1FHVlVZa1FpNHAtYmtieVdadmEyUS1hVXc0NE5Ydzg3TlBldy1DZTg3?oc=5",
+          "image": "https://images.unsplash.com/photo-1530026405186-ed1f139313f8?auto=format&fit=crop&w=1200&q=80",
+          "publishedAt": "Nov 1, 2026"
+        },
+        {
+          "title": "Let's Have Some Fun: Spot Plays With a Tire, Reachy Mini Races Microduck",
+          "summary": "Let's Have Some Fun: Spot Plays With a Tire, Reachy Mini Races Microduck IEEE Spectrum",
+          "category": "robotics",
+          "source": "IEEE Spectrum",
+          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1Gd2U5c1c2Ui1hRVdiUzZ0cTU1ZjVpekxiMkU3THhGRXVJU1Bndk9zMmRudXhBUzg3ZTliVE9oaEc1bGRVczdrZUZCNnp2UGlnS3gwS0NIN0JvRk8wWnpZem9LLWw0aU9ZZ19Sd1lWcw?oc=5",
+          "image": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?auto=format&fit=crop&w=1200&q=80",
+          "publishedAt": "Nov 1, 2026"
+        },
+        {
+          "title": "LANL: Quantum Summer School Brings Students Together In New Center For Quantum Computing In Downtown Los Alamos",
+          "summary": "LANL: Quantum Summer School Brings Students Together In New Center For Quantum Computing In Downtown Los Alamos Los Alamos Daily Post",
+          "category": "frontier",
+          "source": "Los Alamos Daily Post",
+          "url": "https://news.google.com/rss/articles/CBMilwJBVV95cUxPR3hPSHl6RkswRHVNWWxaeF96dEc4R1AtSlBvN1YwelRCMVpLTHFMbTdCVlpPa2IycnVpbjZyU3FPXzhJUi1iZVVhdDFpWGZtNWRiLU9uSHZkS1B2OGxwR19mZmxVS0xsd0I0dlZmanhnWW8zQjRHTmF2dWw0OWhJcFlyM3FkcmtZaWExVGdjU0hNc2dKcW5WQ2ZfRW1vOVhNaE9TU083cVc5aS1pWU5fWW1jaGg2ZzVydzU1OEpFbTBsX0k1Tm02Qjg0cXZ5SjFzYzI1bkhNSTE4T3pxVjVhOWVDUXRWUFpMQ2FDVHpSaHVvN0o3bVprQlhDOERMVTVjUWs1R3pJMWxIZ0x5amtZUFJBT214c0k?oc=5",
+          "image": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?auto=format&fit=crop&w=1200&q=80",
+          "publishedAt": "Nov 1, 2026"
+        },
+        {
+          "title": "Researchers Train Algorithms To Detect Entanglement Using Quantum Computing",
+          "summary": "Researchers Train Algorithms To Detect Entanglement Using Quantum Computing Quantum Zeitgeist",
+          "category": "frontier",
+          "source": "Quantum Zeitgeist",
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOS3Rnb0p4eGN2U1BSamlfSmlsVS0xd0JLLUZKZ2Vza1E0NTNYSEo5WE1kTS1Qclp3THBNZ0w2YlFPTE5GUXh0RElXMHluRzBrQ29IYVlZU2ZXLU9ES1BCZjNHMzlMYU9TTERmZjQ2T2tFVkctWURKTFl5MmhVMkVZNzFKUk9KVTZjNDREUzhpMkw4RkRKM2JMUGl3?oc=5",
+          "image": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?auto=format&fit=crop&w=1200&q=80",
+          "publishedAt": "Nov 1, 2026"
+        }
+      ]
+    },
     {
       "date": "2026-10-31",
       "stories": [
