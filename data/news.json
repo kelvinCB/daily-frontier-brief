@@ -1,6 +1,56 @@
 {
-  "lastUpdated": "2026-11-04T17:41:52.283Z",
+  "lastUpdated": "2026-11-05T17:48:29.038Z",
   "days": [
+    {
+      "date": "2026-11-05",
+      "stories": [
+        {
+          "title": "Two-Stage Text Augmentation and Dual-Expert AI Model Reaches 98.5% Accuracy",
+          "summary": "Two-Stage Text Augmentation and Dual-Expert AI Model Reaches 98.5% Accuracy Bioengineer.org",
+          "category": "ai",
+          "source": "Bioengineer.org",
+          "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQRVUtNnk2MHJDU1g2blBjbEhmaUNQcEtaLUVSZGM1THhNM1JDVmJUaGpvMFZ2UE1YQTZKQkFXU29YZW9Kb0s4b281VGNqaEFFcG5pUHQzX0ZJMVhEYU9MZHIwYkhfREdRM25tX3ZsX2lxdzI1VDJwV2x4WGRxVUhUWmtrcmFGQjN6UkVaLV9rejRTTW5tNG50TTFjMTl2X202RnIydklNTV80R1A4c3V4T1BsY21rQk5zS01xQVQtUFlMa29wSC1TWG9KNWNuTWsxa0E?oc=5",
+          "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80",
+          "publishedAt": "Nov 5, 2026"
+        },
+        {
+          "title": "Gene therapy may ease swallowing problems in those with rare MD type",
+          "summary": "Gene therapy may ease swallowing problems in those with rare MD type Muscular Dystrophy News",
+          "category": "biotech",
+          "source": "Muscular Dystrophy News",
+          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPMWZfbTAxaTFJTnVvTEpHN3NZMjB6RThzR05sR3NpQ1RxbW9yZnI5ZlZkMmpINUVyOEJQalB3Y1IxdHlvZFBuVzI3eFJZS0RZNG8teG41akhrazVrWmxsSEoyQzg5VTZ6cjVWV0Y4YjhsQklmbnRKWi1xMlUxLTF5cjhhZlAwakdUeHh1SlowT2tUMzBLWHRSb18yWnBXUExNS0VKcmNR?oc=5",
+          "image": "https://images.unsplash.com/photo-1530026405186-ed1f139313f8?auto=format&fit=crop&w=1200&q=80",
+          "publishedAt": "Nov 5, 2026"
+        },
+        {
+          "title": "St. Clair College unveils Humanoid robot’s name",
+          "summary": "St. Clair College unveils Humanoid robot’s name CTV News",
+          "category": "robotics",
+          "source": "CTV News",
+          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOcmpvSWVwa1NzbVZTVXBYYlZ4dUU5ejdGR1M5RE1BakdZTkxRb01iR0NlZnlISTRzbUwxZWJPQ3dFeEx1cUluWFRHTVlrckpCYy1MT1pFX01SVFFJNGZnZ2tLTUl6M0pGR2U4c1BJR28yNVUwblJZekVBZjBYRHB5Z01MeGhOSjJPYllLNTBn?oc=5",
+          "image": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?auto=format&fit=crop&w=1200&q=80",
+          "publishedAt": "Nov 5, 2026"
+        },
+        {
+          "title": "IBM, Quantinuum and Intel signal a new phase in the quantum computing race",
+          "summary": "IBM, Quantinuum and Intel signal a new phase in the quantum computing race Network World",
+          "category": "frontier",
+          "source": "Network World",
+          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNdUlKNnc4QnY0cTNhYWhaYXlFNTVOX21CYkxkdHZ4Y1VWN29KRklJU1lZOUwyTTVpS2x5a2RwY3dJUjMwSXNQcTZDeWtOUDN1QzhubnBHUnA0aC14VWFTcVNVR2VpVEpWakpWd0xvQmVRdl9ic0FrR2d4bVZuNkw2OVVSTFhqRE83WWgyM3NJNE1yc2pqTjliNXM2cFh3RkdCcFpTaE80TmNZWUstbWxDTlI5QU0yeGI2OWM1ajlaRFM?oc=5",
+          "image": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?auto=format&fit=crop&w=1200&q=80",
+          "publishedAt": "Nov 5, 2026"
+        },
+        {
+          "title": "IBM Collaborating With AMD, Oak Ridge Lab to Accelerate Quantum Computing Development",
+          "summary": "IBM Collaborating With AMD, Oak Ridge Lab to Accelerate Quantum Computing Development www.marketscreener.com",
+          "category": "frontier",
+          "source": "www.marketscreener.com",
+          "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOSnI1a3FCU1lTZzRrMDdDSTZSalJ5cTAzSUp4dHZ4eWhqNElZbll6ZDV4c1U3QUlMNnpMZHR3cEhWMFJiT1p2a0NpVzVibklkMU10Tlp6Tm9xdnR4VjdVYkI3T2NIRERaTHJ3Q1NwUnItcG45OVc1bTAtanlMYUlWTFFTN0hTS2QzOHR0Y2JKdWZHUkU1bzZKemlhVWFNZzRzeDAwb0QzbTRhTFdERXVzOXhaRVhSNERZSnJvNTNYblFyX2otNUFoZ2hyR3dsLW1yMGt3?oc=5",
+          "image": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?auto=format&fit=crop&w=1200&q=80",
+          "publishedAt": "Nov 5, 2026"
+        }
+      ]
+    },
     {
       "date": "2026-11-04",
       "stories": [
