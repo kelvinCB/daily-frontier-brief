@@ -1,6 +1,56 @@
 {
-  "lastUpdated": "2026-11-06T17:06:27.822Z",
+  "lastUpdated": "2026-11-07T16:02:02.110Z",
   "days": [
+    {
+      "date": "2026-11-07",
+      "stories": [
+        {
+          "title": "Times Bonus: XiuShan Mining Uses Artificial Intelligence to Automatically Earn $8,588 in Cryptocurrency Every Day",
+          "summary": "Times Bonus: XiuShan Mining Uses Artificial Intelligence to Automatically Earn $8,588 in Cryptocurrency Every Day Bay Area Reporter",
+          "category": "ai",
+          "source": "Bay Area Reporter",
+          "url": "https://news.google.com/rss/articles/CBMiqAJBVV95cUxQQS1jVDVQcFRfQ0dRcUtHWjVINWplVTV6MXhuVFJjWGxTdVRPS1JwX3duWm0tY01rMmc2Q1VHaDk1U0FqTFVSQnZodmtZUHF3Y3lkNkNpTTNfeF9qd1FIcHJCdi15V3cxSkp5aTBjbzJVUzFIU2w4bFY3MkhOYVdIak56TXJaMUVlM2R6WVZxZlY2THhSZThzaDY0bXdQcTF4b3JaMkhPdldRMmZBaGZkYmJRQU80emN2MEY1eGxPWWNyZjRIRmNyV2ZBS3VsY24zdUl0bmRsd3poRE5OLUowQUIxTVBoNER2UlZSVG4tVWdKXy1FdlFlRnY1ZXVCVFhNT1VJbHNJRUZLVFZ4M05laTAyV09KcUgxLU9CUGpscW8tY0V6NzVsaw?oc=5",
+          "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80",
+          "publishedAt": "Nov 7, 2026"
+        },
+        {
+          "title": "Vir Biotechnology Stock Gets Focus As Phase 3 Hepatitis Delta Data Head To AASLD",
+          "summary": "Vir Biotechnology Stock Gets Focus As Phase 3 Hepatitis Delta Data Head To AASLD Yahoo Finance",
+          "category": "biotech",
+          "source": "Yahoo Finance",
+          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNT1ItLWQtTDFwaE4wYVVIdzJ2bElxcy1fNklDUzBMSXdmZm9ZQS1IVTM3Wk1XNEduS3FfY2RRU0FIcXVzR1hOZjU0WDRIR1NPdEVQUWtXRTJLazJ1eU5RSkMxSHBHRVhyQUQwM1Z2QlI4MDFtLWRHckdubWRjcEQ0bkRlYl85bGhHV0ZhUUliWlpmOVJhOUVqQTlhZw?oc=5",
+          "image": "https://images.unsplash.com/photo-1530026405186-ed1f139313f8?auto=format&fit=crop&w=1200&q=80",
+          "publishedAt": "Nov 7, 2026"
+        },
+        {
+          "title": "Meta secretly built a humanoid robot with a Chinese company",
+          "summary": "Meta secretly built a humanoid robot with a Chinese company Interesting Engineering",
+          "category": "robotics",
+          "source": "Interesting Engineering",
+          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNVDRObTBwR0VxMWVQTGNIRVAwMlRsNUwwSzFnZTI2N3FGNjhrbkVPZ21faXh6LTlSMlpHQWVrS0ViWlNuTTktNnhMQTQ5OXpfdGM3UGg3RjRJT3poQW1OMkFHTGozNnVYUDQ4Zmdaaml6T2Z5eDBuVGpxaHNuYVFpODBQRDFsT2pLS194azBuUGd1Sll4ejhFbW1iNklkNGh1cGEw?oc=5",
+          "image": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?auto=format&fit=crop&w=1200&q=80",
+          "publishedAt": "Nov 7, 2026"
+        },
+        {
+          "title": "Humanoid robot showroom Dubai: 28 robots, AED 50,000+",
+          "summary": "Humanoid robot showroom Dubai: 28 robots, AED 50,000+ Tbreak UAE",
+          "category": "robotics",
+          "source": "Tbreak UAE",
+          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1aR0FDWWkyZU9XUlJIakh3ZEZoaXZZWk5uNUJlNC04ZlNROWlGaXNVWkx1QVN2a0xzWE1wUGwycTBHTHlSNXJWb1NGcTFZQkI2LU5pMlBrS05BODRrQ2NwZGM3WjFuZzZwNFZkVWxvMHVuLU0?oc=5",
+          "image": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?auto=format&fit=crop&w=1200&q=80",
+          "publishedAt": "Nov 7, 2026"
+        },
+        {
+          "title": "Video shows Chinese humanoid robot performing Tai Chi moves | To watch the video | Inshorts",
+          "summary": "Video shows Chinese humanoid robot performing Tai Chi moves | To watch the video | Inshorts Inshorts",
+          "category": "robotics",
+          "source": "Inshorts",
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQcEROeGRmRFE5OGNPQjJZRjZBdkVQSldabjVORllsa3BwWXduQ3dvWVFiYllnUXVQSGdXSzZYWjZjTnhhU25XUkZNRmplY1dPOGh1X2xLcU9INk9tQTlJcXEwSEhWUkxLYm91UFBhYXNBa0VTOGFlOTU3UUxiaWoyRTVzWWVTUzJwWkxSdXRqT0JwSjNiODZoQ20wSlZJVzUtRTJOZtIBqgFBVV95cUxOOTZ6REh3c05FLVdockRQZU1NUnNaMmM3dEI2LURZVUk0Q1YxR0YwVmJyZTJKUGF2TWRJcTYwNmJ6cHU0bVZkN2pHc2xMbEVYMEU0Nkkyek13SmlLRWJQOUYzVTdnVmNMekRFY2xSOURSNEF2UzJxTkFMcHdYa29SbmFKd0NQM1hyUVZaUXhtdXc2VjNqdWJzMHVhS2tzRFYwRlZpZTZtYk92dw?oc=5",
+          "image": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?auto=format&fit=crop&w=1200&q=80",
+          "publishedAt": "Nov 7, 2026"
+        }
+      ]
+    },
     {
       "date": "2026-11-06",
       "stories": [
