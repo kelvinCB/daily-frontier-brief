@@ -1,6 +1,56 @@
 {
-  "lastUpdated": "2026-11-08T16:28:46.156Z",
+  "lastUpdated": "2026-11-09T20:21:18.568Z",
   "days": [
+    {
+      "date": "2026-11-09",
+      "stories": [
+        {
+          "title": "Opinion | Does Claude have a soul? Ask God, not Anthropic.",
+          "summary": "Opinion | Does Claude have a soul? Ask God, not Anthropic. The Washington Post",
+          "category": "ai",
+          "source": "The Washington Post",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQZ0hhX1U4aHV4OTRSb3JZRDZPQ1NEYWtzVDRVYU5jX2tUMVNpU2NZakVrN0hjRTV1Qy1vb2k1cElOOUxXZi1GeEdXX1B2WlhRMEZXUHMwWXlfNWs1TlpaR1FhLWliZEZpN3JIaHd4bWFmcmRTdGFFRTQyZWJsTjQ2TVE3bGNyMTY4dnFHVlk5Y0pIOGFLUExRVnFZTE52bkJncHJ1YUFTZG9RQk1RXzJBZDJn?oc=5",
+          "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80",
+          "publishedAt": "Nov 9, 2026"
+        },
+        {
+          "title": "Vladimir Ivošev: 9 Tumors Reported in Patients Treated with Novartis' Zolgensma SMA Gene Therapy",
+          "summary": "Vladimir Ivošev: 9 Tumors Reported in Patients Treated with Novartis' Zolgensma SMA Gene Therapy Oncodaily",
+          "category": "biotech",
+          "source": "Oncodaily",
+          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBfdzhiaGhhNUd1b3R6SnNoVzlaZ2U0NkpncUpqcV9GY1l6SUs3cURfMEZvT1BaR2tIYzNzcVFFV3ppRDBfUW5wZ1BDOUZLRnZEeFl2SXRaWlhXLTdmanFtUHpn?oc=5",
+          "image": "https://images.unsplash.com/photo-1530026405186-ed1f139313f8?auto=format&fit=crop&w=1200&q=80",
+          "publishedAt": "Nov 9, 2026"
+        },
+        {
+          "title": "Nature Will launches 50-billion-parameter AI model for dexterous robot hands",
+          "summary": "Nature Will launches 50-billion-parameter AI model for dexterous robot hands Robotics & Automation News",
+          "category": "robotics",
+          "source": "Robotics & Automation News",
+          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNbmNqRGE3ZUtDcEV2d3N4M2FrMGlQU2JsZ3llX2xoTmtTdUhrTEt1U2xlaUlmbEtJMzlvMm1SRnRIZlJrYldLcXVRb2trUEtEbTVWanA2c3MwUllvNHdmR3ZkMmZWQ3RaZnBMWGkzMmRlMmRvUnV2bGhyUXZLTUU3STYwUmJqQ0JoTnVGblRRVU83T3V3VGM5WHFOeGV6SGc4bE0wUGdlbFdTVDhqeS1mZGRDb0MzN21FR25LSElsQlpwMElGY2NXRWE5Umx2UQ?oc=5",
+          "image": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?auto=format&fit=crop&w=1200&q=80",
+          "publishedAt": "Nov 9, 2026"
+        },
+        {
+          "title": "Arteris Exceeds 1,000 Customer Design Start, Releases The State of Semiconductor Innovation: Insights from 1,000 Design Starts",
+          "summary": "Arteris Exceeds 1,000 Customer Design Start, Releases The State of Semiconductor Innovation: Insights from 1,000 Design Starts Embedded Computing Design",
+          "category": "frontier",
+          "source": "Embedded Computing Design",
+          "url": "https://news.google.com/rss/articles/CBMimwJBVV95cUxNUjhWWU1RUTJHNHdLMFFYSGpDbElHSDl6R0NsT1doTlFHNkRsZGloRTZGa191TTlIMnhjVUFJcDV2NnByaHNxR1otemdQQmZkTjh3QTlVUTBReUJEeVhwcV9FWU1sdEJ2aWI3bFhzTmZyUkM2YXN1aGtOOGw4M0FZSEw4QlFQaGotaWZuLUFZd0lacE9kSnlhalUzNGtBcmhNQUFOVnBCSl9NcWNGdkhJY2VKZnVwODlKWDhLZnBkdl9NZEhycTRGeVRGTG9zRkF0N2pGNkttaFE1eG0zajZhZ2xZbDVuM08xelMwc1FhbVJrd2UxSFlTeTBlRHhsVWlNaEJud3NmV01VV2M1djdyWlFGMGo0ZWhlWENB?oc=5",
+          "image": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?auto=format&fit=crop&w=1200&q=80",
+          "publishedAt": "Nov 9, 2026"
+        },
+        {
+          "title": "IonQ & Carahsoft Partner to Expand Public Sector Quantum",
+          "summary": "IonQ & Carahsoft Partner to Expand Public Sector Quantum IonQ",
+          "category": "frontier",
+          "source": "IonQ",
+          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOalk3cDRkVXpUdXJTLXczdDhVT1JlQlMzZjdWZUVfMG1KY2lWejVhbTFjVEQ2OXdPejB6aklvby1PLThqQUhrTEN2Rk9CNHluUVYzYXlnTGMtU2Nzd3Ayc3M5OG5pZ1NoTWxnMVRtcS02WmFHajh2UWZTSi12Y3ZqcjZYcTNreGZXdFNQdnJZOWZRUXlOQ2pJ?oc=5",
+          "image": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?auto=format&fit=crop&w=1200&q=80",
+          "publishedAt": "Nov 9, 2026"
+        }
+      ]
+    },
     {
       "date": "2026-11-08",
       "stories": [
