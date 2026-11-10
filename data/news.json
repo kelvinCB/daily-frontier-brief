@@ -1,6 +1,56 @@
 {
-  "lastUpdated": "2026-11-09T20:21:18.568Z",
+  "lastUpdated": "2026-11-10T17:25:42.909Z",
   "days": [
+    {
+      "date": "2026-11-10",
+      "stories": [
+        {
+          "title": "Q&A: Exploring generative AI's impact on student thinking during programming and debugging",
+          "summary": "Q&A: Exploring generative AI's impact on student thinking during programming and debugging Phys.org",
+          "category": "ai",
+          "source": "Phys.org",
+          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1QdXNwNWMxanNOOHFRMUEwUWpnLWluNTdJNFRuMlVTWVNhU0pKNkJJdmtpbjNuaUZPRDJHTWw5ZnN4dzhTdGd3WWlkeG9hb1Y1ODkyNmNzWFFhbTdoZWthczAxaGtNdUI5My1tZFlUTzJZZFZaSExj?oc=5",
+          "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80",
+          "publishedAt": "Nov 10, 2026"
+        },
+        {
+          "title": "Resistance Mutation Supply Modulates CRISPR Immunity Benefits in Pseudomonas aeruginosa",
+          "summary": "Resistance Mutation Supply Modulates CRISPR Immunity Benefits in Pseudomonas aeruginosa Bioengineer.org",
+          "category": "biotech",
+          "source": "Bioengineer.org",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPRVBqN2txMFhyRF9hYmxxZ1pLSGRCZG5HWEVVZS1wYjFjbnFhUzJ3QU1ReDkwN0lHSmh6UzZwc2hEWWZndXhPaHpOdFdzOWF6QlBEYmpEOVJXdXYtV2lldlY0NnFJMllqeGpjVTFxYWUyTG1ZMG9WdDRIQkMtaEUtRE8xcW1BaUtBb2h4TGJBYmprMmxHZGFxVWtPVjBGMGxFekxOXzN6d2lycnprLUNsenVB?oc=5",
+          "image": "https://images.unsplash.com/photo-1530026405186-ed1f139313f8?auto=format&fit=crop&w=1200&q=80",
+          "publishedAt": "Nov 10, 2026"
+        },
+        {
+          "title": "NVIDIA Unveils GR00T 2 With Onboard Humanoid Control",
+          "summary": "NVIDIA Unveils GR00T 2 With Onboard Humanoid Control The Defiant",
+          "category": "robotics",
+          "source": "The Defiant",
+          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNS3ltdFNUcWFiWVRNS09pX3NnM1JLZDAxVFhqWGRveENJNHZuQzZmaFVobHgteF9DanV4SlJiTXA5S0ptclRPRkNYVEYyb200bnBldE5tbElaTzFMb0VOU3paZUdnbWtma1RSZXgwSTEwNmdKazl1Tl9US2hWR1d0NlRPZXliZkhNei1uM1pLWQ?oc=5",
+          "image": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?auto=format&fit=crop&w=1200&q=80",
+          "publishedAt": "Nov 10, 2026"
+        },
+        {
+          "title": "Anthropic IPO: The Best AI Model Does Not Make The Best AI Stock (ANT)",
+          "summary": "Anthropic IPO: The Best AI Model Does Not Make The Best AI Stock (ANT) Seeking Alpha",
+          "category": "ai",
+          "source": "Seeking Alpha",
+          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPeVRiOTYxbHhhQ3V0SjFwa1UtV3JmRUNobFlmX2hGdmVfTWpoUmNRdWJ5TVo3Y0ZzRFdLekhQNzI1WS1FNjlBRXJnRDU1V25xRzBfN1F4Si16MXI1WjRBVV9MVF9hdmlHYU5nc3ZjUHltNWlKV01jOWNVaXgwSTE2OEpVclJ5YmdOUmFnYUpIMA?oc=5",
+          "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80",
+          "publishedAt": "Nov 10, 2026"
+        },
+        {
+          "title": "D Wave Quantum : Q3 2026 Presentation",
+          "summary": "D Wave Quantum : Q3 2026 Presentation www.marketscreener.com",
+          "category": "frontier",
+          "source": "www.marketscreener.com",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPWldVeWR0ZVJlNExfd1plSC1sYng2aVlfQzR0VmVvU2xmdUpKWjF6X3ZFZU9HRWJZeUdURlBiX0FHVlJfa21sMnp0azZVUmZLSHFBNG4wVVBkX3VaRXhiWmstRHVhdEdDWkJUemdXT20tYmE3cDREa1J4U3lhMDNIYm92ZEgzaEg2RmFGZGxNQXhsZw?oc=5",
+          "image": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?auto=format&fit=crop&w=1200&q=80",
+          "publishedAt": "Nov 10, 2026"
+        }
+      ]
+    },
     {
       "date": "2026-11-09",
       "stories": [
