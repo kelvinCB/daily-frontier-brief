@@ -1,6 +1,56 @@
 {
-  "lastUpdated": "2026-11-11T17:38:41.620Z",
+  "lastUpdated": "2026-11-12T17:50:57.738Z",
   "days": [
+    {
+      "date": "2026-11-12",
+      "stories": [
+        {
+          "title": "Jensen Huang, a global salesman for artificial intelligence, resigns from Nvidia after affair",
+          "summary": "Jensen Huang, a global salesman for artificial intelligence, resigns from Nvidia after affair WSMV",
+          "category": "ai",
+          "source": "WSMV",
+          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOaWdYM0NMQTJ6VzItbmRMVVFkaGVOakFxSlR4MVR1ZUxLVDVEclhjU1o4N2ZWVjJvd0dObVNUeldXQlFWVHdKMk93dC05ZXJuWGc0VGlROExXUXE2X0NqZnVMa1YzLU5UM1NqNTVkdjluWEFoRmcwWGlyZmVQLWVRc3dnb1U2SWdQM1QteFRvMVZra2hRbk1RNnRZTFpnVHJWckVmdlhDdEk4QWxZT0s4QVRVTVVhSkY2ZHhB?oc=5",
+          "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80",
+          "publishedAt": "Nov 12, 2026"
+        },
+        {
+          "title": "[Twist Bioscience Q4 2026 Earnings Call] Twist Bioscience Hits Positive Adjusted EBITDA of $2.2 Million as AI Drug Discovery Revenue Surges 175%, Guides FY2027 to $550–560 Million",
+          "summary": "[Twist Bioscience Q4 2026 Earnings Call] Twist Bioscience Hits Positive Adjusted EBITDA of $2.2 Million as AI Drug Discovery Revenue Surges 175%, Guides FY2027 to $550–560 Million BigGo Finance",
+          "category": "biotech",
+          "source": "BigGo Finance",
+          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE51WkZFT3ZhaV9TS0o2QnZSTXljN2tzRDlJeTAtdmxmZUNRbkFuX1JiZ3hvSmNsaGw1Y0NQbnZjMkJNUWItMjZJMEVtdUhfeEV1QkdTbzhFME1sVWFjV2c?oc=5",
+          "image": "https://images.unsplash.com/photo-1530026405186-ed1f139313f8?auto=format&fit=crop&w=1200&q=80",
+          "publishedAt": "Nov 12, 2026"
+        },
+        {
+          "title": "Humanoid robots to help care for elderly in Portugal?",
+          "summary": "Humanoid robots to help care for elderly in Portugal? Portugal Resident",
+          "category": "robotics",
+          "source": "Portugal Resident",
+          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOdFV6Q3BTckFpaHNMVkktajlocTVEd3J6c1d0VTVPVW1qZ2FUWDBoT2xiSmQ1d1BqNlpjaF9BRWpnc3pQZVVQUzZoMVBEakFsN3BTazJZSGIxYVF3Nkk0VWF3ck16cnNDN3hBVWxXOUp5bmlWZG8yMmt5Z0VZVU5vQU5WOG5fUXNNc2c?oc=5",
+          "image": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?auto=format&fit=crop&w=1200&q=80",
+          "publishedAt": "Nov 12, 2026"
+        },
+        {
+          "title": "Quantum Systems drones grounded by German military after cyber attack",
+          "summary": "Quantum Systems drones grounded by German military after cyber attack Financial Times",
+          "category": "frontier",
+          "source": "Financial Times",
+          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQY1BoVTM2UVBsX1JmRkhtcE5kME5VVkVsZU4wX0xGZGRraUVBSnNsMEN1dmZEekhlUGpQbUh6cEZuSkRkUXNyMGpzalNOckVqNjkzR1MtRDgxM2lHZmotLWF5elowTW1lSVY3T24wZy1iM2ZyNDEzSVoyc1B5WlR4WmNEOTY?oc=5",
+          "image": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?auto=format&fit=crop&w=1200&q=80",
+          "publishedAt": "Nov 12, 2026"
+        },
+        {
+          "title": "GXO could deploy 1,000 Apptronik humanoid robots over four years",
+          "summary": "GXO could deploy 1,000 Apptronik humanoid robots over four years DC Velocity",
+          "category": "robotics",
+          "source": "DC Velocity",
+          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPTlBhNUt3ZnFGYUI1aXYtNFNCTGc1VGFPTnJSYkliVUM5eHZqMmtvb3JoSllDM2M0amdDQUhwbGRiNnBwdGd2aXdBVjRGSGFqRUZMdXQzRGk4bHFlMVZRNnBKSDhRSHJOZjZNdVl5ckNSdTRxNHN0NXJtTnBqTmtNbGE1YjR4a0ZpRTVaWUlUVWNnMThPZklkMmU1LTFoOFltX3g4ekxVZkZlZnZqVHhMeUotcmZTZmQy?oc=5",
+          "image": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?auto=format&fit=crop&w=1200&q=80",
+          "publishedAt": "Nov 12, 2026"
+        }
+      ]
+    },
     {
       "date": "2026-11-11",
       "stories": [
