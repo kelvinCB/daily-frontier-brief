@@ -1,6 +1,56 @@
 {
-  "lastUpdated": "2026-11-12T17:50:57.738Z",
+  "lastUpdated": "2026-11-13T17:27:35.140Z",
   "days": [
+    {
+      "date": "2026-11-13",
+      "stories": [
+        {
+          "title": "Pentagon rebrands principle AI shop as ‘Super Intelligence Office’",
+          "summary": "Pentagon rebrands principle AI shop as ‘Super Intelligence Office’ Breaking Defense",
+          "category": "ai",
+          "source": "Breaking Defense",
+          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNT05UWGJTSFduUXhDT3l3QkdWNVBzcFBOb3p3blUzVFcwR3NQdFNGRUI4MV91cl9maVZTcmlfSW13VUd1X3k1REY3NE1jeFVlOC0wWkxLQXVHRVdTaW5JZER1VkVDQ2NfaEl5dkdGbWFDOHRhOHRPejJuOWVSa24xRFdCOE00V3VEbFBkZ0gxT29IZnVkdU83anc0QkozeldzU3FR?oc=5",
+          "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80",
+          "publishedAt": "Nov 13, 2026"
+        },
+        {
+          "title": "Vir Biotechnology Shares Drop as Biotech Firm Moves Ahead With S",
+          "summary": "Vir Biotechnology Shares Drop as Biotech Firm Moves Ahead With S GuruFocus",
+          "category": "biotech",
+          "source": "GuruFocus",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNdjV1Q1IwNy15WlBpT2M0N2dva250WGxXWEtudGgtRVJ3YzhzRWc5X2NucVZDOG9yR0FZclNUVGsyWDdVR2pOS1d0Zkl1d0IzM0VuT25SekpXYjN0T3pQQVJCNXRocDRBNjJmZnZhT20xOFhQVWtCTnNzM3BsYnZVbVprWVZDVnFGUVRxTHJEbmV2NTBBMVhNZzktYTNnYWRna0xoclRLTTcyOThieU9fa0RB?oc=5",
+          "image": "https://images.unsplash.com/photo-1530026405186-ed1f139313f8?auto=format&fit=crop&w=1200&q=80",
+          "publishedAt": "Nov 13, 2026"
+        },
+        {
+          "title": "Exclusive: OpenAI disbands its robotics team as its general models start running robots",
+          "summary": "Exclusive: OpenAI disbands its robotics team as its general models start running robots Fortune",
+          "category": "robotics",
+          "source": "Fortune",
+          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQdUpabzdVdVRFd0RUN0pnVTJuQUtkYThSdzlhc3FHSmxmTnZETWNyajZGcGEtVHFvYmxMTGJMa0VHaGxEMVh5bmY1MXlVTDlWTHVBWlotdkJ0ZmRSdk9GRzh0ZTNrZElwYzlLWmp0ZkZqRFZKOEI5RkdDdkVHYzVUWFpOU2NqTnJGTmF3R0dTQTRGaDFXZl9jQ2s5bEd4dHJFZFRyQ3hrcw?oc=5",
+          "image": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?auto=format&fit=crop&w=1200&q=80",
+          "publishedAt": "Nov 13, 2026"
+        },
+        {
+          "title": "Post-Quantum Cryptography: Key Questions to Assess Vendor Readiness",
+          "summary": "Post-Quantum Cryptography: Key Questions to Assess Vendor Readiness Industrial Cyber",
+          "category": "frontier",
+          "source": "Industrial Cyber",
+          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPMUpxS2VDQVB0MEpjVmp4cEhsQUhvdzFnZ0d5dkpSdThUanM1SXJjbThza0RZaXpoUDd6UjA5NTdtYUFWT2RBU1k1a2VHSy1uTExfUlp5WGNjdWl3aFdVZE1Jb0dMV3A4U3VnWXZHZ1NFNUdKanBaUHRrV3cwR2Z6MjZRSWJUbFRpRWlOQVNmM2dqcVI4T0ppeFlScEhuYnNEV3hINFRB?oc=5",
+          "image": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?auto=format&fit=crop&w=1200&q=80",
+          "publishedAt": "Nov 13, 2026"
+        },
+        {
+          "title": "German Military Temporarily Grounds Quantum Systems Drones Following Cyberattack on Software Update Server",
+          "summary": "German Military Temporarily Grounds Quantum Systems Drones Following Cyberattack on Software Update Server oodaloop.com",
+          "category": "frontier",
+          "source": "oodaloop.com",
+          "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOYmF6M1hMREpZZW5FaFo5c0F6N2xXallhclRqbmtJMFdsNVd6bmlOSi01b3gtU182WGdfekpnMzRVREp3U05MZ1pvTDQ2Mk1zVi1QeENCamdCTldRQUFXaG1INmMzRW5ZbEdxRFJhZHhHMUFPT1lGYUlUT1JGdlpiUndvNDc0TC1UdC1OMUJHc0dVVXpZT05XT1ljNExGVnZmYTBOVE1BWUlmcW5NSFc4NHYtLVRRSmkybXQ5VzFRZkxWaHlVN29OeUM1LVVKRFdlM2l0MWxVZWE?oc=5",
+          "image": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?auto=format&fit=crop&w=1200&q=80",
+          "publishedAt": "Nov 13, 2026"
+        }
+      ]
+    },
     {
       "date": "2026-11-12",
       "stories": [
