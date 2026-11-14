@@ -1,6 +1,56 @@
 {
-  "lastUpdated": "2026-11-13T17:27:35.140Z",
+  "lastUpdated": "2026-11-14T16:19:03.272Z",
   "days": [
+    {
+      "date": "2026-11-14",
+      "stories": [
+        {
+          "title": "How Artificial Intelligence Is Reshaping the Legal Profession",
+          "summary": "How Artificial Intelligence Is Reshaping the Legal Profession TechSpective",
+          "category": "ai",
+          "source": "TechSpective",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNdkZlZ0V5R1dVdnBsOTUteGxWdjFtZDRVcUhwYmRJZ1BLeE9maF9ZWXhXeXZEZXl2VG15cUdGdU1fU0ZKN2FHa3pYUFk4QUo0TWRScFBMUFBsWHhZb25PWVdTNm9ZRDhRcFBRSG5rOVdtTnNoSWtCeHZ1MHBKeEFlejhGblByZmJ4OEZsTUxHU0dZZ2RFWDNjRDc0dlNyMDg?oc=5",
+          "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80",
+          "publishedAt": "Nov 14, 2026"
+        },
+        {
+          "title": "CRISPR Cas12a Vectors Enable Simultaneous Multi-Gene Deletions in Aspergillus Niger Strains",
+          "summary": "CRISPR Cas12a Vectors Enable Simultaneous Multi-Gene Deletions in Aspergillus Niger Strains Bioengineer.org",
+          "category": "biotech",
+          "source": "Bioengineer.org",
+          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQbE1qVjFXU2JIMjdkZXBHNlBSU3FZM1Y5TTM4ZDNEZlZJZ3dCd2E5YjUtQkhGbm9ZTEFnTDVuNl9WOEMxV1JZcDBUM0lXTjRzT3dMUGRWTl80NktzSXgxb0RtRlpMZDQtbG9rX2dLR215cUdMbjNpYTB5UXRkdExMbTZRNVQwdzU5TjJBZ1JiWWU1dXdJSTh3Mm9OU2lPQnJXU2RZQmc1SHV2UU5VRDdscmdCeGdBdHM?oc=5",
+          "image": "https://images.unsplash.com/photo-1530026405186-ed1f139313f8?auto=format&fit=crop&w=1200&q=80",
+          "publishedAt": "Nov 14, 2026"
+        },
+        {
+          "title": "OpenAI Disbands Robotics Team After General Purpose Models Begin Running Robots",
+          "summary": "OpenAI Disbands Robotics Team After General Purpose Models Begin Running Robots OfficeChai",
+          "category": "robotics",
+          "source": "OfficeChai",
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOeWlvWEZEUVA0d29YM04zSGFvSktkTFVtSl9OeDFydE5LQnM2eFJnSHlBUG1JZzFzOWd0dlpHRUdsMDZRV2JsNFl0QkctN2YzaGhxYklXbmpTN2haNXVWZmVtb0xWWDY3Uk1MNVJ1OUFOUXg3X2NoU1BTN3ZFaXJrZS1TNDEzNmM1LTgzX2xEVy1wYWpKdGphQUYzREo1dDRjUHR5QmFPWUhlQQ?oc=5",
+          "image": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?auto=format&fit=crop&w=1200&q=80",
+          "publishedAt": "Nov 14, 2026"
+        },
+        {
+          "title": "Non Magnetic Connectors Market To 2035: Medical Imaging and Semiconductor Fab Drive Growth - News and Statistics",
+          "summary": "Non Magnetic Connectors Market To 2035: Medical Imaging and Semiconductor Fab Drive Growth - News and Statistics IndexBox",
+          "category": "frontier",
+          "source": "IndexBox",
+          "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOOWFqSzVFU2kwTS1DNFF5VjViV1B2NEx1eWVoTUZYemVBM1ZOX2k3TVpUNXFVNzFSV0F2czh0NDJQNlBUeklhbHVhNGxaemNmSVBjelUyWXZ1RG5vTElMUkxFenZCcXBhcm8wWjBDYTZpUGhmel9Xd090SFhqeUFLYzdUVTV3UGJRMU5mUHg4SkRhWlB3UTh5T2hkMDVxanZWdHpTMFFJR2VZc3lYVlEyck9DTFhEaEZDZXIwb1VGX0RXd3U3N01CSG5zbUVzMWEzMUs3QWZ0c3pnNTE1NDluOTliYkFLeERFVWRoTQ?oc=5",
+          "image": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?auto=format&fit=crop&w=1200&q=80",
+          "publishedAt": "Nov 14, 2026"
+        },
+        {
+          "title": "52 Hedge Funds Back This Semiconductor Stock – What’s the Catch?",
+          "summary": "52 Hedge Funds Back This Semiconductor Stock – What’s the Catch? Yahoo Finance",
+          "category": "frontier",
+          "source": "Yahoo Finance",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPMjdnV2ZSNThNbklOS3pEMk1xN2RyaktzUU1IS0NoWU9nTGVZdF8tY1IyMThaeGJhZEE1RVhpX2lWcy1QWFZxOVlqd3RKcjJDOUt2UjZfdGlXU0NhNng1QzZ0NnJPNmdFUWpFM3Y3TnY2M3pFdDJXLWZZbHZZV0o4UEJkTGVSeVpnUWpUV3k5c05mOW9LOUQ3ZnZFR0NnS0k?oc=5",
+          "image": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?auto=format&fit=crop&w=1200&q=80",
+          "publishedAt": "Nov 14, 2026"
+        }
+      ]
+    },
     {
       "date": "2026-11-13",
       "stories": [
