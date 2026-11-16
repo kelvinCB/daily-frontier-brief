@@ -1,6 +1,56 @@
 {
-  "lastUpdated": "2026-11-15T16:44:40.682Z",
+  "lastUpdated": "2026-11-16T19:57:46.780Z",
   "days": [
+    {
+      "date": "2026-11-16",
+      "stories": [
+        {
+          "title": "Artificial Intelligence Framework Integrates Multi-Omics Data to Target Cardiac Regeneration Barriers",
+          "summary": "Artificial Intelligence Framework Integrates Multi-Omics Data to Target Cardiac Regeneration Barriers Bioengineer.org",
+          "category": "ai",
+          "source": "Bioengineer.org",
+          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPcjRlM2pBX016MXpqNnB3UEE1RWgxNmd6ejIyam1aMVgwM0s1bWdTeXY2dC1nZ080eDhFZmQzbW9zRm85REhZVG9zTndObTVoOUt4WXBZbGROdjI1bE5UNVRtb3NMYmR6ekFWQ0xZWmZnamFJOUpFSm1MM3lTV2tzb2FzdzRuQWxmRk4yMl9KOUd5M0ZSdlhUWk5MU1RoQnhvMnZORjNJYkFEYTI4Y09ibHNBUFRfbkwzdFFDRFg3MGxBWUhT?oc=5",
+          "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80",
+          "publishedAt": "Nov 16, 2026"
+        },
+        {
+          "title": "CRISPR Editing Drives Climate Resilience and Biofortification in Global Food Crops",
+          "summary": "CRISPR Editing Drives Climate Resilience and Biofortification in Global Food Crops Bioengineer.org",
+          "category": "biotech",
+          "source": "Bioengineer.org",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxORF9JNGhuYl9xNF9HcjRxUTIwbjRwTXNjUm1WMG13N2ZYRnVGeWRYOFMtaEVhemNSbXJ4MjBSVkNxakpxLVdVcUE0cW5zLXVOYU5nXzBEZXdxVGZGMkJkTTlCUEUzaGd3Mk9wX2luZFdPYXE1YWFJWXQtYnJzM2VGX0l3Qnc5d0NFY2FFT1FILVRaZWpJaVhtRG03RHJJWU41RmNXOXU1VDluZVk?oc=5",
+          "image": "https://images.unsplash.com/photo-1530026405186-ed1f139313f8?auto=format&fit=crop&w=1200&q=80",
+          "publishedAt": "Nov 16, 2026"
+        },
+        {
+          "title": "Silicon Valley startup showcases humanoid robot with human neurons",
+          "summary": "Silicon Valley startup showcases humanoid robot with human neurons TechTarget",
+          "category": "robotics",
+          "source": "TechTarget",
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOMmctanpzd1hWemx1a19pQzRkOG8xZ3FQclVyUG1rRy1UMmI1ODM5WUhaRGltQXMtZzAzZHI3VjZwTzZJQmRqekxIem41cWgtMkU5Zmh3SU1vNTFKY0dpSlBRejhFYzNqWGdsbFRIejRRbGR1ZC1BQ2VwWEpQdlNsY2s3QUwxazk1bUdNbkQ4cjZyOFkxbHR1amQ4d3o1cGdobExyR1ZyZFpWUQ?oc=5",
+          "image": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?auto=format&fit=crop&w=1200&q=80",
+          "publishedAt": "Nov 16, 2026"
+        },
+        {
+          "title": "Artificial Intelligence Enhances Biochar Modeling for Remediating Acidic Agricultural Soils Worldwide",
+          "summary": "Artificial Intelligence Enhances Biochar Modeling for Remediating Acidic Agricultural Soils Worldwide Bioengineer.org",
+          "category": "ai",
+          "source": "Bioengineer.org",
+          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPT0ZsZWJtbmtfSFJQZWhxWEJKYktUT3ctMF9sckpKbjJZX1N2WmpEZGIyOTNBLWh6b1dMcGxEMGNWaWtqbzdoVE9HcG1XM1kxUVRZQ0hUOGFqdnFmTUdTNFpFMjJwZVZqZTIxcjVZYkxza04yR1Naa3ZnUlhiQVg3N21wTVlZMDdGTWFGRFZvYzVrN1lnb2xNSFR0NGZFMkpVUlUySHdiYjNYOVpsYXprODAteExCS09BbWRtMmtGNTBZcnpV?oc=5",
+          "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80",
+          "publishedAt": "Nov 16, 2026"
+        },
+        {
+          "title": "DNS-OARC 47 Highlights Rising Query Volumes and Post-Quantum DNSSEC Challenges",
+          "summary": "DNS-OARC 47 Highlights Rising Query Volumes and Post-Quantum DNSSEC Challenges CircleID",
+          "category": "frontier",
+          "source": "CircleID",
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQZlFNTXYzSjhYQVFXcm9DdzBFOTkzUzNVbmtaVUdkbzVYNjkxc0M4b3ozMVFhb21SanB6b0lyaHZEb1A3U0Rtd2lxbzgxaVVKZWFCbkVVVXhrelE2cjRmNVl6M3ZETGNtZ3Y2SGxvMUtMUTlOTVZ4blh2WU1CWXRHY0E5M2ctQTVRTFU1WTdmWGJkdjNPWE1fa1h2bU9yTmt5ZExWRzdMRVk?oc=5",
+          "image": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?auto=format&fit=crop&w=1200&q=80",
+          "publishedAt": "Nov 16, 2026"
+        }
+      ]
+    },
     {
       "date": "2026-11-15",
       "stories": [
