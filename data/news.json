@@ -1,6 +1,56 @@
 {
-  "lastUpdated": "2026-11-16T19:57:46.780Z",
+  "lastUpdated": "2026-11-17T18:54:35.012Z",
   "days": [
+    {
+      "date": "2026-11-17",
+      "stories": [
+        {
+          "title": "Advocacy groups sue five AI companies, seek halt to new AI model development",
+          "summary": "Advocacy groups sue five AI companies, seek halt to new AI model development Canadian Lawyer",
+          "category": "ai",
+          "source": "Canadian Lawyer",
+          "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNakFuQ01WUG9pdjhGRHJHUG9PWlczRXVUanZVMC1US0pUYWFLTnp1dFRNd055WVRvaWUyOHIzRk10dzZpdTdvcFhwMXhCMk5oYjJYR24yX0xCLWhvRHppUnV3S0hWMF9VSzlpbE5EY09Rc0p2TlhZanFweURvSVczbFNmSTJIeU80djZ4VUVhMDI1VUFXeURzYTdyU25qX1VVMDlPSl9MazJMb0t2UERidFdTR0IwWTdDa1pEODJVOWlydFh3RHR5UUtWMGNxeG50?oc=5",
+          "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80",
+          "publishedAt": "Nov 17, 2026"
+        },
+        {
+          "title": "CNS drug discovery: How AI-powered EEG profiling can sharpen go/no-go decisions",
+          "summary": "CNS drug discovery: How AI-powered EEG profiling can sharpen go/no-go decisions Labiotech.eu",
+          "category": "biotech",
+          "source": "Labiotech.eu",
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1LSHgtVHI1b2JpV2FQS3ZZelBPcXJpWGZnZ1hDbV9rX25XWmxud2h6Vko3QUxPV2VmZnl1elJOUjIxdUxBM0d1UkpEY01USjNaQ1NyZXJEazdpdmgtMzJ4THoyWkVDR0tHWTU4?oc=5",
+          "image": "https://images.unsplash.com/photo-1530026405186-ed1f139313f8?auto=format&fit=crop&w=1200&q=80",
+          "publishedAt": "Nov 17, 2026"
+        },
+        {
+          "title": "NC State’s Four-Foot Humanoid Robot Built to Collect Floor Eggs",
+          "summary": "NC State’s Four-Foot Humanoid Robot Built to Collect Floor Eggs Gadget Review",
+          "category": "robotics",
+          "source": "Gadget Review",
+          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQQU9fcU9zRzdwczE0QUdLeUQxYkhlREl5Y21PWlVsb2pMc1NGM09FTXFaYXFYTlJkMGZVeFY4QmxNSWFwRVduT09WdGVPUXFjbW85MWpsaU8wSWFqY2tGVGRvbTE3ZmxBbGVfMzVYclVtY2l0aTFDQUlCbEg3SzVyMHNjeG5WRHB5VU9sN0JIRk1KZ1MxeGc?oc=5",
+          "image": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?auto=format&fit=crop&w=1200&q=80",
+          "publishedAt": "Nov 17, 2026"
+        },
+        {
+          "title": "NVIDIA Expands Slurm to Bring Quantum Computing into Supercomputing",
+          "summary": "NVIDIA Expands Slurm to Bring Quantum Computing into Supercomputing HPCwire",
+          "category": "frontier",
+          "source": "HPCwire",
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOWUhhMHFHOFVQRkxtZ25qdEVPeWNqaDlFdWdJZkJQTEs4SWkxemtzZVNCV1ZsQnVrOWNWR2JKN0VnaFZOSmRUM2RjOG5GQ0h4LTVwQ3Y1aFpLMmpQS2JraF8tMzBPdDdEUmxJTUlCT2gtd2NqSFlKR2kzUnRQQS1WQTV4Y1U0VTlpSXY2N200TTRuc1Q4QklMczJZZ0lhV0ZUWWx4UERkeno?oc=5",
+          "image": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?auto=format&fit=crop&w=1200&q=80",
+          "publishedAt": "Nov 17, 2026"
+        },
+        {
+          "title": "Measure Bitcoin’s Quantum Exposure: 12 Steps, 90 Min [2026]",
+          "summary": "Measure Bitcoin’s Quantum Exposure: 12 Steps, 90 Min [2026] shattered.io",
+          "category": "frontier",
+          "source": "shattered.io",
+          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNbjRpWHlab0pmdkNseHNobTdjQ0hONkNwakwxblBrRUlEVGxEZVREWkpCbkFNNHZPcEM4Qkl5eWVXdUVGN1VLZHp6Mm03dk14U0pIUGpBNVZ1bVFqcGViek8xZDRlb3ZSNmdsWDl1d1kwUjQyMUdaMkdBM0xWVm5pUA?oc=5",
+          "image": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?auto=format&fit=crop&w=1200&q=80",
+          "publishedAt": "Nov 17, 2026"
+        }
+      ]
+    },
     {
       "date": "2026-11-16",
       "stories": [
