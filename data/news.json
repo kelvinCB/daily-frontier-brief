@@ -1,6 +1,56 @@
 {
-  "lastUpdated": "2026-11-17T18:54:35.012Z",
+  "lastUpdated": "2026-11-18T18:35:23.390Z",
   "days": [
+    {
+      "date": "2026-11-18",
+      "stories": [
+        {
+          "title": "NYC, LA and Chicago School Districts Weigh Breaking Up With Google Search Over A.I.",
+          "summary": "NYC, LA and Chicago School Districts Weigh Breaking Up With Google Search Over A.I. The New York Times",
+          "category": "ai",
+          "source": "The New York Times",
+          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNaFZTcW1oQlltWWRFUy1hUzY4ODVqZXFKcl9McGNhUDZqam90WE9YQ3RqclV1czZJOVdKZURXeUxpTkRVM2FONklyQ2ZiS215WTBLTE14RFVZOWY1cnZUQTR5cDVNRlJ3bTVrWkJ5aGdxMG83NURiTjk1V0NLclhVM1NFcWctSVA0bUhad2dMYjg0czFSTk1KVUQyZXZTUQ?oc=5",
+          "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80",
+          "publishedAt": "Nov 18, 2026"
+        },
+        {
+          "title": "Celosia Therapeutics Secures A$2 Million NSW Grant for Motor Neurone Disease Gene Therapy",
+          "summary": "Celosia Therapeutics Secures A$2 Million NSW Grant for Motor Neurone Disease Gene Therapy BioPharma APAC",
+          "category": "biotech",
+          "source": "BioPharma APAC",
+          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQMDNFeHdFeDBaX2g5UUliSVNhMV9nTjJ1V0UtZFIxdzNGODllWEJBaDkzOWJSTEJiaVJWa1ZOSHVGckpTY0FsX3VhSGJ0d1BWRzl2MzFZOF9IbGlhR2FxbVYwX0R1THAwcFJqV2d0aTdYNFU5bmdIbUt5VFZJcUR1S3VZM0dFYUhidEFfSVR3bTdFYVpQVzhYNW1CenYySkZFcm80TWNYODVIeGRtaTZzeFF3LW1hemVIaHMwQndMYVRxX29pNzgtcTY1eWNVdw?oc=5",
+          "image": "https://images.unsplash.com/photo-1530026405186-ed1f139313f8?auto=format&fit=crop&w=1200&q=80",
+          "publishedAt": "Nov 18, 2026"
+        },
+        {
+          "title": "Remedy Robotics raises $62M; Capstan’s mitral replacement robot progresses",
+          "summary": "Remedy Robotics raises $62M; Capstan’s mitral replacement robot progresses MedTech Dive",
+          "category": "robotics",
+          "source": "MedTech Dive",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPbkNWeFJxekVaXzlXSkxJUDIxYUVINHg1YTJldVowbEc3T0FFaEtkS0ZfNVB6cElOeXdBeVhYV0NidFJ6MWphdEtsVHllVlRHbHN0VlFHWTY5dzdqV2hjT1JqbXJVN19RM0t3UDFBdDZDMlFfNGtVLVdob2Y0ZnFNem5XdGZzelZmTXlCOFpyRnVTcUpfT3UzMkUtTDJPT054Y1ZpaTJFN0JYcGo3bzFDcGJR?oc=5",
+          "image": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?auto=format&fit=crop&w=1200&q=80",
+          "publishedAt": "Nov 18, 2026"
+        },
+        {
+          "title": "Scientists Use AI-Designed CRISPR to Make Disease-Resistant Rice",
+          "summary": "Scientists Use AI-Designed CRISPR to Make Disease-Resistant Rice SingularityHub",
+          "category": "biotech",
+          "source": "SingularityHub",
+          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOOTBpU3BFcF9Zb1N1c0NpWEN1bHZpMHQ4OUNkMTJQV1BXS2VuT3N5NzRRMEtXdmVDb3lxdkhIVndMSGY1V1hBQ1dZdUJFX0luUXpXSHVPS0FXVWI2cjhWSWdZU0x5Wkl6OS0yTk9hU0VTaVVIYk1yNUtNUlJCc01EQUJXbGNZV2Vvd0ZfaUw3MV9BdkdwT01vTWhaTWRZd0daM0E1eVdR?oc=5",
+          "image": "https://images.unsplash.com/photo-1530026405186-ed1f139313f8?auto=format&fit=crop&w=1200&q=80",
+          "publishedAt": "Nov 18, 2026"
+        },
+        {
+          "title": "Scrappy CRISPR Diagnostics Developers Keep Commercialization in Sight, With Reset Expectations",
+          "summary": "Scrappy CRISPR Diagnostics Developers Keep Commercialization in Sight, With Reset Expectations GenomeWeb",
+          "category": "biotech",
+          "source": "GenomeWeb",
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNaUctQUNkLUs4T2R6R0FOOV9VdW9kUWROTVBLQ1VBZGIwekJ6dkUtdkZlcTU2YjRZd0JwTUZ2NWxRNmc0VkxCcVlpd0VoVGswaC05eFhYYUtZdWJkVGRqM19iRU51Yl9wZFEwcmRaT21wcmV2cHktOHdpVkMwODBQVmFPNWY4UXlZRnJoMTN0aHlnRmdZTy1OVkhIajFzZW8zVE0xdC00bEFpdzV3?oc=5",
+          "image": "https://images.unsplash.com/photo-1530026405186-ed1f139313f8?auto=format&fit=crop&w=1200&q=80",
+          "publishedAt": "Nov 18, 2026"
+        }
+      ]
+    },
     {
       "date": "2026-11-17",
       "stories": [
