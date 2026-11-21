@@ -1,6 +1,56 @@
 {
-  "lastUpdated": "2026-11-20T18:13:41.343Z",
+  "lastUpdated": "2026-11-21T17:03:13.119Z",
   "days": [
+    {
+      "date": "2026-11-21",
+      "stories": [
+        {
+          "title": "Tested on mushrooms, an AI model shows potential for detecting crop stress with far fewer computations",
+          "summary": "Tested on mushrooms, an AI model shows potential for detecting crop stress with far fewer computations Science X",
+          "category": "ai",
+          "source": "Science X",
+          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQcFV4ZF9QdjAyRlFEVklaUXhWWENFRUplVi1sTm5XX0lxZlB6MW90aTNxMy1HRlpqZ3gwOG54S0J2ZUt4WUEwM2g1WE9xUlJjODV4Skh3MGVWT0xDdk5PYXNoMXBLdUtTSFpraGg4Yk9xc2pCQkFYU1NJYlBJclVCeWp6MNIBgwFBVV95cUxQcFV4ZF9QdjAyRlFEVklaUXhWWENFRUplVi1sTm5XX0lxZlB6MW90aTNxMy1HRlpqZ3gwOG54S0J2ZUt4WUEwM2g1WE9xUlJjODV4Skh3MGVWT0xDdk5PYXNoMXBLdUtTSFpraGg4Yk9xc2pCQkFYU1NJYlBJclVCeWp6MA?oc=5",
+          "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80",
+          "publishedAt": "Nov 21, 2026"
+        },
+        {
+          "title": "CRISPR Switch Helps Sweet Potato Tolerate Salty, Alkaline Soil",
+          "summary": "CRISPR Switch Helps Sweet Potato Tolerate Salty, Alkaline Soil Global Agriculture",
+          "category": "biotech",
+          "source": "Global Agriculture",
+          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQUThsQl8wSFF4R2liMllQeWhsOW1tckxYTE0wX1BLb1hicDVzWjR0UHNrbEVzTmJRUXBNUUJTMG5BZVktYTVXR1ZfZlhIU0JmSF84MTVPVkRSQjF5STlCREdoRVZIQUdiTV84dXBrX1VSaGRBa0p2cDNma3hGYjdxcTRBa3FwTW42Qkc2aEZCZVFBMnRjbnVYdHFYRy1CMExLM0o4X000NGdNeEU5U3BtdXVnWGlJODNUc19R?oc=5",
+          "image": "https://images.unsplash.com/photo-1530026405186-ed1f139313f8?auto=format&fit=crop&w=1200&q=80",
+          "publishedAt": "Nov 21, 2026"
+        },
+        {
+          "title": "Exclusive | Genesis AI, a Robotics Startup, Raises $500 Million",
+          "summary": "Exclusive | Genesis AI, a Robotics Startup, Raises $500 Million WSJ",
+          "category": "robotics",
+          "source": "WSJ",
+          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPTWFFQXhWNzlaWHRMZ2E5dWdTY0pIa2dVci0wa0VETFVvZXRzS2Z3Vm9uenBueTdiNFVpQmxXTHBGUm1IS04tdEJuaTJKY0hoVHhsSWVhOGNFeUcyc09LSlV3aG05bzMycGZDa29JM3hvRFp1bm1UV1ZLblBFdzBMdVdMSzh4Zlk3M1drZm8tNUIyQ00?oc=5",
+          "image": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?auto=format&fit=crop&w=1200&q=80",
+          "publishedAt": "Nov 21, 2026"
+        },
+        {
+          "title": "'World's first' dedicated university for quantum computing to come up at Amaravati; interim campus opens at Guntur",
+          "summary": "'World's first' dedicated university for quantum computing to come up at Amaravati; interim campus opens at Guntur The South First",
+          "category": "frontier",
+          "source": "The South First",
+          "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQa0JKZy1Eb3FWVVo4T3pZUm80TkxBWmMxM1BTbjZVUC11Y19nZ1laUEppZEpRT1NIZDhMZW9tUHZvNEtua3dRcl81c0Fxa2VYUmxhVHFaTGlpM1k1X3JINlZDam0wcGFCMmdNbkpwQTdnMEhDR1VlZ0JwNlRWUWhSLUpWMktxZTRYTkpjYTh4UjU3MThaY24yaGQxZU8zLVNYcXJMU2hRbVNoWUVYT0JFVHd3SzNfOEhjV3l1ZHNjMFdDLVgzWVZTWkhUNmw1WFYzeWE3dThwWWNsWkV0S0FIRkpLTWl3MTFiVGc?oc=5",
+          "image": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?auto=format&fit=crop&w=1200&q=80",
+          "publishedAt": "Nov 21, 2026"
+        },
+        {
+          "title": "Amaravati Gets World’s First Quantum AI University Campus",
+          "summary": "Amaravati Gets World’s First Quantum AI University Campus Deccan Chronicle",
+          "category": "frontier",
+          "source": "Deccan Chronicle",
+          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPMmZybzlLcUFwS2EwNk5qMnEwc2ZTak5FZXFnMVoxZ1hGNWVRbmhfT3FTSWRUUllEc1ozcFNOOE9hRXR6OFRhejg4Q09ydm83Ml9yRGVXbzNXZm1WUzBQeEVOUzFoTlhBaXpMSmk4Q3cweHRtMURydjVHRmhrWmJpdjQtOUNwalVKa0RiajdIYmZDZklxT1RSSkgwU2VXbFY4bDRvcXNtbExTTi1TS2NLNkNMR2p4OGRfZEV5ZlNMTTdZMUhTSVHSAcsBQVVfeXFMUHpBbTNqUU5fYVN4cEVBYzRVMEtRRmc0dHVFV0NtNkZmeTN4M19KRXU4TF9vMUtVbW9kdTlzUmViVi1QS1F2XzVodFJBcWVyVjdod2NkTzNiZktlVE5RbEI3ek9vdUJ3SHJMZDNWenU4Zl95UTlaN1JpbF9Rc0s5dDZnM3EwcHFGazdEdFpiUjZTTE8tZWdTVjUwTjhYamh6YmZiVFI1RVh0Mk8tMGxIc0kyS2JvVm11MGd1bUhXYjhFaHBoY0Ruamk3TG8?oc=5",
+          "image": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?auto=format&fit=crop&w=1200&q=80",
+          "publishedAt": "Nov 21, 2026"
+        }
+      ]
+    },
     {
       "date": "2026-11-20",
       "stories": [
