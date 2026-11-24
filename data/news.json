@@ -1,6 +1,56 @@
 {
-  "lastUpdated": "2026-11-23T21:51:53.956Z",
+  "lastUpdated": "2026-11-24T20:28:08.823Z",
   "days": [
+    {
+      "date": "2026-11-24",
+      "stories": [
+        {
+          "title": "Artificial Intelligence (AI) Since Barbenheimer (or How Resources Make AI a Little Less Scary)",
+          "summary": "Artificial Intelligence (AI) Since Barbenheimer (or How Resources Make AI a Little Less Scary) crea.ca",
+          "category": "ai",
+          "source": "crea.ca",
+          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNRndzZGNrVU1fU2RlVzN4T1pIdkYzYkVpMVYtTi03dGZkVXNRaW43djdVdVQ4amQtOUtiX1ZjZHo5cGtvcjZfYWpjcDNlVlpEYnZQVWZtNndpRmxlSWtNS1NobWpHMTdhdm5Oem9CV2RfMW44Nkg0azJrajhLYkZjcWw5dHBjRGZ1a1daM0h2NldjemZSRGpKeUlJck02WThSWE9sbUF5N1ZDdGdKMVg4MlBoMHotV2c?oc=5",
+          "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80",
+          "publishedAt": "Nov 24, 2026"
+        },
+        {
+          "title": "What it takes for academic scientists to thrive in pharma",
+          "summary": "What it takes for academic scientists to thrive in pharma Drug Discovery News",
+          "category": "biotech",
+          "source": "Drug Discovery News",
+          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQYnEzc0JiWHJhcGViUWZhVEZXTFd2LWZfRGdDOVlraDR4dWtyMHNOWnUzTGJ6WHFvb3FPWU1fNm8xVGJyc0xwZ3lCQjNXVzUtd2owQUJpNWhYRko2cGtoY0lXTTlkWFhvYWtuNlJiR2FUTEhHNzVUS19QZ0p3UjhQb1dSWWtvOUt6Wm1lYVFUV1R5cWQ5LTEwOG8tRldXdw?oc=5",
+          "image": "https://images.unsplash.com/photo-1530026405186-ed1f139313f8?auto=format&fit=crop&w=1200&q=80",
+          "publishedAt": "Nov 24, 2026"
+        },
+        {
+          "title": "Precision Joint Actuators for the Next Generation of Humanoid and Quadruped Robots",
+          "summary": "Precision Joint Actuators for the Next Generation of Humanoid and Quadruped Robots openPR.com",
+          "category": "robotics",
+          "source": "openPR.com",
+          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOVmhKLVhQYVN1YjA1dFgwS3czSEp6WGNxVmVCVllMUjZUTjMyeTdib0lLcDk3UFRzNmY5TjVZLUtnb1N6dHVvOUdLZFZVRUt4cHlrZFZxWWppV05FTldnQUJoMEtCYm1LLUQ5OFNCZl9IS2w2YTQ2b1c2MF9FWW5DT2RyVmZNQjVndFdMRzJXS1ZSQl8xRHJ4elgtNG1fUQ?oc=5",
+          "image": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?auto=format&fit=crop&w=1200&q=80",
+          "publishedAt": "Nov 24, 2026"
+        },
+        {
+          "title": "D-Wave Is Down 42% in a Month. What Will It Take to Get QBTS Stock Back to $10?",
+          "summary": "D-Wave Is Down 42% in a Month. What Will It Take to Get QBTS Stock Back to $10? 24/7 Wall St.",
+          "category": "frontier",
+          "source": "24/7 Wall St.",
+          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQdWs2c1JHd29BZFlmVjFaWXRPZHkyUW9GaC01QzRCVjJkTGQ2a2M2ejV0VUdtRzVpejJpYmV6c21ORFB1bVF3QW85by1CYTBuQnRUUFYwRjM3SVBkRXU5dkNudktQUHRyX0U3YVdqam0xMG5ES0s1LUFSYm5mcHVNUHdEbzQxaVNNeU12TUMyeXlHN1pIbVFjZEFZd0ZUUGx2b2FSbE1Fc1h0SEZHeDZ0ZURHZmxGZkh3MC1R?oc=5",
+          "image": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?auto=format&fit=crop&w=1200&q=80",
+          "publishedAt": "Nov 24, 2026"
+        },
+        {
+          "title": "D-Wave Quantum, Jabil, Coherent, Dell, and IonQ stocks trade down, what you need to know",
+          "summary": "D-Wave Quantum, Jabil, Coherent, Dell, and IonQ stocks trade down, what you need to know TradingView",
+          "category": "frontier",
+          "source": "TradingView",
+          "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQSjZVNzR5aV9WZTBEYTBYM0hkM1ZlOWstQnRIN29kMDdUcFMxV0VKWDRNb0puWXplZ2FlNlE4QWhpQzVOb1NKQkViUF9oemhBZGhOZmZ0SndmaUlEdFBvaFhRUGZqQ050cG5xVGZQLUtCSkg3bnZUN3VNOXJyNUxLZlNrQS1aR3ZhZGh6LUtsSG1jQkdNVkZ3YWIwQ1A4Xzhnd0xMOUtuQURvdmJBRmNfVjUxRWR6azd0bXczcTg1ZExhNEJFb0FrQXZBTzRQd21BTDVVZGRWYkpfOG0w?oc=5",
+          "image": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?auto=format&fit=crop&w=1200&q=80",
+          "publishedAt": "Nov 24, 2026"
+        }
+      ]
+    },
     {
       "date": "2026-11-23",
       "stories": [
