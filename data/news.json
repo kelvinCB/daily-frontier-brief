@@ -1,6 +1,56 @@
 {
-  "lastUpdated": "2026-11-25T19:42:36.114Z",
+  "lastUpdated": "2026-11-26T19:23:03.889Z",
   "days": [
+    {
+      "date": "2026-11-26",
+      "stories": [
+        {
+          "title": "Ubisoft denies requiring developers to use generative AI",
+          "summary": "Ubisoft denies requiring developers to use generative AI Video Games Chronicle",
+          "category": "ai",
+          "source": "Video Games Chronicle",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPdGUtN1VKNFdPakVCaFdQYnRlV2RQUEM3T1c5d2xXMVNiT253bFViWkpnbGFwa0praHQ1b3pIb0h2MHF1NlhLN1FjVnZlOVExWWZwa29JNXVIb1Faem1GcFlyekY2VVViblJmX1lRX2MyVklfaExraUVwUklkSHIzUktUa2NhTE9vMFppa09QZ0JBUUlLeGczS3l6WGNBb2s?oc=5",
+          "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80",
+          "publishedAt": "Nov 26, 2026"
+        },
+        {
+          "title": "Tinubu reaffirms commitment to responsible biotechnology, innovation",
+          "summary": "Tinubu reaffirms commitment to responsible biotechnology, innovation NewsDiaryOnline",
+          "category": "biotech",
+          "source": "NewsDiaryOnline",
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOR2hMTG9hb09WYm1BdURYS2NFTnpHWHZzcWdfcFA3M1dFQk53MHQtNm45TFBNblFvbHUwdTdfaC1VejhpN0FKTmJWS01LVDRtVW8tQXJhbHpHeEhEcTJvVG5jLUFPeHVoN3ltaDlRN2RhSmViSVlySTByeXMtZER5RlNnZk14U3ZicnlQbjhnV2VjZXZMeGJBUVhTTVg?oc=5",
+          "image": "https://images.unsplash.com/photo-1530026405186-ed1f139313f8?auto=format&fit=crop&w=1200&q=80",
+          "publishedAt": "Nov 26, 2026"
+        },
+        {
+          "title": "OpenAI Beats Google, Anthropic in Humanoid Robot Benchmark",
+          "summary": "OpenAI Beats Google, Anthropic in Humanoid Robot Benchmark eWeek",
+          "category": "robotics",
+          "source": "eWeek",
+          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOQ3A0d1hBcmh6d00yWTdpaVlyQjA3ZzlyQWJuOUhBdzk4cGMyWEV2VXBtWXpXZm1WSUJZd2FsMTNRVVVXYUVUQXQtcGotbXl3SlFWdU82Q1RJMlBfN3dwcGtURE9ianNwMUstOU0yOEc4YmpEWm90SjlyRzF6RHZab0lR?oc=5",
+          "image": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?auto=format&fit=crop&w=1200&q=80",
+          "publishedAt": "Nov 26, 2026"
+        },
+        {
+          "title": "Ethereum core devs push hash-based signatures to counter future quantum and AI threats",
+          "summary": "Ethereum core devs push hash-based signatures to counter future quantum and AI threats Crypto Briefing",
+          "category": "frontier",
+          "source": "Crypto Briefing",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBZYkVCc1M0d1M0SlJjZ3F2Q3BPcGVDYVRyWnE0M19TVVdGeTJIeHByRFljUzBYNm05VFNXMHFPQzNFQ3ZxT1hxRmpJNmlKclh1c1ZkMVVzZllkeE1EVWlHM3d4NjdSNkF0OEgyZXhWeGNwaHJPd0llcQ?oc=5",
+          "image": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?auto=format&fit=crop&w=1200&q=80",
+          "publishedAt": "Nov 26, 2026"
+        },
+        {
+          "title": "China's Xpeng wants to put an eerily friendly humanoid robot in your home for the same price as an affordable EV",
+          "summary": "China's Xpeng wants to put an eerily friendly humanoid robot in your home for the same price as an affordable EV Digital Trends",
+          "category": "robotics",
+          "source": "Digital Trends",
+          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPRjF2VGo2ZHBPbU43Z2hhbTBtcGxDTXdSd09kTHJSeUR2RUFNdGU3Z0FweUdIZVY2bmNkOGRlOTB6ajZxd0dBSk9TWUVBUjI1Wm1idndYb0p6dGlORFliNW53YXdYQVltdGxkN2tsbkRSaGFlT2VFTV9abGtyT3FkWkJZb25WbFU?oc=5",
+          "image": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?auto=format&fit=crop&w=1200&q=80",
+          "publishedAt": "Nov 26, 2026"
+        }
+      ]
+    },
     {
       "date": "2026-11-25",
       "stories": [
